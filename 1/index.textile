@@ -51,7 +51,8 @@ h2. ポジションペーパーについて
 
 サンプル（と言っても本物ですが）を用意しましたので参考にしてください。
 
- * "wtnabe's position paper for kanazawa.rb — Gist":https://gist.github.com/3176363
+* "Kanazawa.rb pocotan001 — Gist":https://gist.github.com/31ed5ed489c107c3080e
+* "wtnabe's position paper for kanazawa.rb — Gist":https://gist.github.com/3176363
  * "Kanazawa.rb ポジションペーパー — Gist":https://gist.github.com/c030f92624fd35a32ccc ( @libero )
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
