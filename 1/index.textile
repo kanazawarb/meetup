@@ -42,6 +42,13 @@ h2. ざっくりタイムテーブル
 |15:30 〜 16:50  |もくもくしたりダベったり|みんな|
 |16:50 〜 17:00  |片付け＆撤収            |みんな|
 
+発表者のポジションペーパーはこんな感じです。
+
+ * "wtnabe's position paper for kanazawa.rb — Gist":https://gist.github.com/3176363
+ * "Kanazawa.rb pocotan001 — Gist":https://gist.github.com/31ed5ed489c107c3080e
+ * "Kanazawa.rb ポジションペーパー Gist":https://gist.github.com/59179d14e515bcfdfa75 ( @kabakiyo )
+ * "Kanazawa.rb mitukiii — Gist":https://gist.github.com/f5aed1a1244a9bc82c5b
+
 h2. ポジションペーパーについて
 
 当日は初めて会う人もたくさんいると思います。
@@ -50,19 +57,23 @@ h2. ポジションペーパーについて
 
 当日のディスカッションや次回以降のネタを考える弾みになりますので、できるだけ事前に作成しておいてもらえると嬉しいです。どのような形で作ってもらっても結構ですが、permalink があるとお互いに便利だと思います。
 
-サンプル（と言っても本物ですが）を用意しましたので参考にしてください。
-
-* "Kanazawa.rb pocotan001 — Gist":https://gist.github.com/31ed5ed489c107c3080e
-* "wtnabe's position paper for kanazawa.rb — Gist":https://gist.github.com/3176363
-* "Kanazawa.rb ポジションペーパー — Gist":https://gist.github.com/c030f92624fd35a32ccc ( @libero )
-* "Kanazawa.rb mitukiii — Gist":https://gist.github.com/f5aed1a1244a9bc82c5b
-* "Kanazawa.rb t32k — Gist":https://gist.github.com/68bc35ff5b094cc74f41
+h3. テンプレート
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
  * "Kanazawa.rb ポジションペーパー テンプレート — Gist":https://gist.github.com/5a523ec3180002229a32
 
 *もちろん gist でなくても大丈夫です。* twitter の bio よりちょっと詳しい程度の情報があればだいぶイメージしやすいんじゃないかと思います。
+
+h3. 参加者(?)のポジションペーパー
+
+* "Kanazawa.rb ポジションペーパー — Gist":https://gist.github.com/c030f92624fd35a32ccc ( @libero )
+* "Kanazawa.rb ポジションペーパー (izawa) &mdash; Gist":https://gist.github.com/a74c7472a3d745ad6460
+* "Kanazawa.rb kiyohara &mdash; Gist":https://gist.github.com/2d030661c9115813dc1f
+* "Kanazawa.rb shirokuro331 &mdash; Gist":https://gist.github.com/21f74f9a83e626f0fcbb
+* "Kanazawa.rb ポジションペーパー &mdash; Gist":https://gist.github.com/84e50189a8e643b4cb96 ( @cotton_desu )
+* "Kanazawa.rb kitakのポジションペーパー &mdash; Gist":https://gist.github.com/1ff61592bf93bbbc9849
+* "Kanazawa.rb t32k — Gist":https://gist.github.com/68bc35ff5b094cc74f41
 
 h2. 補足
 
