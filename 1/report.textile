@@ -16,7 +16,7 @@ h2. やったこと
 * ロゴ発表 ( "@pocotan001":https://twitter.com/pocotan001 )
 * "テキストフォーマッタで学ぶRubyとGemの基礎":https://speakerdeck.com/u/wtnabe/p/beginning-ruby-with-markdown-and-more ( "@wtnabe":https://twitter.com/wtnabe )
 * SinatraとDataMapperで作る「Windows Phone Apps」 ( "@kabakiyo":https://twitter.com/kabakiyo )
-* "オレのRuby環境を見ろ〜バリバリ〜":https://speakerdeck.com/u/mitukiii/p/orefalse-ruby-huan-jing-wojian-ro-~-baribari~ ( "@mitukiii":https://twitter.com/mitukiii )
+* <a href="https://speakerdeck.com/u/mitukiii/p/orefalse-ruby-huan-jing-wojian-ro-~-baribari~">オレのRuby環境を見ろ〜バリバリ〜</a> ( "@mitukiii":https://twitter.com/mitukiii )
 * "Playing With JAX":https://speakerdeck.com/u/izawa/p/playing-with-jax ( "@Yukimitsu_Izawa":https://twitter.com/Yukimitsu_Izawa )
 
 もくもくっていうかわいわい。
