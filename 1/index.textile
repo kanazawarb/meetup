@@ -73,6 +73,15 @@ h3. 参加者(?)のポジションペーパー
 * "Kanazawa.rb shirokuro331 &mdash; Gist":https://gist.github.com/21f74f9a83e626f0fcbb
 * "Kanazawa.rb ポジションペーパー &mdash; Gist":https://gist.github.com/84e50189a8e643b4cb96 ( @cotton_desu )
 * "Kanazawa.rb kitakのポジションペーパー &mdash; Gist":https://gist.github.com/1ff61592bf93bbbc9849
+* "Kanazawa.rb toshi3221 — Gist":https://gist.github.com/1382e3e18cfab7c16b91
+* "Kanazawa.rb ポジションペーパー (@masayan_kazu) — Gist":https://gist.github.com/ec47281fffbb9268dad4
+* "Kanazawa.rb aizawa1126 — Gist":https://gist.github.com/3377956
+* "Kanazawa.rb pobo380 ポジションペーパー — Gist":https://gist.github.com/8d97884bcf53815036d7
+* "Kanazawa.rb Hitoshi Kurokawa — Gist":https://gist.github.com/a3d6c7088ef8f4d7a314
+* "Kanazawa.rb takebayashi — Gist":https://gist.github.com/817f5c5f81d5e4d0353a
+* "Kanazawa.rb ポジションペーパー  — Gist":https://gist.github.com/7b84a5da318e80d7bdbf ( @miyakawa2449 )
+* "Kanazawa.rb PharaohKJ — Gist":https://gist.github.com/216f1e420cdd317651c1
+* "Kanazawa.rb ポジションペーパー — Gist":https://gist.github.com/9a898208ebc54320673e ( @asaijo )
 * "Kanazawa.rb t32k — Gist":https://gist.github.com/68bc35ff5b094cc74f41
 
 h2. 補足
