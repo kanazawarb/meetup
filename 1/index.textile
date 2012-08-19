@@ -5,6 +5,8 @@ title: "#1"
 
 ---
 
+p>. <a href="./report.html">-&gt; report</a>
+
 h1. kanazawa.rbってなに
 
 金沢市および周辺地域在住あるいはRubyやビールに興味のあるすべての人を対象にした小さな地域Rubyコミュニティです。
