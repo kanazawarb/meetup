@@ -7,7 +7,7 @@ title: "#2"
 
 h1. meetup #2
 
-p(welcome). → お申し込みはもうちょっと待って下さい ←
+p(welcome). "お申込みはこちらから":http://kzrb.doorkeeper.jp/events/1642
 
 |_.日時 |9/22(土) 13:30 〜 17:00                         |
 |_.会場 |ITビジネスプラザ武蔵 研修室3<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>|
