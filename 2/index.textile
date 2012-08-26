@@ -7,6 +7,8 @@ title: "#2"
 
 h1. meetup #2
 
+p(subtitle). 〜 micro frameworkを肴にダラダラぐびぐびするべ 〜
+
 p(welcome). "お申込みはこちらから":http://kzrb.doorkeeper.jp/events/1642
 
 |_.日時 |9/22(土) 13:30 〜 17:00                         |
@@ -19,7 +21,9 @@ h2. ざっくりタイムテーブル
 
 |_.時間             |_.内容                  |_.人  |
 |13:30 〜 13:45     |前説と自己紹介          |みんな|
-|13:50 〜 1時間ほど |Sinatra系のネタ x 3     |調整中|
+|13:50 〜 14:05     |Sinatra ( Ruby )        |"@kiyohara":https://twitter.com/kiyohara|
+|14:15 〜 14:30     |Mojolicious ( Perl )    |"@taiju":https://twitter.com/taiju|
+|14:40 〜 14:55     |Express ( JavaScript )  |"@kitak":https://twitter.com/kitak|
 |15:00 〜 16:50     |もくもくしたりダベったり|みんな|
 |16:50 〜 17:00     |片付け＆撤収            |みんな|
 
