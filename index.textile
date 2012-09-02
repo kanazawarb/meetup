@@ -44,6 +44,6 @@ gist用のテンプレートも用意しました。forkして書き換えるだ
 
 h2. イメージ
 
-!/images/pic_01.jpg!
-!/images/pic_02.jpg!
-!/images/pic_03.jpg!
+!./images/pic_01.jpg!
+!./images/pic_02.jpg!
+!./images/pic_03.jpg!
