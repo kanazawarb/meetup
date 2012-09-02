@@ -41,3 +41,9 @@ gist用のテンプレートも用意しました。forkして書き換えるだ
  * "Kanazawa.rb ポジションペーパー テンプレート — Gist":https://gist.github.com/5a523ec3180002229a32
 
 *もちろん gist でなくても大丈夫です。* twitter の bio よりちょっと詳しい程度の情報があればだいぶイメージしやすいんじゃないかと思います。
+
+h2. イメージ
+
+!/images/pic_01.jpg!
+!/images/pic_02.jpg!
+!/images/pic_03.jpg!
