@@ -5,6 +5,8 @@ title: "#2"
 
 ---
 
+p>. <a href="./report.html">-&gt; report</a>
+
 h1. meetup #2
 
 p(subtitle). 〜 micro frameworkを肴にダラダラぐびぐびするべ 〜
