@@ -7,7 +7,9 @@ title: "#6"
 
 h1. meetup #6
 
-p. 冬の金沢クラウド祭り!!
+p. 冬の金沢クラウド祭り!! ポロリもあるよ!!
+
+今回はなんとクラウドをテーマにしたセミナー形式です！ クラウドそのものの解説、アプリ作って公開してみる話からRubyによるPaaSの作り方まで、 *中の人も登壇します！*
 
 |_.日時 |2/16(土) 13:00 〜 17:00                         |
 |_.会場 |ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>|
@@ -17,12 +19,6 @@ p. 冬の金沢クラウド祭り!!
 
 h2. ざっくりタイムテーブル
 
-今回はなんとクラウドをテーマにしたセミナー形式です！ クラウドって？ おいしいの？ あー使ってる使ってる。
-
-うん、みんなおいで。
-
-今回はクラウドそのものの解説、アプリ作って公開してみる話からPaaSの作り方まで！ 入門から裏側まで全部やります！！１
-
 |_.時間             |_.内容                     |_.人            |
 |13:00              |開場                       |                |
 |13:10 〜 13:15     |Intro                      |                |
@@ -30,9 +26,36 @@ h2. ざっくりタイムテーブル
 |                   |Sqaleにアプリをデプったよー(仮)|"@kitak":https://twitter.com/kitak                    |
 |                   |                           |                |
 |                   |MOGOKはこう使え！(仮)      |"@kiyohara":https://twitter.com/kiyohara       |
-|                   |MOGOKの作り方(仮)          |"@hirolovesbeer":https://twitter.com/hirolovesbeer  |
+|                   |Inside MOGOK               |"@hirolovesbeer":https://twitter.com/hirolovesbeer  |
 
-h3. 参考
+Inside MOGOK 以外はおいおい決まっていきます！w
+
+h2. セッション概要 〜 Inside MOGOK 〜
+
+MOGOKはIIJで開発されたPaaSです。MOGOKの内部はほぼRubyの実装で作られています。ユーザがMOGOKにアプリケーションをデプロイしたあとに、どのような仕組みでアプリケーションが外部へと公開されるのかを、内部の構造の観点でご紹介したいと思います。
+
+また、PaaSを運用する苦労話もお話できたらなと思います。
+
+キーワード :
+    Ruby on Rails, MySQL, bundler, LXC, Nginx, fluentd, MessagePack-RPC, IIJ GIO
+
+h2. ゲストプロフィール
+
+!>./hirolovesbeer.jpg(hirolovesbeer)!
+
+*阿部博（あべひろし）*
+
+株式会社インターネットイニシアティブ（ "http://www.iij.ad.jp":http://www.iij.ad.jp ）
+
+大学では英米文化学科に所属、卒業後にソフトウェアベンダー 、農家を経て北陸先端科学技術大学院大学へ。2003年に北陸先端科学技術大学院大学を修了後、株式会社インターネットイニシアティブへ入社。
+
+入社後から数年間、セキュリティサービスの大規模ログ解析システムの開発運用を行い、分散処理システムでのログ解析システム等にも関わる。
+
+2009年頃よりIIJのクラウドサービスであるIIJ GIOのシステム開発に携わり、現在はIIJで開発するPaaS、MOGOKの開発リーダーを務める。
+
+ * Twitter : "http://twitter.com/hirolovesbeer":http://twitter.com/hirolovesbeer
+
+h2. 参考
 
 * "Sqale - 開発者のためのホスティングサービス【スケール】 Ruby on Rails 対応。":http://sqale.jp/
 * "MOGOK":http://mogok.jp/
