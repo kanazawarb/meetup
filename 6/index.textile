@@ -26,11 +26,11 @@ h2. ざっくりタイムテーブル
 |                   |Sqaleにアプリをデプったよー(仮)|"@kitak":https://twitter.com/kitak                    |
 |                   |                           |                |
 |                   |MOGOKはこう使え！(仮)      |"@kiyohara":https://twitter.com/kiyohara       |
-|                   |Inside MOGOK               |"@hirolovesbeer":https://twitter.com/hirolovesbeer  |
+|                   |Inside of MOGOK            |"@hirolovesbeer":https://twitter.com/hirolovesbeer  |
 
-Inside MOGOK 以外はおいおい決まっていきます！w
+Inside of MOGOK 以外はおいおい決まっていきます！w
 
-h2. セッション概要 〜 Inside MOGOK 〜
+h2. セッション概要 〜 Inside of MOGOK 〜
 
 MOGOKはIIJで開発されたPaaSです。MOGOKの内部はほぼRubyの実装で作られています。ユーザがMOGOKにアプリケーションをデプロイしたあとに、どのような仕組みでアプリケーションが外部へと公開されるのかを、内部の構造の観点でご紹介したいと思います。
 
