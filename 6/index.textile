@@ -5,11 +5,18 @@ title: "#6"
 
 ---
 
+<div class="doorkeeper-widget">
+<a href="http://kzrb.doorkeeper.jp/events/2606" class="doorkeeper-registration-widget">meetup #6</a>
+<script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript"></script>
+</div>
+
 h1. meetup #6
 
 p. 冬の金沢クラウド祭り!! ポロリもあるよ!!
 
-今回はなんとクラウドをテーマにしたセミナー形式です！ クラウドそのものの解説、アプリ作って公開してみる話からRubyによるPaaSの作り方まで、 *中の人も登壇します！*
+今回はなんとクラウドをテーマにしたセミナー形式です！ クラウドそのものの解説、アプリ作って公開してみる話からRubyによるPaaSの作り方まで。
+
+*中の人も登壇します！*
 
 |_.日時 |2/16(土) 13:00 〜 17:00                         |
 |_.会場 |ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>|
