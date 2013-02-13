@@ -34,8 +34,8 @@ h2. ざっくりタイムテーブル
 |13:50 〜 14:10     |Sqaleにアプリをデプったよー|"@kitak":https://twitter.com/kitak                    |
 |14:10 〜 14:30     |休憩                       |                |
 |14:30 〜 14:45     |MOGOKはこう使え！          |"@kiyohara":https://twitter.com/kiyohara       |
-|14:45 〜 15:25     |Inside of MOGOK            |"@hirolovesbeer":https://twitter.com/hirolovesbeer  |
-|15:25 〜 16:30     |ぽろりたいむ               |みんな          |
+|14:45 〜 15:45     |Inside of MOGOK            |"@hirolovesbeer":https://twitter.com/hirolovesbeer  |
+|15:45 〜 16:30     |ぽろりたいむ               |みんな          |
 |16:30 〜 16:50     |今日の成果発表（あれば）   |みんな          |
 |16:55 〜           |撤収                       |                |
 
