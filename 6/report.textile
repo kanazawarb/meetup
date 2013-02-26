@@ -48,6 +48,7 @@ h2. ブログ
 "Kanazawa.rb Meetup #6 に参加して MOGOK と Sqale のお話を聞いてきた。 | 15NOTE":http://15vision.jp/mobile/note/event-report/kanazawarb-meetup-6.html
 "kanazawa.rb meetup #6 - 過ぎたるは及ばざるが如し":http://cotton-desu.hatenablog.com/entry/2013/02/17/221901
 "2月16日、kanazawa.rb に行って来ました。 | Yuuitiro's blog":http://www.vcnet.toyama.toyama.jp/?p=6
+"Kanazawa.rb Meetup #6に参加してきました。 | もごろぐ":http://blog.ruby.iijgio.com/2013/02/26/kanazawa-rb-meetup-6
 
 h2. 収支
 
