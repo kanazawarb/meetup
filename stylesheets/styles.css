@@ -431,6 +431,14 @@ footer {
   }
 }
 
+.book-images {
+  float: right;
+}
+.book-images img {
+  text-align: right;
+}
+
+
 /* doorkeeper widget */
 .doorkeeper-widget {
   width : 300px;
