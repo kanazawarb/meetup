@@ -43,6 +43,7 @@ h3. LT登壇リスト
 * "@PharaohKJ":https://twitter.com/PharaohKJ
 * "@haraguro3":https://twitter.com/haraguro3
 * "@Yukimitsu_Izawa":https://twitter.com/Yukimitsu_Izawa
+* "@toybox_design":https://twitter.com/toybox_design
 
 h2. セッション概要 「アジャイルプラクティスとワクワクする現場作り」
 
