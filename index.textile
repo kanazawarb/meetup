@@ -1,8 +1,11 @@
 ---
 
+title: Meetup
 layout: toplevel
 
 ---
+
+p>. <a href="./howto-make-meetup.html">-&gt; How to make meetup</a>
 
 h1. Let's meet up !
 
