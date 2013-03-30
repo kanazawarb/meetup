@@ -39,11 +39,13 @@ h2. ざっくりタイムテーブル
 
 h3. LT登壇リスト
 
-* "@shirokuro331":https://twitter.com/shirokuro331
-* "@PharaohKJ":https://twitter.com/PharaohKJ
-* "@haraguro3":https://twitter.com/haraguro3
-* "@Yukimitsu_Izawa":https://twitter.com/Yukimitsu_Izawa
-* "@toybox_design":https://twitter.com/toybox_design
+* うばた(@jaVuBax) : そうだ京都へ行こう
+* たちばな(@toybox_design) : Compass で遊ぼう
+* いざわ(@Yukimitsu_Izawa) : Rubyでトライ！
+* おかもと(@haraguro3) : UML使いませんか
+* ささき(@shirokuro331) : (´・ω・`)人(´・ω・`)ﾙﾋﾞｰ
+* かとう(@PharaohKJ) : 俺とアジャイル
+* かわぐち(@kawaguti) : アジャイルってなに？
 
 h2. セッション概要 「アジャイルプラクティスとワクワクする現場作り」
 
