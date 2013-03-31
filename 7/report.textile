@@ -51,6 +51,7 @@ h2. 参加者のブログ
 * "Kanazawa.rb用iPhone・iPadアプリ作って、使ってきたよ | Miyakawa Blog":http://miyakawa.me/?p=3764
 * "kanazawa.rb meetup #7 にて平鍋さんに講演してもらった話 #kzrb - The Road to be Agile":http://libero18.hatenablog.jp/entry/2013/03/31/152620
 * "kanazawa.rb #7に参加してきた - おし、プログラミング":http://d.hatena.ne.jp/ichhi/20130331/1364742378
+* "kanazawa.rb meetup #7 - 過ぎたるは及ばざるが如し":http://cotton-desu.hatenablog.com/entry/2013/03/31/232338
 
 h2. 収支
 
