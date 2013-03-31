@@ -46,10 +46,11 @@ h2. まとめ
 <blockquote class="twitter-tweet"><p>昨日(2013/03/30)実施された Kanazawa.rb meetup 7 の様子を納めた写真アルバムを公開しました。こちらからご覧ください。<a href="https://t.co/PVCK6kl9t1" title="https://www.facebook.com/media/set/?set=a.517668398275601">facebook.com/media/set/?set…</a><a href="https://twitter.com/search/%23kzrb">#kzrb</a></p>&mdash; Kanazawa.rb (@kanazawarb) <a href="https://twitter.com/kanazawarb/status/318183622328844289">March 31, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-h2. ブログ
+h2. 参加者のブログ
 
 * "Kanazawa.rb用iPhone・iPadアプリ作って、使ってきたよ | Miyakawa Blog":http://miyakawa.me/?p=3764
 * "kanazawa.rb meetup #7 にて平鍋さんに講演してもらった話 #kzrb - The Road to be Agile":http://libero18.hatenablog.jp/entry/2013/03/31/152620
+* "kanazawa.rb #7に参加してきた - おし、プログラミング":http://d.hatena.ne.jp/ichhi/20130331/1364742378
 
 h2. 収支
 
