@@ -36,7 +36,7 @@ h2. 話題
 * 「仕様が政治的に固まらず」「うへー」「24時間戦える体制で」「うへーーー」「味見をしてもらう」
 ** "[LT][kanazawa.rb] kanazawa.rb #7でLTしたよ - MetabolicBoost(2013-03-31)":http://blog.phalanxware.com/20130331.html#p01
 * 「マネージャに話が通じなくてコミュニティに逃げて…」「あるあるあるあるwww」「アジャイルが何かなんて言える人いないです」
-** "So, Agile is what? // Speaker Deck":https://speakerdeck.com/kawaguti/so-agile-is-what
+** "社内で新しいことを始めるには - Kanazawa.rb でLTしてきました - kawaguti の日記　(id:wayaguchi)":http://d.hatena.ne.jp/wayaguchi/20130331/1364679280
 
 h2. まとめ
 
