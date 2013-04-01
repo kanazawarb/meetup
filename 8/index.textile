@@ -5,6 +5,11 @@ title: "#8"
 
 ---
 
+<div class="doorkeeper-widget">
+<a href="http://kzrb.doorkeeper.jp/events/3477" class="doorkeeper-registration-widget">meetup #8</a>
+<script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript"></script>
+</div>
+
 h1. meetup #8
 
 |_.日時 |2013年 4/20(土) 13:00 〜 17:00                         |
