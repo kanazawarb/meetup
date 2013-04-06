@@ -46,6 +46,13 @@ h2. まとめ
 <blockquote class="twitter-tweet"><p>昨日(2013/03/30)実施された Kanazawa.rb meetup 7 の様子を納めた写真アルバムを公開しました。こちらからご覧ください。<a href="https://t.co/PVCK6kl9t1" title="https://www.facebook.com/media/set/?set=a.517668398275601">facebook.com/media/set/?set…</a><a href="https://twitter.com/search/%23kzrb">#kzrb</a></p>&mdash; Kanazawa.rb (@kanazawarb) <a href="https://twitter.com/kanazawarb/status/318183622328844289">March 31, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+h2. スライド一覧
+
+* "Project Facilitation at Kanazawa.rb":http://www.slideshare.net/hiranabe/project-facilitation-at-kanazawarb
+* "Try":http://www.slideshare.net/yizawa/try-17934332
+* "Meetup 7-lt-1":http://www.slideshare.net/okamototakuyasr2/meetup-7lt1
+* "So, Agile is what? // Speaker Deck":https://speakerdeck.com/kawaguti/so-agile-is-what
+
 h2. 参加者のブログ
 
 * "Kanazawa.rb用iPhone・iPadアプリ作って、使ってきたよ | Miyakawa Blog":http://miyakawa.me/?p=3764
