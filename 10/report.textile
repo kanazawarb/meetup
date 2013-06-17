@@ -35,6 +35,7 @@ h2. スライド
 h2. 参加者のブログ
 
 * "Kanazawa.rb meetup #10に飛び入りしてまたノースライドで喋ってきた - あーありがち(2013-06-15)":http://aligach.net/diary/20130615.html#p01
+* "kanazawa.rb meetup #10 – 過ぎたるは及ばざるが如し":http://cotton-desu.hatenablog.com/entry/2013/06/17/220237
 
 h2. 収支
 
