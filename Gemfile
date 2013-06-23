@@ -1,6 +1,11 @@
 # -*- mode: ruby -*-
 
-source :rubygems
+source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'rake'
+gem 'jekyll', '> 1.0'
 gem 'RedCloth'
+
+group :livereload do
+  gem 'guard-livereload'
+end
