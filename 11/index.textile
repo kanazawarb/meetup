@@ -12,6 +12,14 @@ title: "#11"
 
 h1. meetup #11
 
+もくもく会＋α
+
+inspired by "もくもく会ポータル":http://mokumokukai.tumblr.com/ and "#ishikitakai":https://ishikitakai.com/
+
+bq. もくもく会とはカフェとか誰かの家とかに集まって、それぞれ各自もくもくと勉強したり作業したり本を読んだりするだけの会のことです。
+
+via "もくもく会ポータル":http://mokumokukai.tumblr.com/
+
 |_.日時 |2013年 7/20(土) 13:00 〜 17:00                         |
 |_.会場 |ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>|
 |_.参加費|500円|
