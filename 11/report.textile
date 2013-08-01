@@ -25,7 +25,7 @@ h2. 話題
 h2. まとめ
 
 * "kanazawa.rb meetup 11 - Togetter":http://togetter.com/li/536820
-* "Kanazawa.rb meetup 11 | 30days":作成途中
+* "Kanazawa.rb meetup 11 | 30days":http://30d.jp/kzrb/1
 
 h2. 参加者のブログ
 
