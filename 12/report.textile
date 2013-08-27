@@ -26,6 +26,9 @@ h2. 話題
 * 「このタイミングで @wtnabe 氏が登場」
 * 「オフレコきた！」
 
+h2. 一周年振り返り KPT
+* "KPT 実施ログ":./report-kpt.html
+
 h2. まとめ
 
 * "kanazawa.rb meetup 12 - Togetter":http://togetter.com/li/553921
