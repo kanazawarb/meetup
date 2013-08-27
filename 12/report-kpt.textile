@@ -5,6 +5,8 @@ title: "#12 report - KPT log"
 
 ---
 
+p>. <a href="./report.html">-&gt; report</a>
+
 h1. meetup #12 report - 一周年振り返り KPT 実施ログ
 
 h2. KPT とは
