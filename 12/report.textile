@@ -43,6 +43,7 @@ h2. スライド
 h2. 参加者のブログ
 
 * "kanazawa.rb meetup #12 – 過ぎたるは及ばざるが如し":http://cotton-desu.hatenablog.com/entry/2013/08/26/225822
+* "kanazawa.rb meetup #12に参加してきた - kkabetaniのブログ":http://kkabetani.hatenablog.com/entry/2013/08/27/192052
 
 h2. 収支
 
