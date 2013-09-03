@@ -8,10 +8,10 @@ module Jekyll
     def collection(context)
       context.registers[:site].pages.select { |page|
         page.instance_variable_get('@dir') =~ /\A\/[0-9]+\z/ and
-        page.name =~ /\Aindex\.(textile|md)\z/
+        page.name =~ %r{\Aindex.(textile|md)\z}
       }.map { |page|
         {
-          'seq'  => page.instance_variable_get('@dir').gsub(/[^0-9]+/, '').to_i,
+          'seq'  => page.instance_variable_get('@dir').sub(/[^0-9]*([0-9]+)[^0-9]*/, '\1').to_i,
           'date' => page.instance_variable_get('@data')['date']
         }
       }.sort_by { |page|
