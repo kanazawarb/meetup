@@ -2,7 +2,6 @@
 
 layout: record
 title: "#0 boot loader"
-date: 2012-07-21 (Sat)
 
 ---
 

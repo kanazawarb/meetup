@@ -2,7 +2,6 @@
 
 layout: record
 title: "#6"
-date: 2013-02-16 (Sat)
 
 ---
 

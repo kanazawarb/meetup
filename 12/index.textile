@@ -2,7 +2,6 @@
 
 layout: record
 title: "#12"
-date: 2013-08-24 (Sat)
 
 ---
 
