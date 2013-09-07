@@ -24,9 +24,10 @@ namespace :git do
   end
 end
 
-desc 'rm unused files'
+desc 'rm unused files and products'
 task :clean do
   Dir.glob(['**/*~', '**/*.bak']).each { |f|
     FileUtils::Verbose.rm(f)
   }
+  FileUtils.rm_r(Dir.glob('_site/*'))
 end
