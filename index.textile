@@ -9,6 +9,8 @@ p>. <a href="./howto-make-meetup.html">-&gt; How to make meetup</a>
 
 h1. Let's meet up !
 
+Edit test by kiyohara 2013/09/23 22:52
+
 kanazawa.rb では定期的に meetup を開催しています。
 
 の *予定* です。
