@@ -15,7 +15,7 @@ date: 2013-10-19 (Sat)
 
 h1. meetup #14
 
-意識高いもくもく会 in DMM.com Labo 金沢事業所です。  
+意識高いもくもく会 in DMM.com Labo 金沢<br />feat. "Test ! Test !! Test !!!"
   
 やりたいこと、好きなことをもくもくと集中してやっちゃおう！！  
   
@@ -40,11 +40,17 @@ h1. meetup #14
 
 h2. ざっくりタイムテーブル
 
+ミニコーナー「Test ! Test !! Test !!!」を設けてみました。興味ある人は聞いてみてください。
+
 |_.時間             |_.内容                 |_.人             |
 |13:00              |開場                   |                 |
 |13:10              |自己紹介と目標発表     |みんな           |
-|13:00 〜           |（内容調整中）         |@Yukimitsu_Izawa |
-|13:30 〜           |フリータイム           |みんな           |
+|13:30 〜 13:40     |テストざっくり         |"@Yukimitsu_Izawa":https://twitter.com/Yukimitsu_Izawa |
+|13:40 〜 13:45     |テスティングフレームワークざっくり |"@wtnabe":https://twitter.com/wtnabe |
+|13:45 〜 14:00     |RSpecはじめました      |"@kkabetani":https://twitter.com/kkabetani|
+|14:00 〜 14:10     |休憩                   |                 |
+|14:10 〜 14:30     |ぼくのやってるふつうのこと|"@wtnabe":https://twitter.com/wtnabe|
+|14:30 〜           |フリータイム           |みんな           |
 |16:00 〜           |成果発表               |みんな           |
 |16:25 〜           |ネタに関する議論       |みんな           |
 |16:55 〜           |撤収                   |                 |
