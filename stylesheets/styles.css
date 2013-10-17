@@ -374,10 +374,10 @@ footer {
   header li:nth-of-type(1n) {
     display: none;
   }
-  header li:nth-last-child(1),
-  header li:nth-last-child(2),
-  header li:nth-last-child(3),
-  header li:nth-last-child(4) {
+  header li:nth-child(1),
+  header li:nth-child(2),
+  header li:nth-child(3),
+  header li:nth-child(4) {
     display: list-item;
   }
 
