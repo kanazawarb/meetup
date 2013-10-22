@@ -6,7 +6,7 @@ date: 2013-10-19 (Sat)
 
 ---
 
-
+p>. <a href="./report.html">-&gt; report</a>
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/6270" class="doorkeeper-registration-widget">meetup #14</a>
