@@ -35,6 +35,7 @@ h2. ざっくりタイムテーブル
 |14:30くらい        |休憩                   |                 |
 |                   |web2py4beginner        |"@_nus":https://twitter.com/_nus|
 |                   |Railsで学ぶRuby        |"@wtnabe":https://twitter.com/wtnabe|
+|                   |Getting Started with RubyonRails+Bootstrap|"@Yukimitsu_Izawa":https://twitter.com/Yukimitsu_Izawa|
 |16:25 〜           |ネタに関する議論       |みんな           |
 |16:55 〜           |撤収                   |                 |
 
