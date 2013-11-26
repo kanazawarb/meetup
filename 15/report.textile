@@ -48,6 +48,7 @@ h2. スライド
 
 * "Getting Started with Ruby on Rails4 + Bootstrap3":http://www.slideshare.net/yizawa/getting-started-with-ror4-bs3
 * "Learning Ruby's Dynamism with Rails":https://speakerdeck.com/wtnabe/learning-rubys-dynamism-with-rails
+* "WEB2PY4beginner":http://www.slideshare.net/yotaichino/web2py4beginner
 
 h2. 参加者のブログ
 
