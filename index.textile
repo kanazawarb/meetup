@@ -9,12 +9,6 @@ p>. <a href="./howto-make-meetup.html">-&gt; How to make meetup</a>
 
 h1. Let's meet up !
 
-kanazawa.rb では定期的に meetup を開催しています。
-
-の *予定* です。
-
-さて。
-
 ネット上には様々な情報が溢れています。Ruby に関する情報は世界中の人々が発信しており、一日中 PC を開いてネットに向かっていたとしても追いつくことができないほどです。
 
 ビデオチャットの環境も整っています。あえて物理的に同じ場所に集わなくたって顔を合わせることもできるようになってきました。
@@ -28,6 +22,12 @@ kanazawa.rb では定期的に meetup を開催しています。
 だから会うんです。
 
 カモンジョイナス！ YOU来ちゃいなよ！
+
+h2. 予定
+
+基本は毎月第3土曜の予定ですが、ずれる時もあるのでご確認ください。
+
+<iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b5bhu4mdb4me2g5d2ephdsvnbk%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Asia%2FTokyo" style=" border-width:0 " width="650" height="400" frameborder="0" scrolling="no"></iframe>
 
 h2. ポジションペーパーについて
 
