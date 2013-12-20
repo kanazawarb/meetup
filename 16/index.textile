@@ -39,6 +39,7 @@ h2. ざっくりタイムテーブル
 |13:10              |自己紹介と目標発表          |みんな           |
 |13:30 〜           |フリータイム                |みんな           |
 |(20min)            |Global Day of Coderetreat in Fukui 2013に参加してきた |"@pobo380":https://twitter.com/pobo380|
+|(20min)            |簡単な拡張機能の作り方 〜Chrome Extensions〜  |"@mi35co":https://twitter.com/mi35co|
 |16:00 〜           |成果発表                    |みんな           |
 |16:25 〜           |ネタに関するディスカッション|みんな           |
 |16:55 〜           |撤収                        |                 |
