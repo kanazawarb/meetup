@@ -37,9 +37,11 @@ h2. ざっくりタイムテーブル
 |_.時間             |_.内容                      |_.人             |
 |13:00              |開場                        |                 |
 |13:10              |自己紹介と目標発表          |みんな           |
-|13:30 〜           |フリータイム                |みんな           |
-|(20min)            |Global Day of Coderetreat in Fukui 2013に参加してきた |"@pobo380":https://twitter.com/pobo380|
-|(20min)            |簡単な拡張機能の作り方 〜Chrome Extensions〜  |"@mi35co":https://twitter.com/mi35co|
+|13:30 〜 13:40     |2013年どやりんぐ            |"@wtnabe":https://twitter.com/wtnabe|
+|13:40 〜           |フリータイム                |みんな           |
+|15:00 〜 15:20     |Rails4 とさくらのVPSとAWS S3によるスモールスタートWebサービス|"@krhitoshi":https://twitter.com/krhitoshi|
+|15:20 〜 15:40     |簡単な拡張機能の作り方 〜Chrome Extensions〜  |"@mi35co":https://twitter.com/mi35co|
+|15:40 〜 16:00     |Global Day of Coderetreat in Fukui 2013に参加してきた |"@pobo380":https://twitter.com/pobo380|
 |16:00 〜           |成果発表                    |みんな           |
 |16:25 〜           |ネタに関するディスカッション|みんな           |
 |16:55 〜           |撤収                        |                 |
