@@ -14,13 +14,13 @@ h2. 話題
 * 「ぽこたん登場」
 * 「わたなべさんの LT スタート。2013 に何をしたか振り返り」
 * 「炎上確定は燃えてないから大丈夫」
-* 「"ゴミ箱":http://t.co/gGHbRhq5ju」
+* 「 "ゴミ箱":http://t.co/gGHbRhq5ju 」
 * 「飛び込みミニセッション！黒川さんのお話」
 * 「Firefox のレスポンシブデザインビューが便利とのこと。cmd + option + m で起動。」
 * 「まとめ「デザイナーと組んで何か作ろう!!」」
-* 「@krhitoshi さんのお話は Rails4 を使った開発体験談。作ったサービスはこちら → "Lunchbox":http://t.co/TVqYm2Xigz」
+* 「@krhitoshi さんのお話は Rails4 を使った開発体験談。作ったサービスはこちら →  "Lunchbox":https://www.lunchbox-jp.com/pc 」
 * 「ミニセッション皆勤賞な井澤先生のお話」
-* 「@Yukimitsu_Izawa 先生お話は Ruby から OSX のメッセージセンターを使って notif をする話。"imap-notify":http://t.co/smOhkKopbC」
+* 「@Yukimitsu_Izawa 先生お話は Ruby から OSX のメッセージセンターを使って notif をする話。 "imap-notify":http://t.co/smOhkKopbC 」
 * 「kanazawa.rbモンハン部」
 * 「@pobo380さんによるミニセッション。Coderetreat ib Fukui 2013 の体験記」
 * 「bundle gem lifegame -t で良くない？」
@@ -29,9 +29,9 @@ h2. 話題
 * 「これで今年スピーカーデビューは7人になった気がする」
 * 「次はEC-CUBEプラグイン開発用のgemを作った話します」
 * 「mi35co さんによる、Chrome Extensions の話スタート」
-* 「https://t.co/s86etCZ6CM すげー」
+* 「 "K.I.Tools":https://t.co/s86etCZ6CM すげー」
 * 「Chrome extension 面白そう。あと、優しそかなって思いました。ありがとう。」
-* 「次回、Kanazawa.rb meetup17 は、2014/01/18(Sat) にhttp://t.co/yeNrPOjNEmラボさんです！」
+* 「次回、Kanazawa.rb meetup17 は、2014/01/18(Sat) に DMM.comラボさんです！」
 * 「「マジックオブ3」。3回同じ処理をするようなら自動化するべき。 by ポコたん」
 * 「プログラマなら Google stackoverflow を読むべし by ポコタン」
 
