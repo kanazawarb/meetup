@@ -31,7 +31,7 @@ h2. 話題
 * 「mi35co さんによる、Chrome Extensions の話スタート」
 * 「 "K.I.Tools":https://t.co/s86etCZ6CM すげー」
 * 「Chrome extension 面白そう。あと、優しそかなって思いました。ありがとう。」
-* 「次回、Kanazawa.rb meetup17 は、2014/01/18(Sat) に "DMM":http://t.co/yeNrPOjNEm ラボさんです！」
+* 「次回、Kanazawa.rb meetup17 は、2014/01/18(Sat) に DMMラボさんです！」
 * 「「マジックオブ3」。3回同じ処理をするようなら自動化するべき。 by ポコたん」
 * 「プログラマなら Google stackoverflow を読むべし by ポコタン」
 
