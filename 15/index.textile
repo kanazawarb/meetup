@@ -6,7 +6,7 @@ date: 2013-11-23 (Sat)
 
 ---
 
-p>. <a href="./report.html">-&gt; report</a>
+p>. <a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/6745" class="doorkeeper-registration-widget">meetup #15</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
