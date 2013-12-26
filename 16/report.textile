@@ -42,7 +42,7 @@ h2. まとめ
 h2. 参加者のブログ
 
 * "kanazawa.rb meetup #16 – 過ぎたるは及ばざるが如し":http://cotton-desu.hatenablog.com/entry/2013/12/24/005729
-* "kanazawa.rb meetup #16 に参加しました -- pobo380 on a leash":http://pobo380.hateblo.jp/entry/2013/12/24/235616
+* "kanazawa.rb meetup #16 に参加しました - pobo380 on a leash":http://pobo380.hateblo.jp/entry/2013/12/24/235616
 
 h2. 収支
 
