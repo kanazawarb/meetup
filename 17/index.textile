@@ -6,6 +6,10 @@ date: 2014-01-18 (Sat)
 
 ---
 
+<div class="doorkeeper-widget">
+<a href="http://kzrb.doorkeeper.jp/events/8073" class="doorkeeper-registration-widget">meetup #17</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
+</div>
+
 h1. meetup #17
 
 意識高いもくもく会 in DMM.com Labo 金沢事業部
