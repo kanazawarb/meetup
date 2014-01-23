@@ -451,3 +451,28 @@ footer {
     margin: 0 auto;
   }
 }
+
+ul.slides {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  width: 150%;
+}
+
+ul.slides li {
+  float: left;
+  list-style-type: none;
+  margin: 0px 10px 10px 0;
+  padding: 0;
+  border: solid 1px #ccc;
+}
+
+ul.slides li img {
+  width: 210px;
+  height: 157px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  display: block;
+}
