@@ -38,6 +38,7 @@ h2. 話題
 h2. まとめ
 
 * "kanazawa.rb meetup 16 - Togetter":http://togetter.com/li/605935  
+* "Kanazawa.rb meetup 16 | 30days":http://30d.jp/kzrb/6
 
 h2. 参加者のブログ
 
