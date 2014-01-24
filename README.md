@@ -21,7 +21,7 @@ URL設計
 
     /                          meetup そのものの説明
     /positionpaper.html        ポジションペーパーについて、参考
-    /slides.html               Kanazawa.rb Slides
     /meetup                    meetup の説明
     /meetup/:num/index.html    開催告知
                 /report.html   開催レポート
+    /meetup/slides.html        Kanazawa.rb Slides
