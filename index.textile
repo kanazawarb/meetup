@@ -6,6 +6,7 @@ layout: toplevel
 ---
 
 p>. <a href="./howto-make-meetup.html">-&gt; How to make meetup</a>
+    <a href="./slides.html">-&gt; Kanazawa.rb Slides</a>
 
 h1. Let's meet up !
 
