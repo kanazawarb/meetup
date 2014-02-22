@@ -10,19 +10,54 @@ title: Kanazawa.rb Slides
 Kanazawa.rb Slides
 ==================
 <ul class="slides">
+  <li data-date="2014-02-15">
+    <a target="_blank" href="https://speakerdeck.com/kkabetani/kanazawa-dot-rb-slides">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/5aa8d82078ff013188c26efb74ab2287/slide_0.jpg" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="https://speakerdeck.com/hi104/emberjs-dot-comfalseroutingfalsedemowojian-you">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/7bf80930790d013188c26efb74ab2287/slide_0.jpg" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="http://www.slideshare.net/cottondesu/ss-31242666">
+      <img src="http://image.slidesharecdn.com/random-140215095920-phpapp02/95/slide-1-638.jpg?cb=1392480306" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="http://www.slideshare.net/takumimurano505/lombok-java">
+      <img src="http://image.slidesharecdn.com/lombokjava-140215010446-phpapp01/95/slide-1-638.jpg?cb=1392448059" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/ntp-ampattack">
+      <img src="http://image.slidesharecdn.com/ntp-amp-attack-140215011108-phpapp01/95/slide-1-638.jpg?cb=1392448319" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="https://speakerdeck.com/wtnabe/re-awk">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/d1585d20783201315a201214273280ab/slide_0.jpg" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="https://speakerdeck.com/wtnabe/learned-in-the-past-helps-me">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/3b1bc6407834013117e47a3d3f60dcf4/slide_0.jpg" />
+    </a>
+  </li>
   <li data-date="2013-11-23">
     <a target="_blank" href="http://www.slideshare.net/yotaichino/web2py4beginner">
       <img src="http://image.slidesharecdn.com/web2py4beginner-131123012714-phpapp02/95/slide-1-638.jpg?cb=1385191848" />
     </a>
   </li>
   <li data-date="2013-11-23">
-    <a target="_blank" href="http://www.slideshare.net/yizawa/getting-started-with-ror4-bs3">
-      <img src="http://image.slidesharecdn.com/gettingstargedwithror4bs3-131122234806-phpapp02/95/slide-1-638.jpg?cb=1385185780" />
+    <a target="_blank" href="https://speakerdeck.com/wtnabe/learning-rubys-dynamism-with-rails">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/f0954410380d013196a71a9d6806e3ee/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-11-23">
-    <a target="_blank" href="https://speakerdeck.com/wtnabe/learning-rubys-dynamism-with-rails">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/f0954410380d013196a71a9d6806e3ee/thumb_slide_0.jpg" />
+    <a target="_blank" href="http://www.slideshare.net/yizawa/getting-started-with-ror4-bs3">
+      <img src="http://image.slidesharecdn.com/gettingstargedwithror4bs3-131122234806-phpapp02/95/slide-1-638.jpg?cb=1385185780" />
     </a>
   </li>
   <li data-date="2013-10-20">
@@ -31,23 +66,23 @@ Kanazawa.rb Slides
     </a>
   </li>
   <li data-date="2013-10-19">
-    <a target="_blank" href="https://speakerdeck.com/kkabetani/rspechazimemasita">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/61df93b01b87013142011a0358ec46ef/thumb_slide_0.jpg" />
+    <a target="_blank" href="https://speakerdeck.com/wtnabe/testing-framework-intro">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/feb0ab501b880131be877a49242921bf/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-10-19">
-    <a target="_blank" href="https://speakerdeck.com/wtnabe/testing-framework-intro">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/feb0ab501b880131be877a49242921bf/thumb_slide_0.jpg" />
+    <a target="_blank" href="https://speakerdeck.com/kkabetani/rspechazimemasita">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/61df93b01b87013142011a0358ec46ef/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-10-19">
     <a target="_blank" href="https://speakerdeck.com/wtnabe/ordinary-practices">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/46a789201ba50131a9d202993f0ac9bb/thumb_slide_0.jpg" />
+      <img src="https://speakerd.s3.amazonaws.com/presentations/46a789201ba50131a9d202993f0ac9bb/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-09-28">
     <a target="_blank" href="https://speakerdeck.com/wtnabe/search-and-destroy-in-ruby">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/7f558fe00ae20131d1e476d27cbbb36b/thumb_slide_0.jpg" />
+      <img src="https://speakerd.s3.amazonaws.com/presentations/7f558fe00ae20131d1e476d27cbbb36b/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-08-25">
@@ -56,13 +91,13 @@ Kanazawa.rb Slides
     </a>
   </li>
   <li data-date="2013-08-24">
-    <a target="_blank" href="https://speakerdeck.com/shirokuro331/hello-docpad">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/0370c280eec70130026236a0670cc949/thumb_slide_0.jpg" />
+    <a target="_blank" href="http://www.slideshare.net/rch850/capify-all">
+      <img src="http://image.slidesharecdn.com/capifyall-130824004103-phpapp02/95/slide-1-638.jpg?cb=1377322954" />
     </a>
   </li>
   <li data-date="2013-08-24">
-    <a target="_blank" href="http://www.slideshare.net/rch850/capify-all">
-      <img src="http://image.slidesharecdn.com/capifyall-130824004103-phpapp02/95/slide-1-638.jpg?cb=1377322954" />
+    <a target="_blank" href="https://speakerdeck.com/shirokuro331/hello-docpad">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/0370c280eec70130026236a0670cc949/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-08-24">
@@ -105,16 +140,6 @@ Kanazawa.rb Slides
       <img src="http://image.slidesharecdn.com/meetup-7-lt-1-130330221833-phpapp01/95/slide-1-638.jpg?cb=1364700060" />
     </a>
   </li>
-  <li data-date="2013-03-31">
-    <a target="_blank" href="http://www.slideshare.net/yizawa/try-17934332">
-      <img src="http://image.slidesharecdn.com/try-130330221243-phpapp02/95/slide-1-638.jpg?cb=1364699602" />
-    </a>
-  </li>
-  <li data-date="2013-03-31">
-    <a target="_blank" href="http://www.slideshare.net/okamototakuyasr2/meetup-7lt1">
-      <img src="http://image.slidesharecdn.com/meetup-7-lt-1-130330221833-phpapp01/95/slide-1-638.jpg?cb=1364700060" />
-    </a>
-  </li>
   <li data-date="2013-03-30">
     <a target="_blank" href="http://www.slideshare.net/hiranabe/project-facilitation-at-kanazawarb">
       <img src="http://image.slidesharecdn.com/projectfacilitation20130330-kanazawa-rb-130330091655-phpapp02/95/slide-1-638.jpg?cb=1364653055" />
@@ -122,7 +147,7 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2013-03-28">
     <a target="_blank" href="https://speakerdeck.com/kawaguti/so-agile-is-what">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/755170a07a1e0130222e12313809347f/thumb_slide_0.jpg" />
+      <img src="https://speakerd.s3.amazonaws.com/presentations/755170a07a1e0130222e12313809347f/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2013-02-20">
@@ -142,17 +167,17 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2012-08-19">
     <a target="_blank" href="https://speakerdeck.com/u/izawa/p/playing-with-jax">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/50304611edfca8000201146b/thumb_slide_0.jpg" />
+      <img src="https://speakerd.s3.amazonaws.com/presentations/50304611edfca8000201146b/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2012-08-18">
     <a target="_blank" href="https://speakerdeck.com/u/mitukiii/p/orefalse-ruby-huan-jing-wojian-ro-~-baribari~">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/502f3e2c9a533c000201ed43/thumb_slide_0.jpg" />
+      <img src="https://speakerd.s3.amazonaws.com/presentations/502f3e2c9a533c000201ed43/slide_0.jpg" />
     </a>
   </li>
   <li data-date="2012-08-18">
     <a target="_blank" href="https://speakerdeck.com/u/wtnabe/p/beginning-ruby-with-markdown-and-more">
-      <img src="https://speakerd.s3.amazonaws.com/presentations/502f05d721ffdc0002015658/thumb_slide_0.jpg" />
+      <img src="https://speakerd.s3.amazonaws.com/presentations/502f05d721ffdc0002015658/slide_0.jpg" />
     </a>
   </li>
 </ul>
