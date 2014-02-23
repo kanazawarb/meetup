@@ -63,6 +63,7 @@ h2. スライド
 * "水平思考のススメ":http://t.co/USQbp8jifk
 * "emberjs.comのRoutingのデモを見よう":https://t.co/bfwhvHY4iY
 * "kanazawa.rb Slides":https://t.co/DyfjrVazCG
+* "最近の活動について (not ruby)":http://www.slideshare.net/MakotoTakebayashi1/not-ruby
 
 h2. 参加者のブログ
 
