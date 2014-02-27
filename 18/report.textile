@@ -64,6 +64,7 @@ h2. スライド
 * "emberjs.comのRoutingのデモを見よう":https://t.co/bfwhvHY4iY
 * "kanazawa.rb Slides":https://t.co/DyfjrVazCG
 * "最近の活動について (not ruby)":http://www.slideshare.net/MakotoTakebayashi1/not-ruby
+* "票の行方":http://www.slideshare.net/yotaichino/ss-31714725
 
 h2. 参加者のブログ
 
