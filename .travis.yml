@@ -1,0 +1,29 @@
+language: ruby
+rvm:
+  - 2.1.1
+install: bundle install --path vendor/bundle --without livereload
+before_script:
+  - env|grep TRAVIS
+  - ls -la ~/
+  - git clone -q https://github.com/$TRAVIS_REPO_SLUG.git _build
+  - pushd _build
+  - git checkout origin/gh-pages -b _travis
+  - popd
+script:
+  - rake travis:shortedurlreplace
+after_success:
+  - cd _build
+  - git add -A
+  - git commit -m "[ci skip] Auto Update from TravisCI"
+  - '[ "$TRAVIS_REPO_SLUG" == "kanazawarb/meetup" ] && [ "$TRAVIS_BRANCH" == "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ $GH_TOKEN_kanazawarb ] && git push -fq https://$GH_TOKEN_kanazawarb@github.com/$TRAVIS_REPO_SLUG.git _travis && mkdir ~/.config && echo "$GH_TOKEN_kanazawarb" > ~/.config/hub'
+  - '[ "$TRAVIS_REPO_SLUG" == "libero18/meetup" ] && [ "$TRAVIS_BRANCH" != "_travis" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ $GH_TOKEN_libero18 ] && git push -fq https://$GH_TOKEN_libero18@github.com/$TRAVIS_REPO_SLUG.git _travis && mkdir ~/.config && echo "$GH_TOKEN_libero18" > ~/.config/hub'
+  - 'bundle exec hub pull-request -f -m "BUILD #$TRAVIS_BUILD_NUMBER => https://travis-ci.org/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID" -b gh-pages -h _travis'
+env:
+  global:
+  - GIT_COMMITTER_NAME="libero18 via TravisCI"
+  - GIT_COMMITTER_EMAIL="orebil.18@gmail.com"
+  - GIT_AUTHOR_NAME="libero18 via TravisCI"
+  - GIT_AUTHOR_EMAIL="orebil.18@gmail.com"
+  - secure: "LRvEsiJDwRvPO9ZNoo+lAqQj5c1OFYQiEEnQPEKOySmXyW2YbzA6IyHhaUrt0PV0NRlEoDcjX8j7LXKlaapbXudiU4q0cQfyfT2bMbVggVcSYuEVua5kGcQmJo6hufu0pKvyiWgTe30WB3bZR3tJExqdWyArXq0eF8KpW/4Rg+o="
+  - secure: "izC/tNJ6JX/c5Z8/apGarzRW0LwnYUT3+Q7j7BsQcvvh6QjjjXuZ6xssdg+GGHADUb/HWKJDMMIBeG+0e+mA9Yc2dsqEN0Pp9N6BVaO0q98U3Ma/J8pA15tfovQn+O77dhwQCkMqPX8F1scD7p+BQqt5qSiuvAYer1ncIacCdtE="
+

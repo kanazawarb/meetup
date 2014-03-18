@@ -30,3 +30,10 @@ task :clean do
     FileUtils::Verbose.rm(f)
   }
 end
+
+namespace :travis do
+  task :shortedurlreplace do # shorted url replace
+    sh 'echo "[todo] add Feature" > _build/test2.txt'
+  end
+end
+
