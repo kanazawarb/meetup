@@ -10,6 +10,16 @@ title: Kanazawa.rb Slides
 Kanazawa.rb Slides
 ==================
 <ul class="slides">
+  <li data-date="2014-04-19">
+    <a target="_blank" href="http://www.slideshare.net/pharaohkj/heartbleed-33703988?ref=http%3A%2F%2Fwww.slideshare.net%2Fpharaohkj">
+      <img src="http://image.slidesharecdn.com/heartbleed-140419020216-phpapp01/95/slide-1-638.jpg?cb=1397890975" />
+    </a>
+  </li>
+  <li data-date="2014-04-19">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/octopress">
+      <img src="http://image.slidesharecdn.com/octopress-140419001857-phpapp01/95/slide-1-638.jpg?cb=1397885202" />
+    </a>
+  </li>
   <li data-date="2014-03-15">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-32339680">
       <img src="http://image.slidesharecdn.com/random-140315014955-phpapp02/95/slide-1-638.jpg?cb=1394866376" />
