@@ -20,7 +20,7 @@ h2. 話題
 * 「 "紹介されてたbitnami":https://t.co/lCRYFUvzoE 」
 * 「真ん中の後ろのほうでSinatraとかD3.jsとか触ってました」
 * 「Kanazawa.rb での今日のモクモク、「今日は人生設計をします」」
-* 「新しい風が」「もうきたけー要らねーな」
+* 「新しい風が」
 * 「Kanazawa.rbは新しい風を求めています！」
 * 「『俺には時間が無いからな』 名言でちゃったw」
 * 「次回のKanazawa.rb #21は、 5/17(土) ITビジネスプラザ武蔵 です。
@@ -34,7 +34,7 @@ h2. まとめ
 h2. スライド
 
 * "Octopress簡単スタートガイド":http://t.co/TXJDKWPGqk
-* "俺と自宅サーバコスパ":http://t.co/42bHo7vTwA
+* "俺とHeartbleed":http://t.co/42bHo7vTwA
 
 h2. 参加者のブログ
 
