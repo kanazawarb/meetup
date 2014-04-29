@@ -34,7 +34,7 @@ end
 desc 'replace shorted url to expanded url'
 namespace :travis do
   task :replace_url do # shorted url replace
-    sh "ruby replace_url.rb 19/report.textile"
+    sh "ruby replace_url.rb _build/19/report.textile"
   end
 end
 

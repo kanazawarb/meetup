@@ -8,9 +8,11 @@ before_script:
   - git clone -q https://github.com/$TRAVIS_REPO_SLUG.git _build
   - pushd _build
   - git checkout origin/gh-pages -b _travis
+  - popd
 script:
   - rake travis:replace_url
 after_success:
+  - pushd _build
   - git add -A
   - git commit -m "[ci skip] Auto Update from TravisCI"
   - '[ "$TRAVIS_REPO_SLUG" == "kanazawarb/meetup" ] && [ "$TRAVIS_BRANCH" == "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ $GH_TOKEN_kanazawarb ] && git push -fq https://$GH_TOKEN_kanazawarb@github.com/$TRAVIS_REPO_SLUG.git _travis && mkdir ~/.config && echo "$GH_TOKEN_kanazawarb" > ~/.config/hub'
