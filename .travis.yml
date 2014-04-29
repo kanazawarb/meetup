@@ -3,6 +3,7 @@ rvm:
   - 2.1.1
 install: bundle install --path vendor/bundle --without livereload
 before_script:
+  - bundle exec hub version
   - env|grep TRAVIS
   - ls -la ~/
   - git clone -q https://github.com/$TRAVIS_REPO_SLUG.git _build
@@ -17,7 +18,7 @@ after_success:
   - git commit -m "[ci skip] Auto Update from TravisCI"
   - '[ "$TRAVIS_REPO_SLUG" == "kanazawarb/meetup" ] && [ "$TRAVIS_BRANCH" == "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ $GH_TOKEN_kanazawarb ] && git push -fq https://$GH_TOKEN_kanazawarb@github.com/$TRAVIS_REPO_SLUG.git _travis && mkdir ~/.config && echo "$GH_TOKEN_kanazawarb" > ~/.config/hub'
   - '[ "$TRAVIS_REPO_SLUG" == "libero18/meetup" ] && [ "$TRAVIS_BRANCH" != "_travis" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ $GH_TOKEN_libero18 ] && git push -fq https://$GH_TOKEN_libero18@github.com/$TRAVIS_REPO_SLUG.git _travis && mkdir ~/.config && echo "$GH_TOKEN_libero18" > ~/.config/hub'
-  - 'bundle exec hub pull-request -f -m "BUILD #$TRAVIS_BUILD_NUMBER => https://travis-ci.org/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID" -b gh-pages -h _travis'
+  - 'bundle exec hub pull-request -f -m ''BUILD "$TRAVIS_BUILD_NUMBER" => https://travis-ci.org/"$TRAVIS_REPO_SLUG"/builds/"$TRAVIS_BUILD_ID"'' -b "$TRAVIS_REPO_SLUG":gh-pages -h "$TRAVIS_REPO_SLUG":_travis'
 env:
   global:
   - GIT_COMMITTER_NAME="libero18 via TravisCI"
