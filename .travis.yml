@@ -10,7 +10,7 @@ before_script:
   - git checkout origin/gh-pages -b _travis
   - popd
 script:
-  - rake travis:shortedurlreplace
+  - rake travis:replace_url
 after_success:
   - cd _build
   - git add -A
