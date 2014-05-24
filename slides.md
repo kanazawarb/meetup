@@ -10,6 +10,26 @@ title: Kanazawa.rb Slides
 Kanazawa.rb Slides
 ==================
 <ul class="slides">
+  <li data-date="2014-05-17">
+    <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-34794458">
+      <img src="http://image.slidesharecdn.com/random-140517024540-phpapp02/95/slide-1-638.jpg?cb=1400312828" />
+    </a>
+  </li>
+  <li data-date="2014-05-17">
+    <a target="_blank" href="https://speakerdeck.com/libero_18/toaruinhuraensiniafalsekai-fa-huan-jing">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/d694fe60bfbb01316cad3a6416977627/slide_0.jpg" />
+    </a>
+  </li>
+  <li data-date="2014-05-17">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/log-mode">
+      <img src="http://image.slidesharecdn.com/log-mode-140517003152-phpapp01/95/slide-1-638.jpg?cb=1400304818" />
+    </a>
+  </li>
+  <li data-date="2014-05-17">
+    <a target="_blank" href="http://www.slideshare.net/tomokazu/atomio-quick-script">
+      <img src="http://image.slidesharecdn.com/kanazawarb21-140517064618-phpapp02/95/slide-1-638.jpg?cb=1400327324" />
+    </a>
+  </li>
   <li data-date="2014-04-19">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/heartbleed-33703988?ref=http%3A%2F%2Fwww.slideshare.net%2Fpharaohkj">
       <img src="http://image.slidesharecdn.com/heartbleed-140419020216-phpapp01/95/slide-1-638.jpg?cb=1397890975" />
