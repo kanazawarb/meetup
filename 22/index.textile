@@ -41,6 +41,7 @@ h2. ざっくりタイムテーブル
 |15min              |ghissuesのご紹介             |"@Yukimitsu_Izawa":https://twitter.com/Yukimitsu_Izawa|
 |15min              |15分でざっくり分かるScala入門|"@SatoYu1ro":https://twitter.com/SatoYu1ro|
 | 5min              |Rubyで和暦を読み取る         |"@takot":https://twitter.com/takot|
+|10min              |競技プログラミングへのお誘い |"@yuki2006_devel":https://twitter.com/yuki2006_devel|
 |16:30 〜 16:50     |ネタに関するディスカッション|みんな|
 |16:50 〜 17:00     |片付け＆撤収            |みんな|
 
