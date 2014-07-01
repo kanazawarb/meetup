@@ -34,7 +34,10 @@ end
 desc 'replace shorted url to expanded url'
 namespace :travis do
   task :replace_url do # shorted url replace
-    sh "ruby replace_url.rb _build/19/report.textile"
+    sh 'find _build -type f -iregex ".*\(slides\)\.md$" -o -iregex ".*\(report\)\.textile$" -o -iregex ".*\(index\)\.textile$" | xargs -i rake "travis:execute_replace[\'{}\']"'
+  end
+  task :execute_replace, ['path'] do |task, args|
+    sh "ruby replace_url.rb #{args.path}"
   end
 end
 
