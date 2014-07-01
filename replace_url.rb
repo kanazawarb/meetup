@@ -7,21 +7,21 @@ def fetch(url)
 
   http = Net::HTTP.new(uri.host, uri.port)
   http.use_ssl = true if uri.class == URI::HTTPS
-  
-  http.head(uri.path)
+ 
+  http.head(uri.path) rescue nil
 end
 
 def expand(url)
   target_url = url
   loop do
     res = fetch(target_url)
+    return target_url if res.to_s.empty?
+
     case res
-    when Net::HTTPSuccess then
-      return target_url
     when Net::HTTPRedirection then
       target_url = res["location"]
     else
-      return res.value
+      return target_url
     end
   end
 end
