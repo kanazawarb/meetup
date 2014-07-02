@@ -10,6 +10,56 @@ title: Kanazawa.rb Slides
 Kanazawa.rb Slides
 ==================
 <ul class="slides">
+  <li data-date="2014-05-17">
+    <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-34794458">
+      <img src="http://image.slidesharecdn.com/random-140517024540-phpapp02/95/slide-1-638.jpg?cb=1400312828" />
+    </a>
+  </li>
+  <li data-date="2014-05-17">
+    <a target="_blank" href="https://speakerdeck.com/libero_18/toaruinhuraensiniafalsekai-fa-huan-jing">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/d694fe60bfbb01316cad3a6416977627/slide_0.jpg" />
+    </a>
+  </li>
+  <li data-date="2014-05-17">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/log-mode">
+      <img src="http://image.slidesharecdn.com/log-mode-140517003152-phpapp01/95/slide-1-638.jpg?cb=1400304818" />
+    </a>
+  </li>
+  <li data-date="2014-05-17">
+    <a target="_blank" href="http://www.slideshare.net/tomokazu/atomio-quick-script">
+      <img src="http://image.slidesharecdn.com/kanazawarb21-140517064618-phpapp02/95/slide-1-638.jpg?cb=1400327324" />
+    </a>
+  </li>
+  <li data-date="2014-04-19">
+    <a target="_blank" href="http://www.slideshare.net/pharaohkj/heartbleed-33703988?ref=http%3A%2F%2Fwww.slideshare.net%2Fpharaohkj">
+      <img src="http://image.slidesharecdn.com/heartbleed-140419020216-phpapp01/95/slide-1-638.jpg?cb=1397890975" />
+    </a>
+  </li>
+  <li data-date="2014-04-19">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/octopress">
+      <img src="http://image.slidesharecdn.com/octopress-140419001857-phpapp01/95/slide-1-638.jpg?cb=1397885202" />
+    </a>
+  </li>
+  <li data-date="2014-03-15">
+    <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-32339680">
+      <img src="http://image.slidesharecdn.com/random-140315014955-phpapp02/95/slide-1-638.jpg?cb=1394866376" />
+    </a>
+  </li>
+  <li data-date="2014-03-15">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/rubyffi">
+      <img src="http://image.slidesharecdn.com/ffi-140315012934-phpapp01/95/slide-1-638.jpg?cb=1394865070" />
+    </a>
+  </li>
+  <li data-date="2014-02-27">
+    <a target="_blank" href="http://www.slideshare.net/yotaichino/ss-31714725">
+      <img src="http://image.slidesharecdn.com/random-140227063954-phpapp02/95/slide-1-638.jpg?cb=1393504960" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="http://www.slideshare.net/MakotoTakebayashi1/not-ruby">
+      <img src="http://image.slidesharecdn.com/201402meetup18-140215012808-phpapp02/95/slide-1-638.jpg?cb=1392449376" />
+    </a>
+  </li>
   <li data-date="2014-02-15">
     <a target="_blank" href="https://speakerdeck.com/kkabetani/kanazawa-dot-rb-slides">
       <img src="https://speakerd.s3.amazonaws.com/presentations/5aa8d82078ff013188c26efb74ab2287/slide_0.jpg" />
@@ -23,6 +73,11 @@ Kanazawa.rb Slides
   <li data-date="2014-02-15">
     <a target="_blank" href="http://www.slideshare.net/cottondesu/ss-31242666">
       <img src="http://image.slidesharecdn.com/random-140215095920-phpapp02/95/slide-1-638.jpg?cb=1392480306" />
+    </a>
+  </li>
+  <li data-date="2014-02-15">
+    <a target="_blank" href="http://www.slideshare.net/tomokazu/textobjects-vims-elegant-function">
+      <img src="http://image.slidesharecdn.com/kanazawarb18-140215061858-phpapp02/95/slide-1-638.jpg?cb=1392466867" />
     </a>
   </li>
   <li data-date="2014-02-15">
