@@ -10,6 +10,26 @@ title: Kanazawa.rb Slides
 Kanazawa.rb Slides
 ==================
 <ul class="slides">
+  <li data-date="2009-11-02">
+    <a target="_blank" href="http://www.slideshare.net/takot/ruby-2403320">
+      <img src="http://image.slidesharecdn.com/ruby-091102093045-phpapp02/95/slide-1-728.jpg?cb=1257175884" />
+    </a>
+  </li>
+  <li data-date="2014-06-21">
+    <a target="_blank" href="http://www.slideshare.net/yizawa/ghissue">
+      <img src="http://image.slidesharecdn.com/ghissue-140621023950-phpapp02/95/slide-1-638.jpg?cb=1403336492" />
+    </a>
+  </li>
+  <li data-date="2014-06-21">
+    <a target="_blank" href="http://www.slideshare.net/pharaohkj/basic-knowledge-of-3d">
+      <img src="http://image.slidesharecdn.com/basic3dknowledge-140621022626-phpapp02/95/slide-1-638.jpg?cb=1403335693" />
+    </a>
+  </li>
+  <li data-date="2014-06-21">
+    <a target="_blank" href="https://speakerdeck.com/keiko713/heroku101-kanazawa">
+      <img src="https://speakerd.s3.amazonaws.com/presentations/4f286740db430131fd3a768f64fa20bc/slide_0.jpg" />
+    </a>
+  </li>
   <li data-date="2014-05-17">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-34794458">
       <img src="http://image.slidesharecdn.com/random-140517024540-phpapp02/95/slide-1-638.jpg?cb=1400312828" />
