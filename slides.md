@@ -80,7 +80,6 @@ Kanazawa.rb Slides
       <img src="http://image.slidesharecdn.com/201402meetup18-140215012808-phpapp02/95/slide-1-638.jpg?cb=1392449376" />
     </a>
   </li>
->>>>>>> gh-pages
   <li data-date="2014-02-15">
     <a target="_blank" href="https://speakerdeck.com/kkabetani/kanazawa-dot-rb-slides">
       <img src="https://speakerd.s3.amazonaws.com/presentations/5aa8d82078ff013188c26efb74ab2287/slide_0.jpg" />
