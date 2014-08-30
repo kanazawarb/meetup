@@ -1,11 +1,13 @@
+[![Build Status](http://img.shields.io/travis/kanazawarb/meetup.svg)](https://travis-ci.org/kanazawarb/meetup)
+
 まずやること
 ------------
 
-    bundle install --path vendor
+    bundle install --path vendor/bundle --binstubs .bundle/bin
 
 もしくは
 
-    bundle install --path vendor --without livereload
+    bundle install --path vendor/bundle --binstubs .bundle/bin --without livereload
 
 ( guard-livereload を install したくない場合 )
 
@@ -13,6 +15,10 @@
 ------------
 
     bundle exec rake -T
+
+もしくは
+
+    .bundle/bin/rake -T
 
 すればだいたい分かるはず
 
