@@ -53,10 +53,11 @@ h2. ざっくりタイムテーブル
 |15:15-15:30(15 min)|Raftとは                   |izawa           |
 |15:30-15:40(10 min)|TravisCI                   |libero          |
 |15:40-15:50(10 min)|LINE スタンプつくってみた  |seiken          |
-|15:50-15:55(5 min) |Unity 勉強会について       |nyarurato       |
-|16:00-16:10(10 min)|客観的に振り返ろう         |cotton          |
-|16:10-16:15( 5 min)|俺と KPT 2nd year          |katoh           |
-|16:15-16:25(10 min)|休憩                       |                |
+|15:50-15:55( 5 min)|Unity 勉強会について       |nyarurato       |
+|16:00-16:05( 5 min)|KPT アンチパターン         |iskwa           |
+|16:05-16:15(10 min)|客観的に振り返ろう         |cotton          |
+|16:15-16:20( 5 min)|俺と KPT 2nd year          |katoh           |
+|16:15-16:20( 5 min)|休憩                       |                |
 |16:25-16:55(30 min)|Kanazawa.rb 振り返り KPT   |みんな          |
 |16:55-17:05(10 min)|Kanazawa.rb 運営ブレスト   |                |
 |17:05-17:15(10 min)|撤収                       |                |
