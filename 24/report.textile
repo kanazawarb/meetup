@@ -43,6 +43,9 @@ h2. 話題
 * 「次回 Kanazawa.rb #25 は 9/20(Sat) です、場所はまだ調整中。」
 * 「昨日の #kzrb は反省点が山盛りだったな。一番残念だったのは KPT がアンチパターンにはまってしまったこと。やったことに意味はあると思うのだけど、もう少しうまいやり方があったなと感じる。「全員参加」というイズムが「目標」を一本化しにくいという背景もあり、悩ましさも感じた。」
 
+h2. 二周年振り返り KPT (+ 運用ブレスト) ログ
+* "meetup24 運営ブレストログ (KPT)":https://github.com/kanazawarb/meetup/wiki/meetup24-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0-(KPT)
+
 h2. まとめ
 
 * "kanazawa.rb meetup 24 - Togetter":http://togetter.com/li/713300
