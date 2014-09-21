@@ -23,6 +23,8 @@ Coderetreat はソフトウェアの開発と設計の基礎を学ぶことを�
 
 「プログラミング」の「実地練習」をみんなで楽しみましょう！
 
+!pair-programming.png!
+
 |_.日時 |2014年 10/11(土) 13:00 〜 17:00                         |
 |_.会場 |ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>|
 |_.参加費|500円|
