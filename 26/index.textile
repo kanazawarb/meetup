@@ -6,6 +6,7 @@ date: 2014-10-11 (Sat)
 
 ---
 
+p>. <a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/15503">meetup #26</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
