@@ -23,6 +23,8 @@ h2. 話題
 * 「次回のmeetup28は12/20(土)で内容はLT大会です」
 * 「石川高専の☆ッ！」
 
+h2. 運営ブレストログ
+* "meetup27 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup27-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
 
 h2. まとめ
 
