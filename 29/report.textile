@@ -38,6 +38,9 @@ h2. 話題
 * 「納品出来ぬ者ゐとあはれ 」
 * 「本日も懇親会がだいぶひどかったw 前座のmeetupだけで帰られる方も多いですが、あのゆるふわコミュニティの本番は懇親会なので機会を作って参加してみると楽しいっすよ」
 
+h2. 運営ブレストログ
+* "meetup29 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup29-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
+
 h2. まとめ
 
 * "kanazawa.rb meetup 29 - Togetter":http://togetter.com/li/771747
