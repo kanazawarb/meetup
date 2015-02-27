@@ -30,6 +30,9 @@ h2. 話題
 * 「安定のクオリティの二次会です！」
 * 「めっちゃ笑ったから #kzrb に参加したって実感した！！」
 
+h2. 運営ブレストログ
+* "meetup30 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup30-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
+
 h2. まとめ
 
 * "kanazawa.rb meetup 30 - Togetter":http://togetter.com/li/786405
