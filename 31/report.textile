@@ -21,13 +21,16 @@ h2. 話題
 * 「ActiveJob + SuckerPunch でお手軽にバックグラウンドで実行できるんですよという様子は見せることができたけど、すげー締まりが悪い」
 * 「Appiumとappium_capybaraもご紹介させていただきました」
 * 「てか、さくらがCentOSなのでその上に直接docker入れれば良い。ので入れてみた。そしてやりたい事はコンテナをサーバイメージみたいにして気軽にやり直せる練習台を作る事。で、いまここ見てる。 "papix.hatenablog.com/entry/2014/12/…":http://papix.hatenablog.com/entry/2014/12/06/235150 」
-* 「ちょうど良いコンテナが落ちてたので拾ってきた。 
+* 「ちょうど良いコンテナが落ちてたので拾ってきた。
 "qiita.com/bounscale/item…":http://qiita.com/bounscale/items/24cfee84ae1d4135ee43 これで試してみる。」
 * 「来月のkanazawa.rb meetup#32 は4/25(土)で行います。」
 * 「少し早めの連絡ですが、再来月のkanazawa.rb meetup#33 は5/16(土)で行います。」
 * 「Ruby の case についての詳しい記事 "melborne.github.io/2013/02/25/i-w…":http://melborne.github.io/2013/02/25/i-wanna-say-something-about-rubys-case/ 」
 * 「RubyのクラスはClassクラスのインスタンスです。最初にはぁ？ってなるよね。」
 * 「そして全てのクラスの親は Object クラスです！！あぁ？」
+
+h2. 運営ブレストログ
+* "meetup31 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup31-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
 
 h2. まとめ
 
