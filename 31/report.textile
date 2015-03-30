@@ -35,6 +35,7 @@ h2. 運営ブレストログ
 h2. まとめ
 
 * "kanazawa.rb meetup 31 - Togetter":http://togetter.com/li/798233
+* "Kanazawa.rb meetup 31 | 30days":http://30d.jp/kzrb/21
 
 h2. 参加者のブログ
 
