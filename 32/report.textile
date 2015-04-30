@@ -35,6 +35,9 @@ h2. 話題
 * 「Code for Kanazawa の Civic Hack Night の告知！ "instagram.com/p/14_UBSwekk/":https://instagram.com/p/14_UBSwekk/ 」
 * 「懇親会の学割なくなったことで社会人になったことを実感」
 
+h2. 運営ブレストログ
+* "meetup32 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup32-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
+
 h2. まとめ
 
 * "kanazawa.rb meetup 32 - Togetter":http://togetter.com/li/813025
