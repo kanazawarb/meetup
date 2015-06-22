@@ -6,6 +6,8 @@ date: 2015-06-20 (Sat)
 
 ---
 
+p>. <a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
+
 h1. meetup #34
 
 Kanazawa.rb x Hokuriku.NET x JAWS-UG北陸  
