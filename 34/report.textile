@@ -97,6 +97,7 @@ h2. スライド
 * "俺とAWSSummit 2015":http://www.slideshare.net/pharaohkj/aws-summit-2015
 * "落ちないサービスをAWSで":http://www.slideshare.net/rch850/aws-49624265
 * "Google Cloud Platform を支える技術、のごく一部":http://www.slideshare.net/tomokazu/kanazawa-rb-34
+* "それでもボクはMicrosoft Azure を使う":http://www.slideshare.net/masakit/20150620-hokurikunet-presentaion
 
 h2. 参加者のブログ
 
