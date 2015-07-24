@@ -25,7 +25,7 @@ h2. 話題
 * 「きゃーkompiroさーん！ "pic.twitter.com/Yo59d7Rif0":http://twitter.com/wtnabe/status/622304444504391681/photo/1 」
 * 「流動の高まりを感じる…」
 * 「他21コメント "b.hatena.ne.jp/entry/ja.astah…":http://b.hatena.ne.jp/entry/ja.astahblog.com/2015/07/16/git_model/#tw?u=kkabetani “Gitのデータモデル | astah in 5 min” "htn.to/SoTQjj":http://ja.astahblog.com/2015/07/16/git_model/ 」
-* 「"ja.astahblog.com/2015/04/21/dev…":http://ja.astahblog.com/2015/04/21/dev-tools/ 紹介したブログ記事です。」
+* 「 "ja.astahblog.com/2015/04/21/dev…":http://ja.astahblog.com/2015/04/21/dev-tools/ 紹介したブログ記事です。」
 * 「Be玉さんのLT始まりました」
 * 「関西Ruby会議06 スライドまとめ "matome.naver.jp/odai/214366142…":http://matome.naver.jp/odai/2143661425669201301 」
 * 「「YAPC::Asiaと被ってる」ので8/29(土)にスライドしよう」
