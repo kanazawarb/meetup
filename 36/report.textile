@@ -40,6 +40,9 @@ h2. 話題
 * 「みんな巣立っていってしまった…」
 
 
+h2. 三周年振り返り KPT ログ
+* "meetup36 運営ブレストログ (KPT)":https://github.com/kanazawarb/meetup/wiki/meetup36-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0-(KPT)
+
 h2. 運営ブレストログ
 * "meetup36 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup36-%E9%81%8B%E5%96%B6%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
 
