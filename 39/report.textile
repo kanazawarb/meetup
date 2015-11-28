@@ -42,6 +42,9 @@ GitHubのIssueを管理するやーつをElectronでReact+Fluxで作ってます
 あと４名分枠あいてます！懇親会も（たぶん）やりますよ！」
 * 「Kanazawa.rb meetup 40 12/12(土) 「年忘れLT大会！」」
 
+h2. 運営ブレストログ
+* "meetup39 運営ブレストログ":https://github.com/kanazawarb/meetup/wiki/meetup-39-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0
+
 h2. まとめ
 
 * "kanazawa.rb meetup 39 - Togetter":http://togetter.com/li/903255
