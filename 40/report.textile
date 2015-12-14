@@ -54,6 +54,7 @@ h2. スライド
 h2. 参加者のブログ
 
 * "kanazawa.rb meetup #40 – 過ぎたるは及ばざるが如し":http://cotton-desu.hatenablog.com/entry/2015/12/13/154923
+* "『kanazawa.rb Meetup #40』に参加 - libAlexandrina.so.octopress":http://octopress.phalanxware.com/blog/2015/12/13/kanazawa-rb-meetup-40-ni-sanka/
 
 h2. 収支
 
