@@ -42,9 +42,13 @@ h2. セッション概要 「タイトル調整中」
 
 h2. ゲストプロフィール
 
+<!--
 ### !{margin-left: 1em; float: right}./hiranabe.jpg(hiranabe)!
+-->
 
 *平鍋　健児（ひらなべ　けんじ）*
+
+<!--
 
 ### 株式会社チェンジビジョン代表取締役社長、永和システムマネジメント代表取締役社長。
 ### オブジェクト指向技術、アジャイル開発、ファシリテーションのコンサルタントをしています。
@@ -66,6 +70,8 @@ alt="" title=""></a></div>
 
 ### * 株式会社チェンジビジョン "http://www.change-vision.com/":http://www.change-vision.com/
 ### * 永和システムマネジメント "http://www.esm.co.jp/":http://www.esm.co.jp/
+
+-->
 
 h2. ポジションペーパーについて
 
