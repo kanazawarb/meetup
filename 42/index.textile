@@ -25,6 +25,8 @@ h1. meetup #42
 
 h2. ざっくりタイムテーブル
 
+ *現在調整中*
+
 |_.時間             |_.内容                     |_.人            |
 |13:00              |開場                       |                |
 |13:15 〜 13:45     |自己紹介                   |みんな          |
@@ -36,19 +38,20 @@ h2. ざっくりタイムテーブル
 
 h2. セッション概要 「タイトル調整中」
 
-内容調整中
+ *内容調整中*
 
 h2. ゲストプロフィール
 
-!{margin-left: 1em; float: right}./hiranabe.jpg(hiranabe)!
+### !{margin-left: 1em; float: right}./hiranabe.jpg(hiranabe)!
 
 *平鍋　健児（ひらなべ　けんじ）*
 
-株式会社チェンジビジョン代表取締役社長、永和システムマネジメント代表取締役社長。 オブジェクト指向技術、アジャイル開発、ファシリテーションのコンサルタントをしています。
+### 株式会社チェンジビジョン代表取締役社長、永和システムマネジメント代表取締役社長。
+### オブジェクト指向技術、アジャイル開発、ファシリテーションのコンサルタントをしています。
 
-自分でオブジェクト指向開発を実践していく過程で、テクノロジーからプロセスへ、そしてピープルへとその興味が移っていきました。現在は、「アジャイルな」すべてのものを志向しています。最近の仕事は、マインドマップとUMLの融合エディタ、astah*(アスター、旧JUDE)の開発。新しいアイディアの可能性への挑戦です。
+### 自分でオブジェクト指向開発を実践していく過程で、テクノロジーからプロセスへ、そしてピープルへとその興味が移っていきました。現在は、「アジャイルな」すべてのものを志向しています。最近の仕事は、マインドマップとUMLの融合エディタ、astah*(アスター、旧JUDE)の開発。新しいアイディアの可能性への挑戦です。
 
-<div class="book-images"><a href="http://www.amazon.co.jp/dp/4798129704"><img src="http://ecx.images-amazon.com/images/I/41qg6STGdqL._SL160_.jpg"
+### <div class="book-images"><a href="http://www.amazon.co.jp/dp/4798129704"><img src="http://ecx.images-amazon.com/images/I/41qg6STGdqL._SL160_.jpg"
 height="160" width="109"
 alt="" title=""></a><a href="http://www.amazon.co.jp/dp/4822282295"><img src="http://ecx.images-amazon.com/images/I/51HKFQD123L._SL160_.jpg"
 height="160" width="113"
@@ -56,13 +59,13 @@ alt="" title=""></a><a href="http://www.amazon.co.jp/dp/4822281930"><img class="
 height="160" width="113"
 alt="" title=""></a></div>
 
-翻訳書として、『アジャイルプロジェクトマネジメント』、『リーンソフトウェア開発』やXP関連の書籍が多数あります。新刊『アジャイル開発とスクラム～顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント』では、野中郁次郎先生と共著で、日本の文化的な底力とソフトウェア開発について考察しています。 福井県大野市に住み、お酒と映画とJazzを愛しています。
+### 翻訳書として、『アジャイルプロジェクトマネジメント』、『リーンソフトウェア開発』やXP関連の書籍が多数あります。新刊『アジャイル開発とスクラム～顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント』では、野中郁次郎先生と共著で、日本の文化的な底力とソフトウェア開発について考察しています。 福井県大野市に住み、お酒と映画とJazzを愛しています。
 
-* Twitter "https://twitter.com/hiranabe":https://twitter.com/hiranabe
-* Blog "http://blogs.itmedia.co.jp/hiranabe/":http://blogs.itmedia.co.jp/hiranabe/
+### * Twitter "https://twitter.com/hiranabe":https://twitter.com/hiranabe
+### * Blog "http://blogs.itmedia.co.jp/hiranabe/":http://blogs.itmedia.co.jp/hiranabe/
 
-* 株式会社チェンジビジョン "http://www.change-vision.com/":http://www.change-vision.com/
-* 永和システムマネジメント "http://www.esm.co.jp/":http://www.esm.co.jp/
+### * 株式会社チェンジビジョン "http://www.change-vision.com/":http://www.change-vision.com/
+### * 永和システムマネジメント "http://www.esm.co.jp/":http://www.esm.co.jp/
 
 h2. ポジションペーパーについて
 
