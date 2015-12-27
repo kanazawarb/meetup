@@ -30,11 +30,11 @@ title: "#42"
 
 ## セッション概要 「アジャイル時代のモデリング」
 
-モデリングのパワーを活かしながらアジャイルに開発を進める、軽量モデリングの手法とその事例についてお話します。
+モデリングのパワーを活かしながらアジャイルに開発を進める、軽量モデリングの手法とその事例についてお話します。話題の DDD (Domain Driven Design)についても議論します。
 
-また、モデリングに関する内容で[astah* community](http://astah.change-vision.com/ja/product/astah-community.html)も利用したペアモデリングのワークショップが行われる予定です。
+また、モデリングに関する内容で[astah* community](http://astah.change-vision.com/ja/product/astah-community.html)も利用した「ペアモデリング」のワークショップが行われる予定です。
 
-※ 当日は [astah* community](http://astah.change-vision.com/ja/product/astah-community.html)  が事前にインストールされた PC を予めご用意ください
+※ 当日は [astah* community](http://astah.change-vision.com/ja/product/astah-community.html)  が事前にインストールされた PC を予めご用意ください。（astah* professional をお持ちの方はそのままでご参加ください。ペアを組みますので、インストールなしでも参加可能です。"わしは紙と鉛筆じゃ"という方もOK!）
 
 
 ## ゲストプロフィール
@@ -44,7 +44,7 @@ title: "#42"
 **平鍋　健児（ひらなべ　けんじ）**
 
 福井県大野市に住み、お酒と映画とJazzを愛する。
-1989年東京大学工学部卒業後、3次元CAD、リアルタイムシステム、UMLエディタJUDEなどの開発を経て、オブジェクト指向技術、アジャイル型開発の実践する「見える化」コンサルタントを生業としている。
+1989年東京大学工学部卒業後、3次元CAD、リアルタイムシステム、UMLエディタastah(旧 JUDE) などの開発を経て、オブジェクト指向技術、アジャイル開発を実践する「見える化」コンサルタントを生業としている。
 
 さらに詳しいプロフィールにつきましては、[こちら](https://anagileway.wordpress.com/about/) や [ポジションペーパー](https://gist.github.com/kenjihiranabe/11459530f874a371872f) をご参照ください。
 
