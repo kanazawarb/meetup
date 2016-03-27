@@ -14,7 +14,7 @@ title: "#44"
 -->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://manage.doorkeeper.jp/groups/kzrb/events/41938">meetup #44</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/41938">meetup #44</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
 # meetup #44
