@@ -15,6 +15,7 @@ title: "#7"
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
+
 meetup #7
 ==========
 
@@ -90,6 +91,7 @@ height="160" width="113"
 alt="" title=""></a><a href="http://www.amazon.co.jp/dp/4822281930"><img class="right" src="http://ecx.images-amazon.com/images/I/51ZPY244MRL._SL160_.jpg"
 height="160" width="113"
 alt="" title=""></a></div>
+
 
 翻訳書として、『アジャイルプロジェクトマネジメント』、『リーンソフトウェア開発』やXP関連の書籍が多数あります。新刊『アジャイル開発とスクラム～顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント』では、野中郁次郎先生と共著で、日本の文化的な底力とソフトウェア開発について考察しています。
 福井県大野市に住み、お酒と映画とJazzを愛しています。

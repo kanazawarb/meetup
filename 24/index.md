@@ -13,6 +13,7 @@ title: "#24"
 #24</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
+
 meetup #24
 ===========
 

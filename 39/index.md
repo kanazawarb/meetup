@@ -14,6 +14,7 @@ date: 2015-11-21 (Sat)
 #39</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
+
 meetup #39
 ===========
 

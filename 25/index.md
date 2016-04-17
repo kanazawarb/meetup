@@ -14,6 +14,7 @@ date: 2014-09-20 (Sat)
 #25</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
+
 meetup #25
 ===========
 
