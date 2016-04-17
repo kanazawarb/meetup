@@ -6,8 +6,8 @@ date: 2014-04-19 (Sat)
 
 ---
 
-p\>.
-<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
+<p>
+<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/9883">meetup

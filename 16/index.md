@@ -6,8 +6,8 @@ date: 2013-12-21 (Sat)
 
 ---
 
-p\>.
-<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
+<p>
+<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/7389" class="doorkeeper-registration-widget">meetup

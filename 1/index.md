@@ -5,8 +5,8 @@ title: "#1"
 
 ---
 
-p\>.
-<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
+<p>
+<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 kanazawa.rbってなに
 ===================
