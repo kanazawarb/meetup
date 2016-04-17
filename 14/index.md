@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#14”\
+title: "#14"
 date: 2013-10-19 (Sat)
 
 ---
@@ -19,8 +19,8 @@ p\>.
 meetup #14
 ===========
 
-意識高いもくもく会 in DMM.com Labo 金沢<br />feat. “Test ! Test ![]()
-Test ![]()!”
+意識高いもくもく会 in DMM.com Labo 金沢<br />feat. "Test ! Test ![]()
+Test ![]()!"
 
 やりたいこと、好きなことをもくもくと集中してやっちゃおう！！
 
@@ -58,9 +58,9 @@ Test ![]()!”
   13:10            自己紹介と目標発表                   みんな
   13:30 〜 13:40   テストざっくり                       [@Yukimitsu\_Izawa](https://twitter.com/Yukimitsu_Izawa)
   13:40 〜 13:45   テスティングフレームワークざっくり   [@wtnabe](https://twitter.com/wtnabe)
-  13:45 〜 14:00   RSpecはじめました                    “@kkabetani”:https://twitter.com/kkabetani
+  13:45 〜 14:00   RSpecはじめました                    "@kkabetani":https://twitter.com/kkabetani
   14:00 〜 14:10   休憩                                 
-  14:10 〜 14:30   ぼくのやってるふつうのこと           “@wtnabe”:https://twitter.com/wtnabe
+  14:10 〜 14:30   ぼくのやってるふつうのこと           "@wtnabe":https://twitter.com/wtnabe
   14:30 〜         フリータイム                         みんな
   16:00 〜         成果発表                             みんな
   16:25 〜         ネタに関する議論                     みんな

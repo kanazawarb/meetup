@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#0 boot loader”
+title: "#0 boot loader"
 
 ---
 

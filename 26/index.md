@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#26”\
+title: "#26"
 date: 2014-10-11 (Sat)
 
 ---
@@ -69,7 +69,7 @@ Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%
   ---------------- ------------------------- ----------------------------------------
   13:00            受付                      
   13:10            meetupイントロ            
-  13:15 〜 13:30   Coderetreatイントロ       “@kompiro”:https://twitter.com/kompiro
+  13:15 〜 13:30   Coderetreatイントロ       "@kompiro":https://twitter.com/kompiro
   13:30 〜 14:15   ペアプロ　セッション#1   みんな
   14:15 〜 14:30   ふりかえり#1             みんな
   14:30 〜 14:40   休憩                      みんな

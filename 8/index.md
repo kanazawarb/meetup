@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#8”
+title: "#8"
 
 ---
 
@@ -41,8 +41,8 @@ meetup #8
   13:00      開場                     
   13:10      自己紹介                 みんな
   13:30      発表                     
-             Kanazawa.rbの作り方      “@wtnabe”:https://twitter.com/wtnabe
-             Rubyネタで何か           “@Yukimitsu\_Izawa”:https://twitter.com/Yukimitsu\_Izawa
+             Kanazawa.rbの作り方      "@wtnabe":https://twitter.com/wtnabe
+             Rubyネタで何か           "@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa
   14:30      なんでも質問してみよう   みんな
   15:30      フリータイム             みんな
   16:55 〜   撤収                     

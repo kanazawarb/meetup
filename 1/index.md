@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#1”
+title: "#1"
 
 ---
 

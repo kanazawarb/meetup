@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#38”\
+title: "#38"
 date: 2015-10-17 (Sat)
 
 ---

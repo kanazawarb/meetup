@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#16”\
+title: "#16"
 date: 2013-12-21 (Sat)
 
 ---
@@ -49,13 +49,13 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
   ---------------- --------------------------------------------------------------- ----------------------------------------------------------
   13:00            開場                                                            
   13:10            自己紹介と目標発表                                              みんな
-  13:30 〜 13:40   2013年どやりんぐ                                                “@wtnabe”:https://twitter.com/wtnabe
+  13:30 〜 13:40   2013年どやりんぐ                                                "@wtnabe":https://twitter.com/wtnabe
   13:40 〜         フリータイム                                                    みんな
-  15:00 〜 15:15   Rails4 とさくらのVPSとAWS S3によるスモールスタートWebサービス   “@krhitoshi”:https://twitter.com/krhitoshi
-  15:15 〜 15:30   またDSLを作ってみた                                             “@Yukimitsu\_Izawa”:https://twitter.com/Yukimitsu\_Izawa
+  15:00 〜 15:15   Rails4 とさくらのVPSとAWS S3によるスモールスタートWebサービス   "@krhitoshi":https://twitter.com/krhitoshi
+  15:15 〜 15:30   またDSLを作ってみた                                             "@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa
   15:30 〜 15:40   休憩                                                            
-  15:40 〜 16:00   簡単な拡張機能の作り方 〜Chrome Extensions〜                    “@mi35co”:https://twitter.com/mi35co
-  16:00 〜 16:20   Global Day of Coderetreat in Fukui 2013に参加してきた           “@pobo380”:https://twitter.com/pobo380
+  15:40 〜 16:00   簡単な拡張機能の作り方 〜Chrome Extensions〜                    "@mi35co":https://twitter.com/mi35co
+  16:00 〜 16:20   Global Day of Coderetreat in Fukui 2013に参加してきた           "@pobo380":https://twitter.com/pobo380
   16:20 〜         成果発表                                                        みんな
   16:45 〜         ネタに関するディスカッション                                    みんな
   16:55 〜         撤収                                                            

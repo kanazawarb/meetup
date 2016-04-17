@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#6”
+title: "#6"
 
 ---
 
@@ -42,7 +42,7 @@ meetup #6
   13:00            開場                          
   13:10 〜 13:15   Intro                         
   13:15 〜 13:35   自己紹介                      みんな
-  13:35 〜 13:50   クラウドって何よ              “@Yukimitsu\_Izawa”:https://twitter.com/Yukimitsu\_Izawa
+  13:35 〜 13:50   クラウドって何よ              "@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa
   13:50 〜 14:10   Sqaleにアプリをデプったよー   [@kitak](https://twitter.com/kitak)
   14:10 〜 14:30   休憩                          
   14:30 〜 14:45   MOGOKはこう使え！             [@kiyohara](https://twitter.com/kiyohara)

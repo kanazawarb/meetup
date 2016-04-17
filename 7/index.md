@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#7”
+title: "#7"
 
 ---
 
@@ -43,9 +43,9 @@ Agile x Kanazawa.rb
   時間             内容                                           人
   ---------------- ---------------------------------------------- ------------------------------------------
   13:00            開場                                           
-  13:10 〜 13:15   Intro                                          “@wtnabe”:https://twitter.com/wtnabe
+  13:10 〜 13:15   Intro                                          "@wtnabe":https://twitter.com/wtnabe
   13:15 〜 13:45   自己紹介                                       みんな
-  13:45 〜 15:45   アジャイルプラクティスとわくわくする現場作り   “@hiranabe”:https://twitter.com/hiranabe
+  13:45 〜 15:45   アジャイルプラクティスとわくわくする現場作り   "@hiranabe":https://twitter.com/hiranabe
   15:45 〜 16:00   休憩                                           
   16:00 〜 16:50   フリータイム & LT                              みんな
   16:55 〜         撤収                                           

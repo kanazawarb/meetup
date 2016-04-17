@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#10”
+title: "#10"
 
 ---
 
@@ -48,9 +48,9 @@ Git
   13:00      開場                               
   13:10      自己紹介                           みんな
   13:30      発表                               
-             git 超入門編                       “@cotton\_desu”:https://twitter.com/cotton\_desu
-             Github の HUB                      “@kiyohara”:https://twitter.com/kiyohara
-             こわくないプルリク(Pull Request)   “@kiyohara”:https://twitter.com/kiyohara
+             git 超入門編                       "@cotton\_desu":https://twitter.com/cotton\_desu
+             Github の HUB                      "@kiyohara":https://twitter.com/kiyohara
+             こわくないプルリク(Pull Request)   "@kiyohara":https://twitter.com/kiyohara
   14:30      ディスカッション                   みんな
   15:30      フリータイム(ハンズオン)           みんな
   16:55 〜   撤収                               

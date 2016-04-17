@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: “#2”
+title: "#2"
 
 ---
 
@@ -31,11 +31,11 @@ meetup #2
   ---------------- -------------------------- --------------------------------------------
   13:00            開場                       
   13:30 〜 13:50   前説と自己紹介             みんな
-  13:50 〜 14:00   Bundler                    “@krhitoshi”:https://twitter.com/krhitoshi
-  14:00 〜 14:15   Sinatra ( Ruby )           “@kiyohara”:https://twitter.com/kiyohara
+  13:50 〜 14:00   Bundler                    "@krhitoshi":https://twitter.com/krhitoshi
+  14:00 〜 14:15   Sinatra ( Ruby )           "@kiyohara":https://twitter.com/kiyohara
   14:15 〜 14:30   休憩                       
-  14:30 〜 14:45   Mojolicious ( Perl )       “@taiju”:https://twitter.com/taiju
-  14:45 〜 15:00   Express ( JavaScript )     “@kitak”:https://twitter.com/kitak
+  14:30 〜 14:45   Mojolicious ( Perl )       "@taiju":https://twitter.com/taiju
+  14:45 〜 15:00   Express ( JavaScript )     "@kitak":https://twitter.com/kitak
   15:00 〜 16:50   もくもくしたりダベったり   みんな
   16:50 〜 17:00   片付け＆撤収               みんな
 
