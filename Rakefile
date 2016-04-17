@@ -41,8 +41,8 @@ namespace :travis do
   end
 end
 
-desc 'textile to md'
-task textile_to_md: [] do
+desc 'markdown to md'
+task markdown_to_md: [] do
   Dir.glob(['*/*.markdown']).each do |f|
     dir  = f.split('/')[0]
     file = f.split('/')[1].split('.')[0]
