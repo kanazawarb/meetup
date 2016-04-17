@@ -1,12 +1,14 @@
-------------------------------------------------------------------------
+---
 
-title: Meetup\
+title: Meetup
 layout: toplevel
 
-------------------------------------------------------------------------
+---
 
-p\>. <a href="./howto-make-meetup.html">-\> How to make meetup</a>\
+<p>
+<a href="./howto-make-meetup.html">-\> How to make meetup</a>
  <a href="./slides.html">-\> Kanazawa.rb Slides</a>
+</p>
 
 Let’s meet up !
 ===============
@@ -49,8 +51,7 @@ Let’s meet up !
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
-\* [Kanazawa.rb ポジションペーパー テンプレート —
-Gist](https://gist.github.com/5a523ec3180002229a32)
+* [Kanazawa.rb ポジションペーパー テンプレート — Gist](https://gist.github.com/5a523ec3180002229a32)
 
 **もちろん gist でなくても大丈夫です。** twitter の bio
 よりちょっと詳しい程度の情報があればだいぶイメージしやすいんじゃないかと思います。
@@ -58,6 +59,6 @@ Gist](https://gist.github.com/5a523ec3180002229a32)
 イメージ
 --------
 
-![](./images/pic_01.jpg)\
-![](./images/pic_02.jpg)\
+![](./images/pic_01.jpg)
+![](./images/pic_02.jpg)
 ![](./images/pic_03.jpg)
