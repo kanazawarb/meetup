@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#22”\
+layout: record
+title: “#22”\
 date: 2014-06-21 (Sat)
 
 ---
@@ -11,10 +11,10 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/10938">meetup
-\#22</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#22</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#22
+meetup #22
 ===========
 
 2014初夏のクラウド祭り。今度はHerokuだ！

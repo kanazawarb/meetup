@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#6”
+layout: record
+title: “#6”
 
 ---
 
@@ -10,12 +10,12 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/2606" class="doorkeeper-registration-widget">meetup
-\#6</a>
+#6</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#6
+meetup #6
 ==========
 
 冬の金沢クラウド祭り![]() ポロリもあるよ![]()

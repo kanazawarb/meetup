@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#16”\
+layout: record
+title: “#16”\
 date: 2013-12-21 (Sat)
 
 ---
@@ -11,15 +11,15 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/7389" class="doorkeeper-registration-widget">meetup
-\#16</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
+#16</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
 
 </div>
-meetup \#16
+meetup #16
 ===========
 
 意識高いもくもく会 in DMM.com Labo 金沢事業部
 
-meetup \#14 に引き続き DMM.com Labo
+meetup #14 に引き続き DMM.com Labo
 のオシャレオフィスの会議室をお借りします。
 
 Kanazawa.rbの意識高いもくもく会には以下のような特徴があります。

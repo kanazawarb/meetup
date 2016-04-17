@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#13”\
+layout: record
+title: “#13”\
 date: 2013-09-28 (Sat)
 
 ---
@@ -11,12 +11,12 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/5667" class="doorkeeper-registration-widget">meetup
-\#13</a>
+#13</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#13
+meetup #13
 ===========
 
 kanazawa.rb２年生になっての最初の意識高いもくもく会です。

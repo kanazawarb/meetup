@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#10”
+layout: record
+title: “#10”
 
 ---
 
@@ -10,12 +10,12 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/4106" class="doorkeeper-registration-widget">meetup
-\#10</a>
+#10</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#10
+meetup #10
 ===========
 
 Git こんなときどうするの？〜お前チョット教えて下さい祭り〜

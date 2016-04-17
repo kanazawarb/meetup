@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#1”
+layout: record
+title: “#1”
 
 ---
 
@@ -18,10 +18,10 @@ kanazawa.rbってなに
 Ruby興味ある、使ったらモテる、そう思っている人が自分たちで何かやってみる、そんなコミュニティです。え、興味あるの？
 YOU来ちゃいなよ！
 
-meetup \#1
+meetup #1
 ==========
 
-→ お申し込みは [kanazawa.rb meetup \#1 :
+→ お申し込みは [kanazawa.rb meetup #1 :
 ATND](http://atnd.org/events/31034) よりどうぞ！ ←
 
 まずは1回集まってみようと思います。
@@ -37,7 +37,7 @@ ATND](http://atnd.org/events/31034) よりどうぞ！ ←
 **参加費** は会場代および冷房代に充てます。現場で **現金**
 で回収しますので、お釣りの出ないようご協力お願いします。
 
-**懇親会 kanazawa.rb beerup \#1 もあります！**
+**懇親会 kanazawa.rb beerup #1 もあります！**
 
 ざっくりタイムテーブル
 ----------------------
@@ -118,7 +118,7 @@ Gist](https://gist.github.com/5a523ec3180002229a32)
 補足
 ----
 
-\* **懇親会 kanazawa.rb beerup \#1 もあります！**\
+\* **懇親会 kanazawa.rb beerup #1 もあります！**\
  \* 当日は PC を持参してきても持参してこなくても大丈夫です。WiFi
 はありますが、電源は十分なクチがないので、タップを持参してもらえると嬉しいです。特に
 Mac の人はアダプタが干渉しやすいので注意！\

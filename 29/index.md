@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#29”\
+layout: record
+title: “#29”\
 date: 2015-01-17 (Sat)
 
 ---
@@ -11,10 +11,10 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/19162">meetup
-\#29</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#29</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#29
+meetup #29
 ===========
 
 意識高いもくもく会 in DMM.com Labo 金沢事業部

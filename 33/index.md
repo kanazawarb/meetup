@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#33”\
+layout: record
+title: “#33”\
 date: 2015-05-16 (Sat)
 
 ---
@@ -11,10 +11,10 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/24598">meetup
-\#33</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#33</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#33
+meetup #33
 ===========
 
 Web APIでわいわいしちゃうぞ☆

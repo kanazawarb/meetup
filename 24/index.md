@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#24”
+layout: record
+title: “#24”
 
 ---
 
@@ -10,15 +10,15 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/13573">meetup
-\#24</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#24</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#24
+meetup #24
 ===========
 
 祝2周年kanazawa.rb 振り返り KPT
 
-meetup\#24でkanazawa.rbは2歳になります。パチパチ！！
+meetup#24でkanazawa.rbは2歳になります。パチパチ！！
 
 1年前のKPTから１年間のKanazawa.rbの活動を振り返ってみましょう。
 

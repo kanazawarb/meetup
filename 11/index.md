@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#11”
+layout: record
+title: “#11”
 
 ---
 
@@ -10,18 +10,18 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/4679" class="doorkeeper-registration-widget">meetup
-\#11</a>
+#11</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#11
+meetup #11
 ===========
 
 もくもく会＋α
 
 inspired by [もくもく会ポータル](http://mokumokukai.tumblr.com/) and
-[\#ishikitakai](https://ishikitakai.com/)
+[#ishikitakai](https://ishikitakai.com/)
 
 > もくもく会とはカフェとか誰かの家とかに集まって、それぞれ各自もくもくと勉強したり作業したり本を読んだりするだけの会のことです。
 

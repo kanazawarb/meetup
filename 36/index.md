@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#36”\
+layout: record
+title: “#36”\
 date: 2015-08-29 (Sat)
 
 ---
@@ -11,15 +11,15 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/29067">meetup
-\#36</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#36</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#36
+meetup #36
 ===========
 
 祝3周年kanazawa.rb 意識高いもくもく会
 
-meetup\#36でkanazawa.rbは3歳になります。\
+meetup#36でkanazawa.rbは3歳になります。\
 パチパチ！！あっという間の3年間でした。\
 これからも引き続き頑張ります。
 

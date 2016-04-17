@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#5”
+layout: record
+title: “#5”
 
 ---
 
@@ -10,12 +10,12 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/2380" class="doorkeeper-registration-widget">meetup
-\#5</a>
+#5</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#5
+meetup #5
 ==========
 
 A Happy New Year ![]()

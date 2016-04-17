@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#4”
+layout: record
+title: “#4”
 
 ---
 
@@ -10,12 +10,12 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/2048" class="doorkeeper-registration-widget">meetup
-\#4</a>
+#4</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#4
+meetup #4
 ==========
 
 〜 年忘れLT大会 〜
@@ -44,7 +44,7 @@ meetup \#4
                    わいわい or もくもく   みんな
   16:50 〜 17:00   片付け＆撤収           みんな
 
-**meetup \#4 は 全員LT の予定です！
+**meetup #4 は 全員LT の予定です！
 各自何を喋るかテーマを持って来てください。**
 
 LTやるので自己紹介タイムは端折ります。
@@ -60,7 +60,7 @@ LTについて
 
 LTを難しく考えすぎていませんか？
 LTは高い技術力を持った人が笑いを取りながらハックした成果を発表する場と思い込んでいませんか？
-そんなことはありません！ 少なくとも kanazawa.rb meetup \#4 の LT は
+そんなことはありません！ 少なくとも kanazawa.rb meetup #4 の LT は
 **なんだっていいよ！** kanazawa.rbはカンファレンスでも勉強会でもない！
 スライドなんかなくたっていい！
 

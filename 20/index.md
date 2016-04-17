@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#20”\
+layout: record
+title: “#20”\
 date: 2014-04-19 (Sat)
 
 ---
@@ -11,10 +11,10 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/9883">meetup
-\#20</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#20</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#20
+meetup #20
 ===========
 
 意識高いもくもく会

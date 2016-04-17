@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#7”
+layout: record
+title: “#7”
 
 ---
 
@@ -10,12 +10,12 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/3033" class="doorkeeper-registration-widget">meetup
-\#7</a>
+#7</a>
 
 <script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
 </script>
 </div>
-meetup \#7
+meetup #7
 ==========
 
 Agile x Kanazawa.rb

@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#26”\
+layout: record
+title: “#26”\
 date: 2014-10-11 (Sat)
 
 ---
@@ -11,10 +11,10 @@ p\>.
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/15503">meetup
-\#26</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#26</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
-meetup \#26
+meetup #26
 ===========
 
 Coderetreat mini in Kanazawa.rb
@@ -70,14 +70,14 @@ Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%
   13:00            受付                      
   13:10            meetupイントロ            
   13:15 〜 13:30   Coderetreatイントロ       “@kompiro”:https://twitter.com/kompiro
-  13:30 〜 14:15   ペアプロ　セッション\#1   みんな
-  14:15 〜 14:30   ふりかえり\#1             みんな
+  13:30 〜 14:15   ペアプロ　セッション#1   みんな
+  14:15 〜 14:30   ふりかえり#1             みんな
   14:30 〜 14:40   休憩                      みんな
-  14:40 〜 15:25   ペアプロ　セッション\#2   みんな
-  15:25 〜 15:40   ふりかえり\#2             みんな
+  14:40 〜 15:25   ペアプロ　セッション#2   みんな
+  15:25 〜 15:40   ふりかえり#2             みんな
   15:40 〜 15:50   休憩                      みんな
-  15:50 〜 16:35   ペアプロ　セッション\#3   みんな
-  16:35 〜 16:50   ふりかえり\#3             みんな
+  15:50 〜 16:35   ペアプロ　セッション#3   みんな
+  16:35 〜 16:50   ふりかえり#3             みんな
   16:50 〜 17:00   片付け＆撤収              みんな
 
 事前準備のお願い

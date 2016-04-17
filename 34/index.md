@@ -1,7 +1,7 @@
 ---
 
-layout: record\
-title: “\#34”\
+layout: record
+title: “#34”\
 date: 2015-06-20 (Sat)
 
 ---
@@ -9,7 +9,7 @@ date: 2015-06-20 (Sat)
 p\>.
 <a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a>
 
-meetup \#34
+meetup #34
 ===========
 
 Kanazawa.rb x Hokuriku.NET x JAWS-UG北陸
