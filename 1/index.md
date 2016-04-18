@@ -58,13 +58,13 @@ ATND](http://atnd.org/events/31034) よりどうぞ！ ←
 
 発表者のポジションペーパーはこんな感じです。
 
-\* [wtnabe’s position paper for kanazawa.rb —
+* [wtnabe’s position paper for kanazawa.rb —
 Gist](https://gist.github.com/3176363)\
- \* [Kanazawa.rb pocotan001 —
+ * [Kanazawa.rb pocotan001 —
 Gist](https://gist.github.com/31ed5ed489c107c3080e)\
- \* [Kanazawa.rb ポジションペーパー
+ * [Kanazawa.rb ポジションペーパー
 Gist](https://gist.github.com/59179d14e515bcfdfa75) ( @kabakiyo )\
- \* [Kanazawa.rb mitukiii —
+ * [Kanazawa.rb mitukiii —
 Gist](https://gist.github.com/f5aed1a1244a9bc82c5b)
 
 ポジションペーパーについて
@@ -81,7 +81,7 @@ Gist](https://gist.github.com/f5aed1a1244a9bc82c5b)
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
-\* [Kanazawa.rb ポジションペーパー テンプレート —
+* [Kanazawa.rb ポジションペーパー テンプレート —
 Gist](https://gist.github.com/5a523ec3180002229a32)
 
 **もちろん gist でなくても大丈夫です。** twitter の bio
@@ -118,13 +118,13 @@ Gist](https://gist.github.com/5a523ec3180002229a32)
 補足
 ----
 
-\* **懇親会 kanazawa.rb beerup #1 もあります！**\
- \* 当日は PC を持参してきても持参してこなくても大丈夫です。WiFi
+* **懇親会 kanazawa.rb beerup #1 もあります！**\
+ * 当日は PC を持参してきても持参してこなくても大丈夫です。WiFi
 はありますが、電源は十分なクチがないので、タップを持参してもらえると嬉しいです。特に
 Mac の人はアダプタが干渉しやすいので注意！\
- \*
+ *
 最初に自己紹介するので遅刻しないでもらえると嬉しいけど、途中の出入りは自由です。\
- \* 自己紹介とその後のダベりタイムを有意義に過ごすために
+ * 自己紹介とその後のダベりタイムを有意義に過ごすために
 **ポジションペーパーの作成をお勧めします！**
 
 今回はいわゆる勉強会っぽい形に合わせるために発表を用意します。でも発表する人としない人に分かれちゃうようなイメージは望んでなくて、みんなで作っていくような感じになれば嬉しいです。
@@ -135,22 +135,22 @@ Mac の人はアダプタが干渉しやすいので注意！\
 今後の展望
 ==========
 
-\* 毎月第3土曜くらいに集まってなんかやる\
- \* 毎回自己紹介タイムやりましょう\
+* 毎月第3土曜くらいに集まってなんかやる\
+ * 毎回自己紹介タイムやりましょう\
  **** 知ってる人がいなくてもきっと大丈夫！
 
 Rubyの利用範囲はとても広いので、
 
-\* インストール大会 ( rvm, rbenv, RubyInstaller, src + make )\
- \* Rails / non-Rails WAF\
- \* Webフロントエンド開発支援 ( sass, sprockets, … )\
- \* クラウド ( heroku, sqale )\
- \* TDD / BDD\
- \* ビルドツール ( rake ), デプロイ/デリバリー ( capistrano )\
- \* プロセス監視、ロギング ( god / bluepill, fluentd )\
- \* サーバ管理支援 ( chef, vargant )\
- \* その他ライブラリ紹介やコードリーディング\
- \* オレのgemを見ろ
+* インストール大会 ( rvm, rbenv, RubyInstaller, src + make )\
+ * Rails / non-Rails WAF\
+ * Webフロントエンド開発支援 ( sass, sprockets, … )\
+ * クラウド ( heroku, sqale )\
+ * TDD / BDD\
+ * ビルドツール ( rake ), デプロイ/デリバリー ( capistrano )\
+ * プロセス監視、ロギング ( god / bluepill, fluentd )\
+ * サーバ管理支援 ( chef, vargant )\
+ * その他ライブラリ紹介やコードリーディング\
+ * オレのgemを見ろ
 
 などなど様々なテーマに取り組めると思っていますし、
 **できる人がこの地域にもいます** 。基本的にはすべて kanazawa.rb

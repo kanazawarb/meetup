@@ -69,16 +69,16 @@ Python はどうした！ PHP はどうした！ という鼻息の荒い方も�
 
 ### ご新規様
 
-\* [Kanazawa.rb ポジションペーパー / tamoot —
+* [Kanazawa.rb ポジションペーパー / tamoot —
 Gist](https://gist.github.com/c8dc61f747ab79c9c58d)\
- \* [Kanazawa.rb ポジションペーパー —
+ * [Kanazawa.rb ポジションペーパー —
 Gist](https://gist.github.com/103a83bcb57743fa814c) (
 [`taiju":https://twitter.com/taiju )
  * "Kanazawa.rb ポジションペーパー(maedana) — Gist":https://gist.github.com/6a09da90500cbbe8a25a
  * "Kanazawa.rb ポジションペーパー  — Gist":https://gist.github.com/84f60a1a6d9451a12b1f ( "hi104 (Hitoshi Nakada)":https://github.com/hi104 )
  * "Kanazawa.rb ポジションペーパー  — Gist":https://gist.github.com/8dfb6626ccccff50dc3a ( "`checkela](https://twitter.com/checkela)
 )\
- \* [Kanazawa.rb ポジションペーパー —
+ * [Kanazawa.rb ポジションペーパー —
 Gist](https://gist.github.com/a7ea2f9565c4e8975ef1) (
 [@tokkie07](https://twitter.com/tokkie07) )
 
@@ -86,7 +86,7 @@ Gist](https://gist.github.com/a7ea2f9565c4e8975ef1) (
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
-\* [Kanazawa.rb ポジションペーパー テンプレート —
+* [Kanazawa.rb ポジションペーパー テンプレート —
 Gist](https://gist.github.com/5a523ec3180002229a32)
 
 **もちろん gist でなくても大丈夫です。** twitter の bio
@@ -95,14 +95,14 @@ Gist](https://gist.github.com/5a523ec3180002229a32)
 補足
 ----
 
-\* 当日は PC を持参してきても持参してこなくても大丈夫です。\
- \* WiFi はありますが、人数が多いと繋がらなくなる可能性があります＞＜\
- \* 電源は十分なクチがないので、 **タップを持参**
+* 当日は PC を持参してきても持参してこなくても大丈夫です。\
+ * WiFi はありますが、人数が多いと繋がらなくなる可能性があります＞＜\
+ * 電源は十分なクチがないので、 **タップを持参**
 してもらえると嬉しいです。特に **Mac の人はアダプタが干渉しやすい**
 ので注意！\
- \*
+ *
 最初に自己紹介するので遅刻しないでもらえると嬉しいけど、途中の出入りは自由です。\
- \* 自己紹介とその後のダベりタイムを有意義に過ごすために
+ * 自己紹介とその後のダベりタイムを有意義に過ごすために
 **ポジションペーパーの作成をお勧めします！**
 
 喋る人はプロジェクタにちゃんと繋がるように準備してきてね！

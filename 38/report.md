@@ -65,7 +65,7 @@ meetup #38 report
 -   「こうやっておくと勝手につくられる。こうやっておくと勝手に関連付けられる。こうやっておくと勝手にいいがにしてくれる。これが
     rails の神髄。」
 -   「\$ rails generate scaffold note body:text した後に
-    /db/migrate/\*\_notes.rb を編集して t.interger :todo\_id
+    /db/migrate/*\_notes.rb を編集して t.interger :todo\_id
     を3行目の下に追加して \$ rake db:migrate」
 -   「/app/models/todo.rb に has\_many :notes を追加 /app/models/note.rb
     に belongs\_to :todo を追加 その後 \$ rails console で
