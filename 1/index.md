@@ -58,14 +58,11 @@ ATND](http://atnd.org/events/31034) よりどうぞ！ ←
 
 発表者のポジションペーパーはこんな感じです。
 
-* [wtnabe’s position paper for kanazawa.rb —
-Gist](https://gist.github.com/3176363)\
- * [Kanazawa.rb pocotan001 —
-Gist](https://gist.github.com/31ed5ed489c107c3080e)\
+* [wtnabe’s position paper for kanazawa.rb — Gist](https://gist.github.com/3176363)\
+ * [Kanazawa.rb pocotan001 — Gist](https://gist.github.com/31ed5ed489c107c3080e)\
  * [Kanazawa.rb ポジションペーパー
 Gist](https://gist.github.com/59179d14e515bcfdfa75) ( @kabakiyo )\
- * [Kanazawa.rb mitukiii —
-Gist](https://gist.github.com/f5aed1a1244a9bc82c5b)
+ * [Kanazawa.rb mitukiii — Gist](https://gist.github.com/f5aed1a1244a9bc82c5b)
 
 ポジションペーパーについて
 --------------------------
@@ -81,25 +78,21 @@ Gist](https://gist.github.com/f5aed1a1244a9bc82c5b)
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
-* [Kanazawa.rb ポジションペーパー テンプレート —
-Gist](https://gist.github.com/5a523ec3180002229a32)
+* [Kanazawa.rb ポジションペーパー テンプレート — Gist](https://gist.github.com/5a523ec3180002229a32)
 
 **もちろん gist でなくても大丈夫です。** twitter の bio
 よりちょっと詳しい程度の情報があればだいぶイメージしやすいんじゃないかと思います。
 
 ### 参加者(?)のポジションペーパー
 
--   [Kanazawa.rb ポジションペーパー —
-    Gist](https://gist.github.com/c030f92624fd35a32ccc) ( `libero )
+-   [Kanazawa.rb ポジションペーパー —     Gist](https://gist.github.com/c030f92624fd35a32ccc) ( `libero )
     * "Kanazawa.rb ポジションペーパー (izawa) &mdash; Gist":https://gist.github.com/a74c7472a3d745ad6460
     * "Kanazawa.rb kiyohara &mdash; Gist":https://gist.github.com/2d030661c9115813dc1f
     * "Kanazawa.rb shirokuro331 &mdash; Gist":https://gist.github.com/21f74f9a83e626f0fcbb
     * "Kanazawa.rb ポジションペーパー &mdash; Gist":https://gist.github.com/84e50189a8e643b4cb96 ( `cotton\_desu
     )
--   [Kanazawa.rb kitakのポジションペーパー —
-    Gist](https://gist.github.com/1ff61592bf93bbbc9849)
--   [Kanazawa.rb toshi3221 —
-    Gist](https://gist.github.com/1382e3e18cfab7c16b91)
+-   [Kanazawa.rb kitakのポジションペーパー —     Gist](https://gist.github.com/1ff61592bf93bbbc9849)
+-   [Kanazawa.rb toshi3221 —     Gist](https://gist.github.com/1382e3e18cfab7c16b91)
 -   "Kanazawa.rb ポジションペーパー
     (`masayan_kazu) — Gist":https://gist.github.com/ec47281fffbb9268dad4
     * "Kanazawa.rb aizawa1126 — Gist":https://gist.github.com/3377956
@@ -108,12 +101,9 @@ Gist](https://gist.github.com/5a523ec3180002229a32)
     * "Kanazawa.rb takebayashi — Gist":https://gist.github.com/817f5c5f81d5e4d0353a
     * "Kanazawa.rb ポジションペーパー  — Gist":https://gist.github.com/7b84a5da318e80d7bdbf ( `miyakawa2449
     )
--   [Kanazawa.rb PharaohKJ —
-    Gist](https://gist.github.com/216f1e420cdd317651c1)
--   [Kanazawa.rb ポジションペーパー —
-    Gist](https://gist.github.com/9a898208ebc54320673e) ( @asaijo )
--   [Kanazawa.rb t32k —
-    Gist](https://gist.github.com/68bc35ff5b094cc74f41)
+-   [Kanazawa.rb PharaohKJ —     Gist](https://gist.github.com/216f1e420cdd317651c1)
+-   [Kanazawa.rb ポジションペーパー —     Gist](https://gist.github.com/9a898208ebc54320673e) ( @asaijo )
+-   [Kanazawa.rb t32k —     Gist](https://gist.github.com/68bc35ff5b094cc74f41)
 
 補足
 ----

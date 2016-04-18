@@ -17,8 +17,7 @@ meetup #7 report
 <p>
 <a href="https://twitter.com/search/%23kzrb">#kzrb</a> 金沢.rb
 始めます。
-<a href="http://t.co/5Rv8Y1N0Nj" title="http://twitter.com/hiranabe/status/317848334951919616/photo/1">twitter.com/hiranabe/statu…</a></p>—
-Kenji Hiranabe (@hiranabe)
+<a href="http://t.co/5Rv8Y1N0Nj" title="http://twitter.com/hiranabe/status/317848334951919616/photo/1">twitter.com/hiranabe/statu…</a></p>— Kenji Hiranabe (@hiranabe)
 <a href="https://twitter.com/hiranabe/status/317848334951919616">March
 30, 2013</a></blockquote>
 
@@ -79,8 +78,7 @@ Sasaki (@shirokuro331)
 <blockquote class="twitter-tweet">
 <p>
 昨日(2013/03/30)実施された Kanazawa.rb meetup 7
-の様子を納めた写真アルバムを公開しました。こちらからご覧ください。<a href="https://t.co/PVCK6kl9t1" title="https://www.facebook.com/media/set/?set=a.517668398275601">facebook.com/media/set/?set…</a><a href="https://twitter.com/search/%23kzrb">#kzrb</a></p>—
-Kanazawa.rb (@kanazawarb)
+の様子を納めた写真アルバムを公開しました。こちらからご覧ください。<a href="https://t.co/PVCK6kl9t1" title="https://www.facebook.com/media/set/?set=a.517668398275601">facebook.com/media/set/?set…</a><a href="https://twitter.com/search/%23kzrb">#kzrb</a></p>— Kanazawa.rb (@kanazawarb)
 <a href="https://twitter.com/kanazawarb/status/318183622328844289">March
 31, 2013</a></blockquote>
 

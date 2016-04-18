@@ -106,8 +106,7 @@ Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
-* [Kanazawa.rb ポジションペーパー テンプレート —
-Gist](https://gist.github.com/5a523ec3180002229a32)
+* [Kanazawa.rb ポジションペーパー テンプレート — Gist](https://gist.github.com/5a523ec3180002229a32)
 
 **もちろん gist でなくても大丈夫です。** twitter の bio
 よりちょっと詳しい程度の情報があればだいぶイメージしやすいんじゃないかと思います。

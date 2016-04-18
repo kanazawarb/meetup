@@ -69,25 +69,21 @@ Python はどうした！ PHP はどうした！ という鼻息の荒い方も�
 
 ### ご新規様
 
-* [Kanazawa.rb ポジションペーパー / tamoot —
-Gist](https://gist.github.com/c8dc61f747ab79c9c58d)\
- * [Kanazawa.rb ポジションペーパー —
-Gist](https://gist.github.com/103a83bcb57743fa814c) (
+* [Kanazawa.rb ポジションペーパー / tamoot — Gist](https://gist.github.com/c8dc61f747ab79c9c58d)\
+ * [Kanazawa.rb ポジションペーパー — Gist](https://gist.github.com/103a83bcb57743fa814c) (
 [`taiju":https://twitter.com/taiju )
  * "Kanazawa.rb ポジションペーパー(maedana) — Gist":https://gist.github.com/6a09da90500cbbe8a25a
  * "Kanazawa.rb ポジションペーパー  — Gist":https://gist.github.com/84f60a1a6d9451a12b1f ( "hi104 (Hitoshi Nakada)":https://github.com/hi104 )
  * "Kanazawa.rb ポジションペーパー  — Gist":https://gist.github.com/8dfb6626ccccff50dc3a ( "`checkela](https://twitter.com/checkela)
 )\
- * [Kanazawa.rb ポジションペーパー —
-Gist](https://gist.github.com/a7ea2f9565c4e8975ef1) (
+ * [Kanazawa.rb ポジションペーパー — Gist](https://gist.github.com/a7ea2f9565c4e8975ef1) (
 [@tokkie07](https://twitter.com/tokkie07) )
 
 ### テンプレート
 
 gist用のテンプレートも用意しました。forkして書き換えるだけで使えるので便利！
 
-* [Kanazawa.rb ポジションペーパー テンプレート —
-Gist](https://gist.github.com/5a523ec3180002229a32)
+* [Kanazawa.rb ポジションペーパー テンプレート — Gist](https://gist.github.com/5a523ec3180002229a32)
 
 **もちろん gist でなくても大丈夫です。** twitter の bio
 よりちょっと詳しい程度の情報があればだいぶイメージしやすいんじゃないかと思います。
