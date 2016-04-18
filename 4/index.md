@@ -53,8 +53,8 @@ LTやるので自己紹介タイムは端折ります。
 LTについて
 ----------
 
-* Lightning Talks または Lightweight Talks\
- * 1人1本以上持参\
+* Lightning Talks または Lightweight Talks
+ * 1人1本以上持参
  * 1本 **5分以内** 厳守
 
 **完成度は問いません！**
@@ -72,10 +72,10 @@ LTは高い技術力を持った人が笑いを取りながらハックした成
 
 ### テーマ
 
-* この1年でやったこと / この1年で忘れたこと\
- * Rubyでこんなことできました / Rubyのここキモくないですか\
- * 読んだ本の感想\
- * 好きなラーメン\
+* この1年でやったこと / この1年で忘れたこと
+ * Rubyでこんなことできました / Rubyのここキモくないですか
+ * 読んだ本の感想
+ * 好きなラーメン
  * **その他自由**
 
 **つ ま り 自 由**
@@ -83,11 +83,11 @@ LTは高い技術力を持った人が笑いを取りながらハックした成
 ### 参考
 
 * [5分でわかる！ LTソン in YAPC::ASIA
-2012](http://ltthon-yapc2012.hachiojipm.org/)\
+2012](http://ltthon-yapc2012.hachiojipm.org/)
  * [「あなたの話が聞きたい。」 Yamirubykaigi
-2011](http://www.slideshare.net/YamakoWindish/yamirubykaigi-2011)\
+2011](http://www.slideshare.net/YamakoWindish/yamirubykaigi-2011)
  * [発表募集に応募するコツと、カンファレンスでLTする効果の実例について
-// Speaker Deck](https://speakerdeck.com/bash0c7/yapc-ltthon-28)\
+// Speaker Deck](https://speakerdeck.com/bash0c7/yapc-ltthon-28)
  *
 [【動画あり】５分でわかる「LTの作り方とポイント」あるいはウケるプレゼンのコツ -
 941::blog](http://blog.kushii.net/archives/1775341.html)
@@ -114,12 +114,12 @@ gist用のテンプレートも用意しました。forkして書き換えるだ
 補足
 ----
 
-* 当日は PC を持参してきても持参してこなくても大丈夫です。\
+* 当日は PC を持参してきても持参してこなくても大丈夫です。
  *
-ネットワークはありません。各自で頑張りましょう。（一応freespotがあるらしいけどすぐパンクするとのこと）\
+ネットワークはありません。各自で頑張りましょう。（一応freespotがあるらしいけどすぐパンクするとのこと）
  * 電源は十分なクチがないので、 **タップを持参**
 してもらえると嬉しいです。特に **Mac の人はアダプタが干渉しやすい**
-ので注意！\
+ので注意！
  *
 最初に自己紹介するので遅刻しないでもらえると嬉しいけど、途中の出入りは自由です。
 

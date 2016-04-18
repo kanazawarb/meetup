@@ -42,23 +42,23 @@ meetup #38 report
 -   「bundle exec rails generate scaffold todo description:string
     due:datetime note:text を実行してる」
 -   「scaffoldすると、ぜんぶいいがにできるらしい。」
--   「rails コマンドってのがあるよ。\
+-   「rails コマンドってのがあるよ。
     「\$ rails」って打ったら出来ること一覧がでるよ。rake
-    コマンドってのもあるよ。\
+    コマンドってのもあるよ。
     「\$ rake -T」って打ったら出来ること一覧がでるよ。」
 -   「cloud9の人は、\$ rails s -p \$PORT -b \$IP これでいけるぽい。」
 -   「ブラウザを通さなくても \$ rails console から DB
     の中身みれたり操作できたりするよ。」
--   「ブラウザの <URL>/todos に関して\
-    /app/controllers/todos\_controller.rb の def index がコントローラー\
+-   「ブラウザの <URL>/todos に関して
+    /app/controllers/todos\_controller.rb の def index がコントローラー
     /app/views/todos/index.html.erb がビュー」
 -   「コントローラー側で作成したインスタンス変数の中身をビュー側で参照する感じ。」
 -   「\$ rake routes でパス一覧がみれるよ。」
 -   「\_form.erb ってのは共通部品の view
     だよ。パーシャルっていうよ。詳しくはおググりください。」
--   「erb は `<% %>` の間が ruby のコードだよ。\
+-   「erb は `<% %>` の間が ruby のコードだよ。
     `<%= %>` としておくと出力が html
-    として出てくるよ。基本はエスケープされるよ。\
+    として出てくるよ。基本はエスケープされるよ。
     エスケープさせたくなかったら `<%== %>` って書いたらいいよ。」
 -   「rails のお勉強によいドキュメントRails Guides (
     [railsguides.jp](http://railsguides.jp/) )」
@@ -70,9 +70,9 @@ meetup #38 report
 -   「/app/models/todo.rb に has\_many :notes を追加 /app/models/note.rb
     に belongs\_to :todo を追加 その後 \$ rails console で
     Todo.first.notes」
--   「で、次の編集は… こちらをご参照ください。\
+-   「で、次の編集は… こちらをご参照ください。
 
-    [github.com/wtnabe/rails-h…](https://github.com/wtnabe/rails-handson-todosample/commit/98f1090ca110147593a49d61340410018e5bc42f)\
+    [github.com/wtnabe/rails-h…](https://github.com/wtnabe/rails-handson-todosample/commit/98f1090ca110147593a49d61340410018e5bc42f)
      わからないところがあると思うので、担当者がまわります！」
 -   「もっと進めたい人は、ここを参照するといいよ。 Rails Girls (
     [railsgirls.jp](http://railsgirls.jp/) )。特に「イベントの後:

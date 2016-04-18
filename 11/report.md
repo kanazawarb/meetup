@@ -19,7 +19,7 @@ meetup #11 report
 -   「Meet感大事」
 -   「失敗してもいいじゃない。Kanazawa.rbだもん」
 -   「情報収集には Github + Coderwall がオススメ」
--   「次回のmeetup12は2013/08/24(Sat)一周年記念です」\
+-   「次回のmeetup12は2013/08/24(Sat)一周年記念です」
     「ビアガーデンを楽しもう」「meetup内容より懇親会内容が決まったよ」
 -   「git reset 怖くない」「git rebase 怖くない」
 -   「pro gitは読んだ方がいいよ」

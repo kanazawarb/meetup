@@ -46,9 +46,9 @@ togetter っていう便利なものがあります
 セッションのスライド
 --------------------
 
-[qaleにアプリをアプリをデプロイしたよー](http://www.slideshare.net/KeisukeKita/sqale)\
+[qaleにアプリをアプリをデプロイしたよー](http://www.slideshare.net/KeisukeKita/sqale)
 [Starting MOGOK - やさしい MOGOK
-の始めかた -](http://www.slideshare.net/tomokazu/kanazawa-rb-06)\
+の始めかた -](http://www.slideshare.net/tomokazu/kanazawa-rb-06)
 [Inside of
 MOGOK](http://www.slideshare.net/IIJ_MOGOK/kanazawarb-slideshare)
 
@@ -56,13 +56,13 @@ MOGOK](http://www.slideshare.net/IIJ_MOGOK/kanazawarb-slideshare)
 ------
 
 [学ばない日があろうか: kanazawa.rb #6
-参加してきました](http://mirutover.blogspot.jp/2013/02/kanazawarb-6.html)\
+参加してきました](http://mirutover.blogspot.jp/2013/02/kanazawarb-6.html)
 [Kanazawa.rb Meetup #6 に参加して MOGOK と Sqale のお話を聞いてきた。 |
-15NOTE](http://15vision.jp/mobile/note/event-report/kanazawarb-meetup-6.html)\
+15NOTE](http://15vision.jp/mobile/note/event-report/kanazawarb-meetup-6.html)
 [kanazawa.rb meetup #6 -
-過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/02/17/221901)\
+過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/02/17/221901)
 [2月16日、kanazawa.rb に行って来ました。 | Yuuitiro’s
-blog](http://www.vcnet.toyama.toyama.jp/?p=6)\
+blog](http://www.vcnet.toyama.toyama.jp/?p=6)
 [Kanazawa.rb Meetup #6に参加してきました。 |
 もごろぐ](http://blog.ruby.iijgio.com/2013/02/26/kanazawa-rb-meetup-6)
 

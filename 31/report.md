@@ -33,7 +33,7 @@ meetup #31 report
 -   「てか、さくらがCentOSなのでその上に直接docker入れれば良い。ので入れてみた。そしてやりたい事はコンテナをサーバイメージみたいにして気軽にやり直せる練習台を作る事。で、いまここ見てる。
     [papix.hatenablog.com/entry/2014/12/…](http://papix.hatenablog.com/entry/2014/12/06/235150)
     」
--   「ちょうど良いコンテナが落ちてたので拾ってきた。\
+-   「ちょうど良いコンテナが落ちてたので拾ってきた。
     [qiita.com/bounscale/item…](http://qiita.com/bounscale/items/24cfee84ae1d4135ee43)
     これで試してみる。」
 -   「来月のkanazawa.rb meetup#32 は4/25(土)で行います。」

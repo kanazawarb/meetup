@@ -18,7 +18,7 @@ meetup #39 report
 -   「ABCDの練習します」
 -   「Reactの練習がてらChromeのextensionを。へーそんなことができるのね。」
 -   「
-    [github.com/noboru-i/issue…](https://github.com/noboru-i/issue-hub)\
+    [github.com/noboru-i/issue…](https://github.com/noboru-i/issue-hub)
     GitHubのIssueを管理するやーつをElectronでReact+Fluxで作ってます。Reduxにしようか悩み中。」
 -   「今日は Toyama.rb
     の中の人が参加しているということで襟を正してぐんにょりしている。」
@@ -47,7 +47,7 @@ meetup #39 report
     [instagram.com/p/-Vk3QiweqD/](https://www.instagram.com/p/-Vk3QiweqD/)
     」
 -   「これですね。「Androidのコードを自動で解析し、GitHubのpull
-    requestにコメントする」\
+    requestにコメントする」
 
     [qiita.com/noboru\_i/items…](http://qiita.com/noboru_i/items/2f30296db1c8a6dfbd9b)
     」
@@ -68,7 +68,7 @@ meetup #39 report
 -   「Kernel/VM探検隊@北陸２のイベントページはこちらです
     [connpass.com/event/22924/](http://connpass.com/event/22924/) 」
 -   「Toyama.rb 募集ページです。
-    [toyamarb.doorkeeper.jp/events/34458](https://toyamarb.doorkeeper.jp/events/34458)\
+    [toyamarb.doorkeeper.jp/events/34458](https://toyamarb.doorkeeper.jp/events/34458)
     あと４名分枠あいてます！懇親会も（たぶん）やりますよ！」
 -   「Kanazawa.rb meetup 40 12/12(土) 「年忘れLT大会！」」
 
