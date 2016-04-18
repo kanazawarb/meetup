@@ -13,7 +13,7 @@ title: "#45"
 -->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="">meetup #45</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/43523">kanazawa.rb meetup #45</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
 # meetup #45
