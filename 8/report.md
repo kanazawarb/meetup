@@ -24,19 +24,14 @@ meetup #8 report
 -   「doorkeeperの管理グループに同報でメッセージ投げられたら便利なのにね」
 -   「rvmってrubyyyyyyyyyyって言ってるやつだよね」「ユーザーを分けることとdefaultの使い方がミソ」「これで万が一うまく動かなくてもrvmの見る先変えるだけでいいよ」「はーなるほどね」
 -   「うぉ。このペンごんぶとじゃね？」「字ぃちっちゃくね？」
--   「gemsetってrubyのバージョンごとに持つの？」「うん。native
-    extensionとか1.8/1.9の違いとかあるしね」
+-   「gemsetってrubyのバージョンごとに持つの？」「うん。native extensionとか1.8/1.9の違いとかあるしね」
 -   「bundler使うと複数のアプリの依存gemいっぺんに上げなくて済むから楽だよ」「レガシーPHPの苦労がね」「死ねるね」「gemって複数バージョン保持してくれていいよね」「cpanてあってね」
--   「binstub大好き」「"bundle
-    exec"を省略する話って前にLTでしたね」「え、そうなの」「えっ」「えっ」
+-   「binstub大好き」「"bundle exec"を省略する話って前にLTでしたね」「え、そうなの」「えっ」「えっ」
 -   「特定のディレクトリ以下でrubyのバージョンが勝手に切り替わるアレがいいよね」
--   「rbenv使い始めたときに\`which
-    ruby\`に変化なくてすげー悩んだけど、\`ruby -v\`は変わってるからいいんだと理解」
+-   「rbenv使い始めたときに `which ruby`に変化なくてすげー悩んだけど、`ruby -v`は変わってるからいいんだと理解」
 -   「chefって何ができるの？」「OSとRubyインストール後は基本なんでもいけるよね」「deployを含めるか含めないかは議論あるね」「おれ含めない派」「抽象化されるの？」「Windowsは？」「BSDは？」「vagrantがね」「いっぺんに大量の新しい単語が出てきてめんどくさいんだよねー」
 -   「テストって何するんすか？」「ひたすらクリック」「ひたすらスワイプ」「テレビ見れると思って何も知らないおばちゃんが来た」「テスト仕様書の書き方があってね」「依存関係がね」「メソッド切ればよくね？」「まぁこれはその大変さを学ぶってやつで」「本番も同じことやってね？」
--   「jekyll —server
-    —autoで作業してます」「githubには上げてないけど実はlivereloadも使ってます」「CSS
-    3も使ってます」
+-   「jekyll —server —autoで作業してます」「githubには上げてないけど実はlivereloadも使ってます」「CSS 3も使ってます」
 -   「こんな感じで次回予告をpushしてtwitterで流します」
 
 <!-- -->
@@ -51,32 +46,28 @@ meetup #8 report
 まとめ
 ------
 
--   [Kanazawa.rb meetup #8 |
-    Facebook](https://www.facebook.com/media/set/?set=a.525080017534439.1073741826.462234290485679)
+-   [Kanazawa.rb meetup #8 - Facebook](https://www.facebook.com/media/set/?set=a.525080017534439.1073741826.462234290485679)
 -   [kanazawa.rb meetup #8 - Togetter](http://togetter.com/li/491035)
 
 スライド
 --------
 
--   [RVM with Server
-    Environment](http://www.slideshare.net/yizawa/rvm-server)
+-   [RVM with Server Environment](http://www.slideshare.net/yizawa/rvm-server)
 
 参加者のブログ
 --------------
 
--   [kanazawa.rb meetup #8 -
-    過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/04/23/005041)
--   [あーありがち - Kanazawa.rb meetup
-    #8「なんでも質問してみよう」でした](http://aligach.net/diary/20130420.html)
+-   [kanazawa.rb meetup #8 - 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/04/23/005041)
+-   [あーありがち - Kanazawa.rb meetup #8「なんでも質問してみよう」でした](http://aligach.net/diary/20130420.html)
 
 収支
 ----
 
-  項目                  金額       補足
-  --------------------- ---------- ---------------
-  部屋代 + 冷暖房費     3,837円    @wtnabe支払い
-  参加費合計            3,500円    
-  meetup #7 くり越し   12,393円   
-  差額                  12,056円   
+ | 項目 | 金額 | 補足
+ | --------------------- | ---------- | ---------------
+ | 部屋代 + 冷暖房費 | 3,837円 | @wtnabe支払い
+ | 参加費合計 | 3,500円 | 
+ | meetup #7 | くり越し | 12,393円 | 
+ | 差額 | 12,056円 | 
 
 

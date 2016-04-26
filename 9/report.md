@@ -30,8 +30,7 @@ meetup #9 report
 まとめ
 ------
 
--   [Kanazawa.rb meetup #9 |
-    Facebook](https://www.facebook.com/media/set/?set=a.538471556195285.1073741827.462234290485679)
+-   [Kanazawa.rb meetup #9 - Facebook](https://www.facebook.com/media/set/?set=a.538471556195285.1073741827.462234290485679)
 -   [kanazawa.rb meetup #9 - Togetter](http://togetter.com/li/508679)
 
 スライド
@@ -42,21 +41,19 @@ meetup #9 report
 参加者のブログ
 --------------
 
--   [kanazawa.rb meetup #9 -
-    過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/05/26/223640)
--   [あーありがち - vagrant + chef-solo
-    provisioningが初めて動くまで](http://aligach.net/diary/20130525.html#p01)
+-   [kanazawa.rb meetup #9 - 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/05/26/223640)
+-   [あーありがち - vagrant + chef-solo provisioningが初めて動くまで](http://aligach.net/diary/20130525.html#p01)
 
 収支
 ----
 
-  項目                  金額       補足
-  --------------------- ---------- ---------------
-  部屋代                3,350円    @wtnabe支払い
-  参加費合計            5,000円    
-  支援                  1,000円    
-  1次会不足分           605円      
-  meetup #8 くり越し   12,056円   
-  差額                  12,101円   
+ | 項目 | 金額 | 補足
+ | --------------------- | ---------- | ---------------
+ | 部屋代 | 3,350円 | @wtnabe支払い
+ | 参加費合計 | 5,000円 | 
+ | 支援 | 1,000円 | 
+ | 1次会不足分 | 605円 | 
+ | meetup #8 | くり越し | 12,056円 | 
+ | 差額 | 12,101円 | 
 
 

@@ -37,7 +37,7 @@ meetup #14 report
 ------
 
 -   [kanazawa.rb meetup 14 - Togetter](http://togetter.com/li/579488)
--   [Kanazawa.rb meetup 14 | 30days](http://30d.jp/kzrb/4)
+-   [Kanazawa.rb meetup 14 - 30days](http://30d.jp/kzrb/4)
 
 スライド
 --------
@@ -50,20 +50,18 @@ meetup #14 report
 参加者のブログ
 --------------
 
--   [Kanazawa.rb meetup #14 に参加してきた –
-    あーありがち](http://aligach.net/diary/20131019.html#p01)
--   [kanazawa.rb meetup #14 –
-    過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/10/22/223629)
+-   [Kanazawa.rb meetup #14 に参加してきた – あーありがち](http://aligach.net/diary/20131019.html#p01)
+-   [kanazawa.rb meetup #14 – 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/10/22/223629)
 
 収支
 ----
 
-  項目                   金額       補足
-  ---------------------- ---------- ------
-  部屋代 + 冷暖房費      0円        
-  参加費合計             5,500円    
-  支援                   3,000円    
-  meetup #13 くり越し   13,821円   
-  差額                   16,321円   
+ | 項目 | 金額 | 補足
+ | ---------------------- | ---------- | ------
+ | 部屋代 + 冷暖房費 | 0円 | 
+ | 参加費合計 | 5,500円 | 
+ | 支援 | 3,000円 | 
+ | meetup #13 | くり越し | 13,821円 | 
+ | 差額 | 16,321円 | 
 
 

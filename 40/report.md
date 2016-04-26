@@ -41,7 +41,7 @@ meetup #40 report
     [gist.github.com/cottondesu/f1b…](https://gist.github.com/cottondesu/f1bd23fed7faf4c3be6a)
     」
 -   「やってますよ。今日は途中から参加。
-    [instagram.com/p/\_LsHxAwehI/](https://www.instagram.com/p/_LsHxAwehI/)
+    [instagram.com/p/_LsHxAwehI/](https://www.instagram.com/p/_LsHxAwehI/)
     」
 -   「meetupタイトルもArray#sampleで決まる」「新しい命名方法が生まれた！」
 -   「#kzrb で北陸ディベロッパーズ忘年会 ’15 (
@@ -58,7 +58,7 @@ meetup #40 report
 ------
 
 -   [kanazawa.rb meetup 40 - Togetter](http://togetter.com/li/912135)
--   [Kanazawa.rb meetup 40 | 30days](http://30d.jp/kzrb/30)
+-   [Kanazawa.rb meetup 40 - 30days](http://30d.jp/kzrb/30)
 
 スライド
 --------
@@ -85,14 +85,14 @@ meetup #40 report
 収支
 ----
 
-  項目                   金額       補足
-  ---------------------- ---------- --------------
-  部屋代 + 冷暖房費      0円        10月に支払済
-  参加費合計             4,500円    
-  県外LT支援             –3,000円   
-  meetup42施設料         –6,780円   
-  二次会のおつり         669円      
-  meetup #40 くり越し   57,225円   
-  差額                   52,614円   
+ | 項目 | 金額 | 補足
+ | ---------------------- | ---------- | --------------
+ | 部屋代 + 冷暖房費 | 0円 | 10月に支払済
+ | 参加費合計 | 4,500円 | 
+ | 県外LT支援 | –3,000円 | 
+ | meetup42施設料 | –6,780円 | 
+ | 二次会のおつり | 669円 | 
+ | meetup #40 | くり越し | 57,225円 | 
+ | 差額 | 52,614円 | 
 
 

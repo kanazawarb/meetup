@@ -153,7 +153,7 @@ meetup #34 report
 
 -   [Kanazawa.rb x Hokuriku.NET x JAWS-UG北陸 -
     Togetter](http://togetter.com/li/837386)
--   [Kanazawa.rb x Hokuriku.NET x JAWS-UG北陸 |
+-   [Kanazawa.rb x Hokuriku.NET x JAWS-UG北陸 -
     30days](http://30d.jp/kzrb/24)
 
 スライド
@@ -178,11 +178,11 @@ meetup #34 report
 収支
 ----
 
-  項目                   金額       補足
-  ---------------------- ---------- ----------------
-  部屋代 + 冷暖房費      0円        場所：石川高専
-  参加費合計             0円        無料
-  meetup #33 くり越し   61,595円   
-  差額                   61,595円   
+ | 項目 | 金額 | 補足
+ | ---------------------- | ---------- | ----------------
+ | 部屋代 + 冷暖房費 | 0円 | 場所：石川高専
+ | 参加費合計 | 0円 | 無料
+ | meetup #33 | くり越し | 61,595円 | 
+ | 差額 | 61,595円 | 
 
 

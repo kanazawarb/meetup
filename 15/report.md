@@ -47,36 +47,32 @@ meetup #15 report
 ------
 
 -   [kanazawa.rb meetup 15 - Togetter](http://togetter.com/li/594153)
--   [Kanazawa.rb meetup 15 | 30days](http://30d.jp/kzrb/5)
+-   [Kanazawa.rb meetup 15 - 30days](http://30d.jp/kzrb/5)
 
 スライド
 --------
 
--   [Getting Started with Ruby on Rails4 +
-    Bootstrap3](http://www.slideshare.net/yizawa/getting-started-with-ror4-bs3)
--   [Learning Ruby’s Dynamism with
-    Rails](https://speakerdeck.com/wtnabe/learning-rubys-dynamism-with-rails)
+-   [Getting Started with Ruby on Rails4 + Bootstrap3](http://www.slideshare.net/yizawa/getting-started-with-ror4-bs3)
+-   [Learning Ruby’s Dynamism with Rails](https://speakerdeck.com/wtnabe/learning-rubys-dynamism-with-rails)
 -   [WEB2PY4beginner](http://www.slideshare.net/yotaichino/web2py4beginner)
 
 参加者のブログ
 --------------
 
--   [Kanazawa.rb Meetup #15 に参加してきました –
-    とりあえずがんばる（β）](http://betachelsea.hatenablog.com/entry/2013/11/25/003402)
--   [kanazawa.rb meetup #15 –
-    過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/11/26/210818)
+-   [Kanazawa.rb Meetup #15 に参加してきました – とりあえずがんばる（β）](http://betachelsea.hatenablog.com/entry/2013/11/25/003402)
+-   [kanazawa.rb meetup #15 – 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/11/26/210818)
 
 収支
 ----
 
-  項目                   金額       補足
-  ---------------------- ---------- ------
-  部屋代 + 冷暖房費      4,180円    
-  参加費合計             11,000円   
-  支援                   4,000円    
-  懇親会のおつり         3,520円    
-  二次会のおつり         452円      
-  meetup #14 くり越し   16,321円   
-  差額                   23,113円   
+ | 項目 | 金額 | 補足
+ | ---------------------- | ---------- | ------
+ | 部屋代 + 冷暖房費 | 4,180円 | 
+ | 参加費合計 | 11,000円 | 
+ | 支援 | 4,000円 | 
+ | 懇親会のおつり | 3,520円 | 
+ | 二次会のおつり | 452円 | 
+ | meetup #14 | くり越し | 16,321円 | 
+ | 差額 | 23,113円 | 
 
 

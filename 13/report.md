@@ -40,7 +40,7 @@ meetup #13 report
 ------
 
 -   [kanazawa.rb meetup 13 - Togetter](http://togetter.com/li/570182)
--   [Kanazawa.rb meetup 13 | 30days](http://30d.jp/kzrb/3)
+-   [Kanazawa.rb meetup 13 - 30days](http://30d.jp/kzrb/3)
 
 スライド
 --------
@@ -51,18 +51,17 @@ meetup #13 report
 参加者のブログ
 --------------
 
--   [kanazawa.rb meetup #13 –
-    過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/09/30/232425)
+-   [kanazawa.rb meetup #13 – 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/09/30/232425)
 
 収支
 ----
 
-  項目                   金額       補足
-  ---------------------- ---------- ---------------------
-  部屋代 + 冷暖房費      4,180円    @cotton\_desu支払い
-  参加費合計             7,000円    
-  支援                   1,000円    
-  meetup #12 くり越し   12,001円   
-  差額                   13,821円   
+ | 項目 | 金額 | 補足
+ | ---------------------- | ---------- | ---------------------
+ | 部屋代 + 冷暖房費 | 4,180円 | @cotton\_desu支払い
+ | 参加費合計 | 7,000円 | 
+ | 支援 | 1,000円 | 
+ | meetup #12 | くり越し | 12,001円 | 
+ | 差額 | 13,821円 | 
 
 
