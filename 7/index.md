@@ -44,9 +44,9 @@ Agile x Kanazawa.rb
  |時間            |内容                                          |人|
  |----------------|----------------------------------------------|------------------------------------------|
  |13:00           |開場                                          ||
- |13:10 〜 13:15  |Intro                                         |"@wtnabe":https://twitter.com/wtnabe|
+ |13:10 〜 13:15  |Intro                                         |[@wtnabe](https://twitter.com/wtnabe)|
  |13:15 〜 13:45  |自己紹介                                      |みんな|
- |13:45 〜 15:45  |アジャイルプラクティスとわくわくする現場作り  |"@hiranabe":https://twitter.com/hiranabe|
+ |13:45 〜 15:45  |アジャイルプラクティスとわくわくする現場作り  |[@hiranabe](https://twitter.com/hiranabe)|
  |15:45 〜 16:00  |休憩                                          ||
  |16:00 〜 16:50  |フリータイム & LT                             |みんな|
  |16:55 〜        |撤収                                          ||
@@ -56,8 +56,8 @@ Agile x Kanazawa.rb
 ### LT登壇リスト
 
 - うばた(@jaVuBax) : そうだ京都へ行こう
-- たちばな(@toybox_design) : Compass で遊ぼう
-- いざわ(@Yukimitsu_Izawa) : Rubyでトライ！
+- たちばな(@toybox\_design) : Compass で遊ぼう
+- いざわ(@Yukimitsu\_Izawa) : Rubyでトライ！
 - おかもと(@haraguro3) : UML使いませんか
 - ささき(@shirokuro331) : (´・ω・`)人(´・ω・`)ﾙﾋﾞｰ
 - かとう(@PharaohKJ) : 俺とアジャイル
@@ -74,7 +74,7 @@ Agile x Kanazawa.rb
 ゲストプロフィール
 ------------------
 
-![hiranabe]({margin-left: 1em; float: right}./hiranabe.jpg "hiranabe")
+<img style="margin-left: 1em; float: right" src="hiranabe.jpg" alt="hiranabe" />
 
 **平鍋　健児（ひらなべ　けんじ）**
 
@@ -84,13 +84,10 @@ Agile x Kanazawa.rb
 自分でオブジェクト指向開発を実践していく過程で、テクノロジーからプロセスへ、そしてピープルへとその興味が移っていきました。現在は、「アジャイルな」すべてのものを志向しています。最近の仕事は、マインドマップとUMLの融合エディタ、astah*(アスター、旧JUDE)の開発。新しいアイディアの可能性への挑戦です。
 
 <div class="book-images">
-<a href="http://www.amazon.co.jp/dp/4798129704"><img src="http://ecx.images-amazon.com/images/I/41qg6STGdqL._SL160_.jpg"
-height="160" width="109"
-alt="" title=""></a><a href="http://www.amazon.co.jp/dp/4822282295"><img src="http://ecx.images-amazon.com/images/I/51HKFQD123L._SL160_.jpg"
-height="160" width="113"
-alt="" title=""></a><a href="http://www.amazon.co.jp/dp/4822281930"><img class="right" src="http://ecx.images-amazon.com/images/I/51ZPY244MRL._SL160_.jpg"
-height="160" width="113"
-alt="" title=""></a></div>
+  <a href="http://www.amazon.co.jp/dp/4798129704"><img src="http://ecx.images-amazon.com/images/I/41qg6STGdqL._SL160_.jpg" height="160" width="109" alt="" title="" /></a>
+  <a href="http://www.amazon.co.jp/dp/4822282295"><img src="http://ecx.images-amazon.com/images/I/51HKFQD123L._SL160_.jpg" height="160" width="113" alt="" title="" /></a>
+  <a href="http://www.amazon.co.jp/dp/4822281930"><img class="right" src="http://ecx.images-amazon.com/images/I/51ZPY244MRL._SL160_.jpg" height="160" width="113" alt="" title="" /></a>
+</div>
 
 
 翻訳書として、『アジャイルプロジェクトマネジメント』、『リーンソフトウェア開発』やXP関連の書籍が多数あります。新刊『アジャイル開発とスクラム～顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント』では、野中郁次郎先生と共著で、日本の文化的な底力とソフトウェア開発について考察しています。

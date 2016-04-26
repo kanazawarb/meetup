@@ -48,14 +48,14 @@ Heroku
  |13:00           |開場・受付開始                 ||
  |13:10 〜 13:15  |イントロ                       ||
  |13:15 〜 13:30  |自己紹介                       |みんな|
- |13:30 〜 15:30  |Heroku 101                     |"@keiko713":https://twitter.com/keiko713|
+ |13:30 〜 15:30  |Heroku 101                     |[@keiko713](https://twitter.com/keiko713)|
  |15:30 〜 15:45  |休憩                           ||
  |15:45 〜 16:30  |LT タイム(スピーカー募集中)    ||
- |10min           |俺とBasic Knowledge of 3D      |"@PharaohKJ":https://twitter.com/PharaohKJ|
- |15min           |ghissuesのご紹介               |"@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa|
- |15min           |15分でざっくり分かるScala入門  |"@SatoYu1ro":https://twitter.com/SatoYu1ro|
- |5min            |Rubyで和暦を読み取る           |"@takot":https://twitter.com/takot|
- |10min           |競技プログラミングへのお誘い   |"@yuki2006\_devel":https://twitter.com/yuki2006\_devel|
+ |10min           |俺とBasic Knowledge of 3D      |[@PharaohKJ](https://twitter.com/PharaohKJ)|
+ |15min           |ghissuesのご紹介               |[@Yukimitsu\_Izawa](https://twitter.com/Yukimitsu_Izawa)|
+ |15min           |15分でざっくり分かるScala入門  |[@SatoYu1ro](https://twitter.com/SatoYu1ro)|
+ |5min            |Rubyで和暦を読み取る           |[@takot](https://twitter.com/takot)|
+ |10min           |競技プログラミングへのお誘い   |[@yuki2006\_devel](https://twitter.com/yuki2006_devel)|
  |16:30 〜 16:50  |ネタに関するディスカッション   |みんな|
  |16:50 〜 17:00  |片付け＆撤収                   |みんな|
 

@@ -41,11 +41,11 @@ title: "#0 boot loader"
 出席
 ====
 
--   [`kabakiyo":https://twitter.com/kabakiyo
-    * "`kiyohara](https://twitter.com/kiyohara)
--   [`libero_18":https://twitter.com/libero_18
-    * "`mitukiii](https://twitter.com/mitukiii)
--   [`pocotan001":https://twitter.com/pocotan001
-    * "`wtnabe](https://twitter.com/wtnabe)
+- [kabakiyo](https://twitter.com/kabakiyo)
+- [kiyohara](https://twitter.com/kiyohara)
+- [libero\_18](https://twitter.com/libero_18)
+- [mitukiii](https://twitter.com/mitukiii)
+- [pocotan001](https://twitter.com/pocotan001)
+- [wtnabe](https://twitter.com/wtnabe)
 
 lexical order

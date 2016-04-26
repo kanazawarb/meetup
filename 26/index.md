@@ -20,8 +20,7 @@ meetup #26
 
 Coderetreat mini in Kanazawa.rb
 
-[Coderetreat - Honing the craft together
-worldwide](http://coderetreat.org/)
+[Coderetreat - Honing the craft together worldwide](http://coderetreat.org/)
 
 Coderetreat
 はソフトウェアの開発と設計の基礎を学ぶことを目的とした、プログラマのための「練習」のイベントで、世界的に行われているものです。
@@ -68,7 +67,7 @@ Coderetreat miniの主な内容と基本ルール
  |----------------|-------------------------|----------------------------------------|
  |13:00           |受付                     ||
  |13:10           |meetupイントロ           ||
- |13:15 〜 13:30  |Coderetreatイントロ      |"@kompiro":https://twitter.com/kompiro|
+ |13:15 〜 13:30  |Coderetreatイントロ      |[@kompiro](https://twitter.com/kompiro)|
  |13:30 〜 14:15  |ペアプロ　セッション#1   |みんな|
  |14:15 〜 14:30  |ふりかえり#1             |みんな|
  |14:30 〜 14:40  |休憩                     |みんな|

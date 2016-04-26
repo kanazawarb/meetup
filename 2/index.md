@@ -31,11 +31,11 @@ meetup #2
  |----------------|--------------------------|--------------------------------------------|
  |13:00           |開場                      ||
  |13:30 〜 13:50  |前説と自己紹介            |みんな|
- |13:50 〜 14:00  |Bundler                   |"@krhitoshi":https://twitter.com/krhitoshi|
- |14:00 〜 14:15  |Sinatra ( Ruby )          |"@kiyohara":https://twitter.com/kiyohara|
+ |13:50 〜 14:00  |Bundler                   |[@krhitoshi](https://twitter.com/krhitoshi)|
+ |14:00 〜 14:15  |Sinatra ( Ruby )          |[@kiyohara](https://twitter.com/kiyohara)|
  |14:15 〜 14:30  |休憩                      ||
- |14:30 〜 14:45  |Mojolicious ( Perl )      |"@taiju":https://twitter.com/taiju|
- |14:45 〜 15:00  |Express ( JavaScript )    |"@kitak":https://twitter.com/kitak|
+ |14:30 〜 14:45  |Mojolicious ( Perl )      |[@taiju](https://twitter.com/taiju)|
+ |14:45 〜 15:00  |Express ( JavaScript )    |[@kitak](https://twitter.com/kitak)|
  |15:00 〜 16:50  |もくもくしたりダベったり  |みんな|
  |16:50 〜 17:00  |片付け＆撤収              |みんな|
 
@@ -74,8 +74,7 @@ Python はどうした！ PHP はどうした！ という鼻息の荒い方も�
 * [Kanazawa.rb ポジションペーパー(maedana) — Gist"](https://gist.github.com/6a09da90500cbbe8a25a)
 * [Kanazawa.rb ポジションペーパー  — Gist"](https://gist.github.com/84f60a1a6d9451a12b1f) [@hi104 (Hitoshi Nakada)](https://github.com/hi104)
 * [Kanazawa.rb ポジションペーパー  — Gist"](https://gist.github.com/8dfb6626ccccff50dc3a) [@checkela](https://twitter.com/checkela)
-)
- * [Kanazawa.rb ポジションペーパー — Gist](https://gist.github.com/a7ea2f9565c4e8975ef1) [@tokkie07](https://twitter.com/tokkie07)
+* [Kanazawa.rb ポジションペーパー — Gist](https://gist.github.com/a7ea2f9565c4e8975ef1) [@tokkie07](https://twitter.com/tokkie07)
 
 ### テンプレート
 

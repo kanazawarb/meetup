@@ -27,8 +27,8 @@ Git
 いまや習得必須になりつつある Git への理解を深めましょう。
 
 * Git をテーマとした発表
- * Git に関する疑問を持ち寄ってのディスカッション
- * 有志による自由参加型のハンズオン
+* Git に関する疑問を持ち寄ってのディスカッション
+* 有志による自由参加型のハンズオン
 
 **もちろん Git 以外の VCS に関する話題・疑問もアリです！**
 
@@ -49,9 +49,9 @@ Git
  |13:00     |開場                              ||
  |13:10     |自己紹介                          |みんな|
  |13:30     |発表                              ||
- |          |git 超入門編                      |"@cotton\_desu":https://twitter.com/cotton\_desu|
- |          |Github の HUB                     |"@kiyohara":https://twitter.com/kiyohara|
- |          |こわくないプルリク(Pull Request)  |"@kiyohara":https://twitter.com/kiyohara|
+ |          |git 超入門編                      |[@cotton\_desu](https://twitter.com/cotton_desu)|
+ |          |Github の HUB                     |[@kiyohara](https://twitter.com/kiyohara)|
+ |          |こわくないプルリク(Pull Request)  |[@kiyohara](https://twitter.com/kiyohara)|
  |14:30     |ディスカッション                  |みんな|
  |15:30     |フリータイム(ハンズオン)          |みんな|
  |16:55 〜  |撤収                              ||
