@@ -27,9 +27,9 @@ Railsにまつわるエトセトラ
 をキャッチーなキーワードにして、トークしましょう！
 
 
-  - 日時     2013年11/23(土) 13:00 〜 17:00
-  - 会場     ITプラザ武蔵 研修室2(5F)<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>
-  - 参加費   500円
+| 日時   | 2013年11/23(土) 13:00 〜 17:00 |
+| 会場   | ITプラザ武蔵 研修室2(5F)<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 参加費 | 500円 |
 
 
 **参加費** は学生支援等に充てます。現場で **現金**
@@ -38,21 +38,21 @@ Railsにまつわるエトセトラ
 ざっくりタイムテーブル
 ----------------------
 
-  時間                     内容                                               人
-  ------------------------ -------------------------------------------------- ----------------------------------------------------------
-  13:00 〜                 開場                                               
-  13:15 〜 13:20 (5min)    イントロ                                           "@wtnabe":https://twitter.com/wtnabe
-  13:20 〜 13:40 (20min)   自己紹介                                           みんな
-  13:40 〜 14:00 (20min)   Getting Started with Ruby on Rails4 + Bootstrap3   "@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa
-  14:00 〜 14:20 (20min)   Rails寺子屋所感                                    "@beta\_chelsea":https://twitter.com/beta\_chelsea
-  14:20 〜 14:40 (20min)   休憩                                               
-  14:40 〜 15:00 (20min)   俺とRoR                                            "@PharaohKJ":https://twitter.com/PharaohKJ
-  15:00 〜 15:20 (20min)   web2py4beginner                                    "@\_nus":https://twitter.com/\_nus
-  15:20 〜 15:40 (20min)   Railsで学ぶゆるふわRuby                            "@wtnabe":https://twitter.com/wtnabe
-  15:40 〜 16:20 (40min)   交流会                                             みんな
-  16:20 〜 16:25 (5min)    SECCONに関するご案内                               みんな
-  16:25 〜 16:55 (30min)   ネタに関する議論                                   みんな
-  16:55 〜                 撤収                                               
+ |時間                    |内容                                              |人|
+ |------------------------|--------------------------------------------------|----------------------------------------------------------|
+ |13:00 〜                |開場                                              ||
+ |13:15 〜 13:20 (5min)   |イントロ                                          |"@wtnabe":https://twitter.com/wtnabe|
+ |13:20 〜 13:40 (20min)  |自己紹介                                          |みんな|
+ |13:40 〜 14:00 (20min)  |Getting Started with Ruby on Rails4 + Bootstrap3  |"@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa|
+ |14:00 〜 14:20 (20min)  |Rails寺子屋所感                                   |"@beta\_chelsea":https://twitter.com/beta\_chelsea|
+ |14:20 〜 14:40 (20min)  |休憩                                              ||
+ |14:40 〜 15:00 (20min)  |俺とRoR                                           |"@PharaohKJ":https://twitter.com/PharaohKJ|
+ |15:00 〜 15:20 (20min)  |web2py4beginner                                   |"@\_nus":https://twitter.com/\_nus|
+ |15:20 〜 15:40 (20min)  |Railsで学ぶゆるふわRuby                           |"@wtnabe":https://twitter.com/wtnabe|
+ |15:40 〜 16:20 (40min)  |交流会                                            |みんな|
+ |16:20 〜 16:25 (5min)   |SECCONに関するご案内                              |みんな|
+ |16:25 〜 16:55 (30min)  |ネタに関する議論                                  |みんな|
+ |16:55 〜                |撤収                                              ||
 
 ※時間は目安です
 

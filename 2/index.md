@@ -16,9 +16,9 @@ meetup #2
 [お申込みはこちらから](http://kzrb.doorkeeper.jp/events/1642)
 
 
-  - 日時     9/22(土) 13:30 〜 17:00
-  - 会場     ITビジネスプラザ武蔵 研修室3<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>
-  - 参加費   500円
+| 日時   | 9/22(土) 13:30 〜 17:00 |
+| 会場   | ITビジネスプラザ武蔵 研修室3<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 参加費 | 500円 |
 
 
 **参加費** は会場代および空調代に充てます。現場で **現金**
@@ -27,17 +27,17 @@ meetup #2
 ざっくりタイムテーブル
 ----------------------
 
-  時間             内容                       人
-  ---------------- -------------------------- --------------------------------------------
-  13:00            開場                       
-  13:30 〜 13:50   前説と自己紹介             みんな
-  13:50 〜 14:00   Bundler                    "@krhitoshi":https://twitter.com/krhitoshi
-  14:00 〜 14:15   Sinatra ( Ruby )           "@kiyohara":https://twitter.com/kiyohara
-  14:15 〜 14:30   休憩                       
-  14:30 〜 14:45   Mojolicious ( Perl )       "@taiju":https://twitter.com/taiju
-  14:45 〜 15:00   Express ( JavaScript )     "@kitak":https://twitter.com/kitak
-  15:00 〜 16:50   もくもくしたりダベったり   みんな
-  16:50 〜 17:00   片付け＆撤収               みんな
+ |時間            |内容                      |人|
+ |----------------|--------------------------|--------------------------------------------|
+ |13:00           |開場                      ||
+ |13:30 〜 13:50  |前説と自己紹介            |みんな|
+ |13:50 〜 14:00  |Bundler                   |"@krhitoshi":https://twitter.com/krhitoshi|
+ |14:00 〜 14:15  |Sinatra ( Ruby )          |"@kiyohara":https://twitter.com/kiyohara|
+ |14:15 〜 14:30  |休憩                      ||
+ |14:30 〜 14:45  |Mojolicious ( Perl )      |"@taiju":https://twitter.com/taiju|
+ |14:45 〜 15:00  |Express ( JavaScript )    |"@kitak":https://twitter.com/kitak|
+ |15:00 〜 16:50  |もくもくしたりダベったり  |みんな|
+ |16:50 〜 17:00  |片付け＆撤収              |みんな|
 
 meetup #2 ではまず、現在の Ruby
 を利用した開発において欠かすことのできない Bundler gem

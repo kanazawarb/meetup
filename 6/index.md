@@ -27,9 +27,9 @@ meetup #6
 **中の人も登壇します！**
 
 
-  - 日時     2/16(土) 13:00 〜 17:00
-  - 会場     ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>
-  - 参加費   500円
+| 日時   | 2/16(土) 13:00 〜 17:00 |
+| 会場   | ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 参加費 | 500円 |
 
 
 **参加費** は会場代および空調代に充てます。現場で **現金**
@@ -38,19 +38,19 @@ meetup #6
 ざっくりタイムテーブル
 ----------------------
 
-  時間             内容                          人
-  ---------------- ----------------------------- ----------------------------------------------------------
-  13:00            開場                          
-  13:10 〜 13:15   Intro                         
-  13:15 〜 13:35   自己紹介                      みんな
-  13:35 〜 13:50   クラウドって何よ              "@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa
-  13:50 〜 14:10   Sqaleにアプリをデプったよー   [@kitak](https://twitter.com/kitak)
-  14:10 〜 14:30   休憩                          
-  14:30 〜 14:45   MOGOKはこう使え！             [@kiyohara](https://twitter.com/kiyohara)
-  14:45 〜 15:45   Inside of MOGOK               [@hirolovesbeer](https://twitter.com/hirolovesbeer)
-  15:45 〜 16:30   ぽろりたいむ                  みんな
-  16:30 〜 16:50   今日の成果発表（あれば）      みんな
-  16:55 〜         撤収                          
+ |時間            |内容                         |人|
+ |----------------|-----------------------------|----------------------------------------------------------|
+ |13:00           |開場                         ||
+ |13:10 〜 13:15  |Intro                        ||
+ |13:15 〜 13:35  |自己紹介                     |みんな|
+ |13:35 〜 13:50  |クラウドって何よ             |"@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa|
+ |13:50 〜 14:10  |Sqaleにアプリをデプったよー  |[@kitak](https://twitter.com/kitak)|
+ |14:10 〜 14:30  |休憩                         ||
+ |14:30 〜 14:45  |MOGOKはこう使え！            |[@kiyohara](https://twitter.com/kiyohara)|
+ |14:45 〜 15:45  |Inside of MOGOK              |[@hirolovesbeer](https://twitter.com/hirolovesbeer)|
+ |15:45 〜 16:30  |ぽろりたいむ                 |みんな|
+ |16:30 〜 16:50  |今日の成果発表（あれば）     |みんな|
+ |16:55 〜        |撤収                         ||
 
 セッション概要 〜 Inside of MOGOK 〜
 ------------------------------------

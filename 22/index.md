@@ -32,9 +32,9 @@ Heroku
 いくつかの準備が必要となりますので、後述の「ハンズオンについて」を必ずお読みください。
 
 
-  - 日時     2014年 06/21(土) 13:00 〜 17:00
-  - 会場     ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a>
-  - 参加費   500円
+| 日時   | 2014年 06/21(土) 13:00 〜 17:00 |
+| 会場   | ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 参加費 | 500円 |
 
 
 **参加費** は会場代および空調代に充てます。現場で **現金**
@@ -43,21 +43,21 @@ Heroku
 ざっくりタイムテーブル
 ----------------------
 
-  時間             内容                            人
-  ---------------- ------------------------------- ----------------------------------------------------------
-  13:00            開場・受付開始                  
-  13:10 〜 13:15   イントロ                        
-  13:15 〜 13:30   自己紹介                        みんな
-  13:30 〜 15:30   Heroku 101                      "@keiko713":https://twitter.com/keiko713
-  15:30 〜 15:45   休憩                            
-  15:45 〜 16:30   LT タイム(スピーカー募集中)     
-  10min            俺とBasic Knowledge of 3D       "@PharaohKJ":https://twitter.com/PharaohKJ
-  15min            ghissuesのご紹介                "@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa
-  15min            15分でざっくり分かるScala入門   "@SatoYu1ro":https://twitter.com/SatoYu1ro
-  5min             Rubyで和暦を読み取る            "@takot":https://twitter.com/takot
-  10min            競技プログラミングへのお誘い    "@yuki2006\_devel":https://twitter.com/yuki2006\_devel
-  16:30 〜 16:50   ネタに関するディスカッション    みんな
-  16:50 〜 17:00   片付け＆撤収                    みんな
+ |時間            |内容                           |人|
+ |----------------|-------------------------------|----------------------------------------------------------|
+ |13:00           |開場・受付開始                 ||
+ |13:10 〜 13:15  |イントロ                       ||
+ |13:15 〜 13:30  |自己紹介                       |みんな|
+ |13:30 〜 15:30  |Heroku 101                     |"@keiko713":https://twitter.com/keiko713|
+ |15:30 〜 15:45  |休憩                           ||
+ |15:45 〜 16:30  |LT タイム(スピーカー募集中)    ||
+ |10min           |俺とBasic Knowledge of 3D      |"@PharaohKJ":https://twitter.com/PharaohKJ|
+ |15min           |ghissuesのご紹介               |"@Yukimitsu\_Izawa":https://twitter.com/Yukimitsu\_Izawa|
+ |15min           |15分でざっくり分かるScala入門  |"@SatoYu1ro":https://twitter.com/SatoYu1ro|
+ |5min            |Rubyで和暦を読み取る           |"@takot":https://twitter.com/takot|
+ |10min           |競技プログラミングへのお誘い   |"@yuki2006\_devel":https://twitter.com/yuki2006\_devel|
+ |16:30 〜 16:50  |ネタに関するディスカッション   |みんな|
+ |16:50 〜 17:00  |片付け＆撤収                   |みんな|
 
 セッション概要 〜 Heroku 101 〜
 -------------------------------
