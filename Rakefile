@@ -41,3 +41,23 @@ namespace :travis do
   end
 end
 
+desc 'markdown to md'
+task markdown_to_md: [] do
+  Dir.glob(['*/*.markdown']).each do |f|
+    dir  = f.split('/')[0]
+    file = f.split('/')[1].split('.')[0]
+    ext = f.split('/')[1].split('.')[1]
+    sh "mv #{f} #{dir}/#{file}.md"
+  end
+end
+
+desc 'textile to md'
+task textile_to_md: [] do
+  Dir.glob(['*/*.textile']).each do |f|
+    dir  = f.split('/')[0]
+    file = f.split('/')[1].split('.')[0]
+    ext = f.split('/')[1].split('.')[1]
+    # p "pandoc #{f} -o #{dir}/#{file}.md"
+    sh "pandoc #{f} -o #{dir}/#{file}.md"
+  end
+end

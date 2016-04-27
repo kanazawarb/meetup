@@ -5,7 +5,7 @@ title: Kanazawa.rb Slides
 
 ---
 
-[<- Meetup](./)
+[← Meetup](./)
 
 Kanazawa.rb Slides
 ==================
