@@ -37,6 +37,7 @@ Let’s meet up !
 
 <iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b5bhu4mdb4me2g5d2ephdsvnbk%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Asia%2FTokyo" style=" border-width:0 " width="650" height="400" frameborder="0" scrolling="no">
 </iframe>
+
 ポジションペーパーについて
 --------------------------
 
