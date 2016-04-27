@@ -45,7 +45,7 @@ meetup #22 report
 -   「ghissues は便利だよ [bit.ly/1mZ4ima](https://github.com/izawa/ghissues) 」
 -   「だれでも kanazawa.rb 用の issue 作れるようになってるの便利 」
 -   「15分っくり分かる Scala 入門」「ScalaはきれいなJava」
--   「これいけるんだ \>Date.parse("H21.10.03")」
+-   「これいけるんだ &gt;Date.parse("H21.10.03")」
 -   「競技プログラミングのメリット」「AtCoder のね」
 -   「次回、 kanazawa.rb meetup #23 は、7/19 に金沢駅前の DMM.comラボさんに場所をお借りして開催されます　内容などは別途、 #kzrb のタグを付けて告知されると思うので機会があればご参加ください」
 

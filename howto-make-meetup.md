@@ -5,7 +5,7 @@ title: How to make meetup
 
 ---
 
-[<- Meetup](./)
+[← Meetup](./)
 
 How to make meetup
 ==================

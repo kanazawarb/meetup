@@ -5,7 +5,7 @@ title: "#12 report - KPT log"
 
 ---
 
-<p> <a href="./report.html">&lt;- report</a></p>
+<p> <a href="./report.html">← report</a></p>
 
 meetup #12 report
 ==================

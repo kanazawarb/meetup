@@ -66,7 +66,7 @@ IIJ GIO
 ゲストプロフィール
 ------------------
 
-![hirolovesbeer](>./hirolovesbeer.jpg "hirolovesbeer")
+<img style="float: right; margin-left: 1em;" src="hirolovesbeer.jpg" alt="hirolovesbeer">
 
 **阿部博（あべひろし）**
 
