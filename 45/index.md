@@ -37,11 +37,15 @@ CI って知ってますか？ イマドキの開発を支えるイケてるツ�
 | CI概要(俺とCI)                 | 13:35 | 15m  | [@PharaohKJ](https://twitter.com/PharaohKJ)   |
 | CIサービス紹介                 | 15:50 | 20m  | [@wtnabe](https://twitter.com/wtnabe)         |
 | 休憩                           | 14:10 | 15m  |                                               |
-| CircleCIハンズオン             | 14:25 | 60m  | [@wtnabe](https://twitter.com/wtnabe)         |
-| 質疑                           | 15:25 | 20m  |                                               |
-| 休憩                           | 15:45 | 15m  |                                               |
-| GitHub FlowとCIでモダンWeb開発 | 16:00 | 15m  | [@k242hd_akg](https://twitter.com/k242hd_akg) |
-| LT                             | 16:15 |      |                                               |
+| CircleCIハンズオン             | 14:25 | 35m  | [@wtnabe](https://twitter.com/wtnabe)         |
+| GitHub FlowとCIでモダンWeb開発 | 15:00 | 50m  | [@k242hd_akg](https://twitter.com/k242hd_akg) |
+| 休憩                           | 15:50 | 20m  |                                               |
+| LT (CIに使えるAWSサービス)     | 16:10 |  5m  | [@aibax](https://twitter.com/aibax)           |
+| LT (アプリのCI)                | 16:15 |  5m  | [@noboru_i](https://twitter.com/noboru_i)     |
+| LT (src を外部に置けない問題)  | 16:20 |  5m  | [@macoshita](https://twitter.com/macoshita)   |
+| 勉強会のご紹介                 | 16:25 | 15m  |                                               |
+| 休憩                           | 16:40 |  5m  |                                               |
+| CircleCIハンズオン             | 16:45 | 25m  | [@wtnabe](https://twitter.com/wtnabe)         |
 
 
 ## CircleCIハンズオンについて
