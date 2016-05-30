@@ -41,7 +41,9 @@ title: "#45 report"
 
 ## 参加者のブログ
 
+* [あーありがち - Kanazawa.rbでCIハンズオンをやったよ](http://aligach.net/diary/20160521.html)
 * [kanazawa.rb meetup #45 - 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2016/05/28/201245)
+* [無精な人間ほどCI好きだと思うんだけど『Kanazawa.rb #45』に参加 - libAlexandrina.so.octopress](https://octopress.phalanxware.com/blog/2016/05/29/busho-na-ningen-hodo-ci-suki-da-to-omou-n-kedo-kanazawa-rb-45-ni-sanka/)
 
 
 ## 収支
