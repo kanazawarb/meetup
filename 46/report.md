@@ -21,16 +21,14 @@ published: false
 
 <!-- Togetter, 30days のリンクをいれる -->
 
-* [kanazawa.rb meetup 46 - Togetter](XXX)
-* [Kanazawa.rb meetup 46 - 30days](XXX)
+* [kanazawa.rb meetup 46 - Togetter](http://togetter.com/li/989194)
+* [Kanazawa.rb meetup 46 - 30days](http://30d.jp/kzrb/36)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
-
--->
+* [あーありがち - Dokku試してみた](http://aligach.net/diary/20160515.html)
+* [IoTタグで遊んでみよう](https://speakerdeck.com/yizawa/iottagudeyou-ndemiyou)
 
 
 <!-- 分かっている範囲でリンクがあれば列挙する
@@ -45,10 +43,11 @@ published: false
 
 <!-- 適宜更新する(以下は前回のもの) -->
 
+* 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
+
 |項目                 |金額         |補足                                               |
 |:--------------------|------------:|:--------------------------------------------------|
 | 前回繰越金          |    59,717円 |                                                   |
-| 会場費              |         0円 |                                                   |
 | 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
 | 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
 | 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
