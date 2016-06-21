@@ -40,14 +40,12 @@ published: true
 
 * [あーありがち - Dokku試してみた](http://aligach.net/diary/20160515.html)
 * [IoTタグで遊んでみよう](https://speakerdeck.com/yizawa/iottagudeyou-ndemiyou)
+* [Shellcheckを使おう](http://www.slideshare.net/cottondesu/shell-01-shellcheck)
+* [shUnit2を使おう](http://www.slideshare.net/cottondesu/shell-02-shunit2)
 
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
+* [kanazawa.rb meetup #46 - 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2016/06/20/225121)
 
 
 ## 収支
@@ -67,4 +65,3 @@ published: true
 | 懇親会調整費(二次会)|      +355円 |                                                   |
 
 * **次回繰越**  65,872 円 (-445 円)
-
