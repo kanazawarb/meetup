@@ -2,27 +2,29 @@
 
 layout: record
 title: "#47 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
-# meetup #45 report
+# meetup #47 report
 
 ## 話題
 
 <!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
 
-* XXX
+* もくもくの日 [写真](https://twitter.com/BeMarble/status/754176805930606592/photo/1)
+* 因みに私がうひょうひょ模倣しているのはこちらです。 [Rails 5 tutorial: How to create a Chat with Action Cable \| Hector Perez Arenas](https://hectorperezarenas.com/2015/12/26/rails-5-tutorial-how-to-create-a-chat-with-action-cable/)
+* (chromeでちょろっとjson確認したいときはJSONViewとか入れておくといいと思います) [JSONView \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+* 手ぬぐいとかどうか [オリジナル手ぬぐい製作【手ぬぐい工房・ポスター堂】価格について](http://www.posterdo.co.jp/tenugui/kakaku.html)
 
 ## まとめ
 
 <!-- Togetter, 30days のリンクをいれる -->
 
-* [kanazawa.rb meetup 47 - Togetter](XXX)
-* [Kanazawa.rb meetup 47 - 30days](XXX)
+* [kanazawa.rb meetup 47 - Togetter](http://togetter.com/li/1001206)
+* [Kanazawa.rb meetup 47 - 30days](http://30d.jp/kzrb/37)
 
 
 <!-- 分かっている範囲でリンクがあれば列挙する
