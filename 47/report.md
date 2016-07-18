@@ -19,6 +19,10 @@ published: true
 * (chromeでちょろっとjson確認したいときはJSONViewとか入れておくといいと思います) [JSONView \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 * 手ぬぐいとかどうか [オリジナル手ぬぐい製作【手ぬぐい工房・ポスター堂】価格について](http://www.posterdo.co.jp/tenugui/kakaku.html)
 
+## 運営ブレストログ
+
+[meetup 47 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-47-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
+
 ## まとめ
 
 <!-- Togetter, 30days のリンクをいれる -->
