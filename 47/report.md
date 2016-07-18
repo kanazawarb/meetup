@@ -21,7 +21,7 @@ published: true
 
 ## 運営ブレストログ
 
-[meetup 47 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-47-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
+* [meetup 47 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-47-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
 ## まとめ
 
