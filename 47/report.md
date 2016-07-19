@@ -38,13 +38,9 @@ published: true
 
 -->
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa.rb meetup #47 - 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2016/07/19/191401)
 
 ## 収支
 
