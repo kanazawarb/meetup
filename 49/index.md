@@ -46,7 +46,7 @@ published: true
 | セッション1(Elastic Stackの紹介)        | 13:15 | 60m  | Elastic社 大谷さん                                      |
 | セッション2(Elastic Stackの紹介)        | 14:15 | 60m  | Elastic社 大谷さん                                      |
 | 休憩                                    | 15:15 | 15m  |                                                         |
-| セッション3(事例紹介)                   | 15:30 | 30m  | @hirolovesbeer さん                                     |
+| セッション3(イベントネットワークにおけるsyslog分析でのElasticsearchの利用) | 15:30 | 30m  | @hirolovesbeer さん  |
 | セッション4(Amazon Elasticsearch Service やってみた) | 16:00 | 30m  | @PharaohKJ                                 |
 | セッション5(質疑パネルディスカッション) | 16:30 | 30m  | 大谷さん, @hirolovesbeer さん, @PharaohKJ さん          |
 | 片付け＆撤収                            | 17:00 | 10m  | みんな                                                  |
