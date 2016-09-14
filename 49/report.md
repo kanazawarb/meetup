@@ -2,10 +2,9 @@
 
 layout: record
 title: "#49 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,31 +12,29 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
-
-* XXX
-
-<!-- 運営ブレストを実施した場合はリンクをいれる
-## 運営ブレストログ
-
-* [meetup 45 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-45-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
--->
-
+* 大谷さんに Elastic stack を紹介してもらった
+  + Elastic stack (Logstash, Elasticsearch, Kibana) の一通りの概要のお話
+  + 活用事例のお話
+  + プラグインのお話
+* 阿部さんに Elasticsearch を利用した事例を紹介してもらった
+  + 大量の syslog 出力を Kibana や logstash とも連携しつつビジュアライゼーションするお話
+* 加藤さんに Elasticsearch を簡単に試してみる方法を紹介してもらった
+  + AWS Elasticsearch Service と スポットインスタンスのお話
+* パネルディスカッションとして会場からの質問をもとに議論をした
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 49 - Togetter](XXX)
-* [Kanazawa.rb meetup 49 - 30days](XXX)
+* [kanazawa.rb meetup 49 - Togetter](http://togetter.com/li/1023409)
+* [Kanazawa.rb meetup 49 - 30days](http://30d.jp/kzrb/39)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [Elastic Stackの紹介 in 福岡 // Speaker Deck](https://speakerdeck.com/johtani/elastic-stackfalseshao-jie-in-fu-gang)
+  * 福岡となっていますが本イベントで使用いただいたスライドと同等の内容です
+* [イベントネットワークにおけるsyslog分析でのElasticsearchの利用 // Speaker Deck](https://speakerdeck.com/hirolovesbeer/ibentonetutowakuniokerusyslogfen-xi-defalseelasticsearchfalseli-yong)
+* [俺とAWSESとスポットインスタンス](https://www.icloud.com/keynote/0j3Qx5n1viWkCuiQ9wLb8YK4Q#%E4%BF%BA%E3%81%A8AWSES%E3%81%A8%E3%82%B9%E3%83%9B%E3%82%9A%E3%83%83%E3%83%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9)
 
--->
 
 <!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
