@@ -18,7 +18,7 @@ published: true
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/52079">kanazawa.rb meetup #50</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# meetup #46
+# meetup #50
 
 意識高いもくもく会
 
