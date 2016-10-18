@@ -21,6 +21,10 @@ published: true
 * じとめさんの基板話を聞いてる [写真](https://www.instagram.com/p/BLkuvv2hNr_/)
 * Kanazawa.rb meetup 50 done!! [写真](https://www.instagram.com/p/BLk3_JvBwXr/)
 
+## 運営ブレストログ
+
+* [meetup 50 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-50-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
+
 ## まとめ
 
 * [kanazawa.rb meetup 50 - Togetter](http://togetter.com/li/1037503)
