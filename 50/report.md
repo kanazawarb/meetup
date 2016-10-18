@@ -2,10 +2,9 @@
 
 layout: record
 title: "#50 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,47 +12,35 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
-
-* XXX
+* PharaohKJ さんから旨い煮豚を参加者全員に振る舞われた
+* かとうさんの LT スタート。 TestLink の話 [写真](https://www.instagram.com/p/BLkjWvgB6TT/)
+* いざわさんの LT スタート。蛍光灯、ちゃんと選んでる？ってはなし [写真](https://www.instagram.com/p/BLkm-0DBC8N/)
+* わたなべさんの LT スタート。QR コードのバルク生成の話。 [写真](https://www.instagram.com/p/BLkoAmUBaro/)
+* むらのさんの LT スタート。slack に、誰でも参加できるようにする仕組みについて。slackin を heroku で動かしてる。 [写真](https://www.instagram.com/p/BLkqbOLhVj-/)
+  + Join kanazawa.rb on Slack! [kzrb-slackin.herokuapp.com](https://kzrb-slackin.herokuapp.com/)
+* じとめさんの基板話を聞いてる [写真](https://www.instagram.com/p/BLkuvv2hNr_/)
+* Kanazawa.rb meetup 50 done!! [写真](https://www.instagram.com/p/BLk3_JvBwXr/)
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
+* [kanazawa.rb meetup 50 - Togetter](http://togetter.com/li/1037503)
+* [Kanazawa.rb meetup 50 - 30days](http://30d.jp/kzrb/40)
 
-* [kanazawa.rb meetup 50 - Togetter](XXX)
-* [Kanazawa.rb meetup 50 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
+* [kanazawa.rb meetup #50 - 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2016/10/17/231854)
 
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    20,147円 |                                                   |
+| meetup 50 参加費合計(7名)    |   +3,500円 | 全参加者 7名                  |
+| meetup 50 懇親会優待費        |    -1,000円 | 学生支援枠 1名                                      |
+| meetup 50 懇親会調整費(二次会)|      +228円 | 余剰金 228円                                      |
 
-**次回繰越**  66,317 円
+**次回繰越**  22,875 円
 
