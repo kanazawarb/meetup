@@ -32,7 +32,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 
 | **日時**   | 2016年11月19日(土) 13:00 - 17:00 |
-| **会場**   | [DMM.com Labo 金沢事業所(ポルテ金沢13F)](http://labo.dmm.com/about/access/#kanazawa)<br>石川県金沢市本町2-15-1</a> |
+| **会場**   | [DMM.com Labo 金沢事業所(ポルテ金沢13F)](http://labo.dmm.com/about/access/#kanazawa)<br>石川県金沢市本町2-15-1 |
 | **参加費** | 500円 |
 
 * **参加費** は会場代および空調代に充てます。
