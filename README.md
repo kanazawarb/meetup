@@ -5,11 +5,7 @@
 
     bundle install --path vendor/bundle --binstubs .bundle/bin
 
-もしくは
-
-    bundle install --path vendor/bundle --binstubs .bundle/bin --without livereload
-
-( guard-livereload を install したくない場合 )
+( `guard-livereload` が必要な場合は global に install して使ってください )
 
 作業の進め方
 ------------
