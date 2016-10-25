@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Meetup {{ page.title ? page.title : "" }} - Kanazawarb</title>
+    <title>Meetup {% if page.title %}{{ page.title }}{% endif %} - Kanazawarb</title>
 
     <link rel="stylesheet" href="../stylesheets/styles.css">
     <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
