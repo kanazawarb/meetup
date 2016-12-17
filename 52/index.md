@@ -51,6 +51,32 @@ Twitter 上で表明してもらえると助かります。
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT                                | 13:45 | 160m | みんな                                                  |
+| LT しげっと           | | | |
+| LT noboru ishikura    | | | |
+| LT Hiroshi Oda        | | | |
+| LT Takumi  Murano     | | | |
+| LT Minakgr            | | | |
+| 休憩                  | | | |
+| LT Kasashii           | | | |
+| LT Jun Nakano         | | | |
+| LT Makoto Takebayashi | | | |
+| LT ふぁらお加藤       | | | |
+| LT TAKAyukiatkwsk     | | | |
+| LT Keisuke Oohata     | | | |
+| 休憩                  | | | |
+| LT Yoshioka           | | | |
+| LT 清原智和           | | | |
+| LT t0mm0r             | | | |
+| LT wtnabe             | | | |
+| LT manna              | | | |
+| LT 一石アンプ         | | | |
+| 休憩                  | | | |
+| LT 井澤ゆきみつ       | | | |
+| LT Yuuki  Ono         | | | |
+| LT ふぁらお加藤       | | | |
+| LT 一石アンプ         | | | |
+| LT 井澤ゆきみつ       | | | |
+| LT Makoto Takebayashi | | | |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
