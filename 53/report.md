@@ -2,10 +2,9 @@
 
 layout: record
 title: "#53 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,47 +12,42 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* masayan_kazu さんがHoloLensを持ってきた。
+  * 参加者全員がHoloLensを体験した。
+  * なんだろう、このおばかなロボコップ感 [pic.twitter.com/O0mbxtfhFM](https://twitter.com/wtnabe/status/822681831124258816/photo/1)
+  * 「わるいベイマックスだ」 [pic.twitter.com/GfLbf9Mu4M](https://twitter.com/Yukimitsu_Izawa/status/822714497122959361/photo/1)
 
-* XXX
+## 運営ブレストログ
+
+* [meetup 53 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-53-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 53 - Togetter](XXX)
-* [Kanazawa.rb meetup 53 - 30days](XXX)
+* [kanazawa.rb meetup 53 - Togetter](https://togetter.com/li/1073061)
+* [Kanazawa.rb meetup 53 - 30days](http://30d.jp/kzrb/43)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [喝采君1号をつくったはなし // Speaker Deck](https://speakerdeck.com/izawa/he-cai-jun-1hao-wotukututahanasi)
+* [俺とモデリンク](http://www.slideshare.net/pharaohkj/ss-71255091)
 
--->
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
+* [kanazawa\.rb meetup \#53 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/01/23/224305)
 
--->
 
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    28,437円 |                                                   |
+| meetup 53 会場費              |    -6,480円 | 当日支払い                                        |
+| meetup 53 参加費合計(9名)    |   +4,500円 |                    |
 
-**次回繰越**  66,317 円
+**次回繰越**  26,457 円
 
