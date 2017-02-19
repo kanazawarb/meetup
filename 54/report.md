@@ -2,10 +2,9 @@
 
 layout: record
 title: "#54 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,53 +12,33 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* 選ばれた5人がもくもくした
 
-* XXX
+* @Yukimitsu\_Izawa さんが金沢ITフェスティバルでお話するとのこと
+  + [写真](https://www.instagram.com/p/BQpDqnRldHu/)
+  + [金沢ITフェスティバル \- connpass](https://connpass.com/event/48727/)
 
-<!-- 運営ブレストができた場合はログを作成してリンクする
+* @TAKAyuki\_atkwsk さんに Macbook Pro の Touch Bar を見せてもらった。カッコイイ。
+  + [写真](https://www.instagram.com/p/BQo7krbl22V/)
+
 ## 運営ブレストログ
 
 * [meetup 54 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-54-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
--->
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 54 - Togetter](XXX)
-* [Kanazawa.rb meetup 54 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## 参加者のブログ
-
-* XXX
-
--->
-
+* [kanazawa.rb meetup 54 - Togetter](https://togetter.com/li/1082665)
+* [Kanazawa.rb meetup 54 - 30days](http://30d.jp/kzrb/44)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    26,457円 |                                                   |
+| Doorkeeper 利用費(2016年前期) |    -6,480円 | @kiyohara 立て替え分精算                          |
+| meetup 53 参加費合計(5名)     |    +2,500円 | 全参加者 5名 / 参加費免除枠 0名                   |
 
-**次回繰越**  66,317 円
+**次回繰越**  22,477 円
 
