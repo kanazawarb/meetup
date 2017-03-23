@@ -43,13 +43,10 @@ published: true
 
 -->
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#55 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/03/20/005638)
+* [kanazawa.rb meetup \#55 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/2017/03/20/172141)
 
 ## 収支
 
@@ -60,6 +57,7 @@ published: true
 | 前回繰越金                    |    22,477円 |                                                   |
 | meetup 56 会場費              |    -3,560円 | 先行支払い (渡辺 立て替え精算)                    |
 | meetup 55 参加費合計(8名)     |    +4,000円 | 全参加者 8名 (途中参加の加藤さんと、別件で合流した竹田さんは含めず) |
+| meetup 55 懇親会調整費(二次会)    |    +2,760円 | 余剰金 2,760円                                   |
 
 **次回繰越**  25,677 円
 
