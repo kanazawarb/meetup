@@ -2,10 +2,9 @@
 
 layout: record
 title: "#58 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -15,52 +14,44 @@ published: false
 
 <!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
 
-* XXX
+* [DMM.com Labo 金沢事業所](https://dmm-corp.com/)で[ふくもく会さん](https://fukumoku.connpass.com/)とのコラボLT大会
+  + ふくもく会さん会場とテレビ会議システムで繋ぐという初の試み！無事成功しました！！
+  + お互いに内容が被らず大いにLT盛り上がりました。
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
-## 運営ブレストログ
+* ふくもく会さん側
+  + [集合写真](https://twitter.com/fukuimokumoku/status/875986681265930240/photo/1)
 
-* [meetup 58 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-58-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
+* Kanazawa.rb側
+  + [集合写真](https://www.instagram.com/p/BVbvjTmliLA/)
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 58 - Togetter](XXX)
-* [Kanazawa.rb meetup 58 - 30days](XXX)
+* [kanazawa.rb meetup 58 - Togetter](https://togetter.com/li/1121278)
+* [Kanazawa.rb meetup 58 - 30days](http://30d.jp/kzrb/48)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [LT内容シート](https://docs.google.com/spreadsheets/d/10gPSTgPPklOeaqoup347XyhuhNuujcuZ2ejlDEiv4CM/edit#gid=0)
 
--->
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
+* [kanazawa\.rb meetup \#58 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/06/18/180919)
+* [kanazawa.rb meetup \#58 に参加しました \#kzrb \#ふくもく会 \- Blogaomu](http://www.blogaomu.com/entry/kzrb58)
 
--->
 
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    36,070円 |                                                   |
+| meetup 59 会場費              |    -4,300円 | 先行支払い                                        |
+| meetup 58 参加費合計(7名)    |   +3,500円 | 全参加者 8 / 参加費免除枠 1名                  |
+| meetup 58 懇親会優待費        |    -1,000円 | 県外LT枠 1名                                      |
+| meetup 58 懇親会調整費(二次会)|      +1,070円 | 余剰金 1,070円                                      |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  35,340 円
