@@ -2,10 +2,9 @@
 
 layout: record
 title: "#59 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -15,52 +14,35 @@ published: false
 
 <!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
 
-* XXX
+* 福井県から1名参加してくれた
+  + 喜ばしいことに初参加者です
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
-## 運営ブレストログ
+* Ruby on Rails チュートリアル
+  + もくもくしている人が2名
 
-* [meetup 59 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-59-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
+* wtnabeさんが着々とブログ記事を公開している...!!
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 59 - Togetter](XXX)
-* [Kanazawa.rb meetup 59 - 30days](XXX)
+* [kanazawa.rb meetup 59 - Togetter](https://togetter.com/li/1130329)
+* [Kanazawa.rb meetup 59 - 30days](http://30d.jp/kzrb/49)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
+* [kanazawa\.rb meetup \#59 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/07/17/201147)
+* [kanazawa.rb meetup \#59 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb59)
 
--->
 
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    35,340円 |                                                   |
+| meetup 59 参加費合計(6名)    |   +3,000円 | 全参加者 6名                                        |
+| meetup 59 懇親会調整費(二次会)|      +890円 | 余剰金 890円                                      |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  39,230 円
