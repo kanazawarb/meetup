@@ -41,7 +41,7 @@ published: true
 ## スライド
 
 * [Splatoon2をやりましょう 〜Rubyで絵を描く〜 // Speaker Deck](https://speakerdeck.com/izawa/splatoon2woyarimasiyou-rubydehui-womiao-ku)
-
+* [kanazawa\.rb 参加者データと5周年KPT // Speaker Deck](https://speakerdeck.com/cottondesu/can-jia-zhe-detato5zhou-nian-kpt)
 
 ## 参加者のブログ
 
