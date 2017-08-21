@@ -46,7 +46,8 @@ published: true
 ## 参加者のブログ
 
 * [kanazawa\.rb meetup \#60 に行ってきた話 \#kzrb \- shiget84's blog](http://shiget84.hateblo.jp/entry/2017/08/19/234521)
-
+* [kanazawa\.rb meetup \#60 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/08/20/205639)
+* [kanazawa.rb meetup \#60 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb60)
 
 ## 収支
 
@@ -59,4 +60,3 @@ published: true
 | ノベルティ費用(キーホルダー)  |   -18,684円 | 立て替え精算(izawa)                               |
 
 **次回繰越**  25,546 円
-
