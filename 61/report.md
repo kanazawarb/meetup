@@ -43,6 +43,9 @@ published: true
 
 ## スライド
 
+* [Being successful with GitHub](https://speakerdeck.com/ikeike443/being-successful-with-github-1)
+  + 実際に使っていただいたものとは若干内容がことなりますが、ほぼこの内容に準じてお話いただきました
+
 * [GitHubでのプルリクエストレビューを加速するためにいろいろと作った話](https://speakerdeck.com/kentarom/githubtefalsehururikuesutorehiyuwojia-su-surutameniiroirotozuo-tutahua)
 
 * [Git インフラ選定事例](https://speakerdeck.com/kiyohara/git-inhuraxuan-ding-shi-li-zhu-shi-hui-she-kuruuitutoga-github-woxuan-ndali-you)
