@@ -50,6 +50,8 @@ published: true
 
 * [Git インフラ選定事例](https://speakerdeck.com/kiyohara/git-inhuraxuan-ding-shi-li-zhu-shi-hui-she-kuruuitutoga-github-woxuan-ndali-you)
 
+* [俺とGitHubとcodeシリーズ](https://www.slideshare.net/pharaohkj/githubcode-79879644)
+
 ## 参加者のブログ
 
 * [kanazawa\.rb meetup \#61 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/09/18/180408)
