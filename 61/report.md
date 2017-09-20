@@ -18,7 +18,7 @@ published: true
 * DMM.com Labo 松下さんに GitHub を使った開発フローに関する社内事例を話してもらった
   + [写真](http://30d.jp/kzrb/51/photo/33)
 
-* DMM.com Labo 盛田さんに GitHub と AWS を使ったデプロイ/リリースフローに関する社内事例を話してもらった 
+* DMM.com Labo 盛田さんに GitHub と AWS を使ったデプロイ/リリースフローに関する社内事例を話してもらった
   + [写真](http://30d.jp/kzrb/51/photo/45)
 
 * ファランクスウェア 加藤さんに GitHub と連携する AWS の Code 系サービスの紹介をしてもらった
@@ -50,14 +50,10 @@ published: true
 
 * [Git インフラ選定事例](https://speakerdeck.com/kiyohara/git-inhuraxuan-ding-shi-li-zhu-shi-hui-she-kuruuitutoga-github-woxuan-ndali-you)
 
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#61 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/09/18/180408)
+* [GitHub勉強会 in Kanazawa に参加しました \#kzrb \#jawsug \- Blogaomu](http://www.blogaomu.com/entry/github-study-in-kanazawa)
 
 ## 収支
 
@@ -67,4 +63,3 @@ published: true
   + なし
 
 **次回繰越**  25,546 円
-
