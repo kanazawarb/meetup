@@ -2,10 +2,9 @@
 
 layout: record
 title: "#62 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,36 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* トップ YouTuber 井澤さんによる配信ノウハウの紹介
+  + [写真](https://www.instagram.com/p/Baf-8WGl15f/)
 
-* XXX
+* 岡本さんの近況報告… 転職！！
+  + [写真](https://www.instagram.com/p/BagBQ6YlR8X/)
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
+* 渡辺さんによる HTML5 form validation の話
+  + [写真](https://www.instagram.com/p/BagB-9mlv6E/)
+
 ## 運営ブレストログ
 
 * [meetup 62 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-62-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
-
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
+* [kanazawa.rb meetup 62 - Togetter](https://togetter.com/li/1163410)
+* [Kanazawa.rb meetup 62 - 30days](http://30d.jp/kzrb/52)
 
-* [kanazawa.rb meetup 62 - Togetter](XXX)
-* [Kanazawa.rb meetup 62 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#62 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/10/22/203106)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    25,546円 |                                                   |
+| Doorkeeper 費用              |    -9,720円 | 6ヶ月分(2017/1-6)                                    |
+| meetup 62 参加費合計(12名)    |   +6,000円 | 全参加者 12名                  |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  21,826 円
