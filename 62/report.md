@@ -33,6 +33,8 @@ published: true
 ## 参加者のブログ
 
 * [kanazawa\.rb meetup \#62 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/10/22/203106)
+* [kanazawa.rb meetup \#62 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb62)
+* [kanazawa.rb meetup \#62 に参加しました \#kzrb \- 3rd Place](http://haraguro3.hateblo.jp/entry/2017/10/23/231957)
 
 ## 収支
 
