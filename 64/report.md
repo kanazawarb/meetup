@@ -2,10 +2,9 @@
 
 layout: record
 title: "#64 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,53 +12,48 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* 参加者全員が LT を実施できた
+  * 少なくとも1人2回発表した
+  * 発表内容は多岐にわたる
 
-* XXX
+* wtnabe さんがLTタイマーアプリを作ってきました。
+  + [LTタイマーアプリ](https://lt-timer.herokuapp.com/)
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
-## 運営ブレストログ
+* 本日のLT一覧です。
+  + [写真](https://t.co/Wjed0uTObx)
 
-* [meetup 64 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-64-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
+* ここはどこでしょう？
+  + [写真](https://t.co/RL12YjqjHa)
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
+* kanazawa.rb meetup 64 - Togetter(Togetterのアカウント凍結により未作成)
+* [Kanazawa.rb meetup 64 - 30days](http://30d.jp/kzrb/54)
 
-* [kanazawa.rb meetup 64 - Togetter](XXX)
-* [Kanazawa.rb meetup 64 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [2017年の個人開発と個人I/O \- Google スライド](https://docs.google.com/presentation/d/1DyPRPI21urcVdOcW7PE2jz0Mp-N9TuF7K9GG4u7i0PA/edit#slide=id.p)
+* [新幹線出張tips \- Google スライド](https://docs.google.com/presentation/d/1s3w8Do2wkxGmfghdGFlWFWcp5a0nzHxQIzf4bn3MZpc/edit#slide=id.p)
+* [Vue.jsの始め方の一例  // Speaker Deck](https://speakerdeck.com/wtnabe/one-case-of-how-to-begin-vuejs)
+* [2017年買い物ベスト7  // Speaker Deck](https://speakerdeck.com/izawa/2017nian-mai-iwu-besuto7)
+* [2017年に買って良かったもの  // Speaker Deck](https://speakerdeck.com/shiget84/kzrb-meetup-number-64-lt2)
+* [Google SpreadSheetでTwitter Bot作ったよ その２  // Speaker Deck](https://speakerdeck.com/cottondesu/google-spreadsheetdetwitter-botzuo-tutayo-sofalse2)
+* [Google HomeとIRKitで寝室をスマートにする  // Qiita](https://qiita.com/noboru_i/private/c35576b422a3b9b89572)
 
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#64 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb64)
+* [kanazawa\.rb meetup \#64 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/12/18/193936)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    22,846円 |                                                   |
+| meetup 66 会場費              |    -4,300円 | 先行支払い                                        |
+| meetup 64 参加費合計(6名)    |   +3,000円 | 全参加者 6名                                          |
+| meetup 64 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
 
-**次回繰越**  66,317 円
+**次回繰越**  19,546 円
