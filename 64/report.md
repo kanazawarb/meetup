@@ -27,7 +27,7 @@ published: true
 
 ## まとめ
 
-* kanazawa.rb meetup 64 - Togetter(Togetterのアカウント凍結により未作成)
+* [kanazawa.rb meetup 64 - Togetter](https://togetter.com/li/1182433)
 * [Kanazawa.rb meetup 64 - 30days](http://30d.jp/kzrb/54)
 
 ## スライド
