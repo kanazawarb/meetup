@@ -44,6 +44,7 @@ published: true
 
 * [kanazawa\.rb meetup \#64 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb64)
 * [kanazawa\.rb meetup \#64 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/12/18/193936)
+* [kanazawa\.rb meetup \#64 に行ってきた話 \#kzrb \- shiget84's blog](http://shiget84.hateblo.jp/entry/2017/12/17/000000)
 
 ## 収支
 
