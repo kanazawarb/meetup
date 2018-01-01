@@ -39,6 +39,7 @@ published: true
 * [2017年に買って良かったもの  // Speaker Deck](https://speakerdeck.com/shiget84/kzrb-meetup-number-64-lt2)
 * [Google SpreadSheetでTwitter Bot作ったよ その２  // Speaker Deck](https://speakerdeck.com/cottondesu/google-spreadsheetdetwitter-botzuo-tutayo-sofalse2)
 * [Google HomeとIRKitで寝室をスマートにする  // Qiita](https://qiita.com/noboru_i/private/c35576b422a3b9b89572)
+* [しげっとが富山に転職して13ヶ月半が過ぎました  // Speaker Deck](https://speakerdeck.com/shiget84/kzrb-meetup-number-64-lt1)
 
 ## 参加者のブログ
 
