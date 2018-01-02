@@ -39,11 +39,13 @@ published: true
 * [2017年に買って良かったもの  // Speaker Deck](https://speakerdeck.com/shiget84/kzrb-meetup-number-64-lt2)
 * [Google SpreadSheetでTwitter Bot作ったよ その２  // Speaker Deck](https://speakerdeck.com/cottondesu/google-spreadsheetdetwitter-botzuo-tutayo-sofalse2)
 * [Google HomeとIRKitで寝室をスマートにする  // Qiita](https://qiita.com/noboru_i/private/c35576b422a3b9b89572)
+* [しげっとが富山に転職して13ヶ月半が過ぎました  // Speaker Deck](https://speakerdeck.com/shiget84/kzrb-meetup-number-64-lt1)
 
 ## 参加者のブログ
 
 * [kanazawa\.rb meetup \#64 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb64)
 * [kanazawa\.rb meetup \#64 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2017/12/18/193936)
+* [kanazawa\.rb meetup \#64 に行ってきた話 \#kzrb \- shiget84's blog](http://shiget84.hateblo.jp/entry/2017/12/17/000000)
 
 ## 収支
 
