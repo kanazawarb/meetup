@@ -2,10 +2,9 @@
 
 layout: record
 title: "#67 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,44 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* 今日の #kzrb は、もくもく会の割に人が多めです。嬉しいね。
+  + [写真](https://www.instagram.com/p/BgaddeZnLT4/)
 
-* XXX
+* 今回のLTラインナップ
+  + [写真](https://www.instagram.com/p/BgaVuy1HR3e/)
+  + [写真](https://www.instagram.com/p/BgatZdkHH8X/)
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
+* コードレビューの話
+  + LT中に笑いなど発生し大盛況。
+  + 質問タイムで多くの質問やコメントで大盛況。
+
+* kzrb.org の Slack 招待リンクが復活
+  + [写真](https://twitter.com/kiyohara/status/974924424087453696/photo/1)
+
 ## 運営ブレストログ
 
 * [meetup 67 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-67-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
-
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
+* [kanazawa.rb meetup 67 - Togetter](https://togetter.com/li/1209784)
+* [Kanazawa.rb meetup 67 - 30days](http://30d.jp/kzrb/57)
 
-* [kanazawa.rb meetup 67 - Togetter](XXX)
-* [Kanazawa.rb meetup 67 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#67 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2018/03/19/221237)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    24,386円 |                                                   |
+| Doorkeeper 費用              |    -9,720円 | 6ヶ月分(2017/7-12)                                |
+| meetup 67 参加費合計(20名)    |         0円 | 全参加者 20名 参加費無料                              |
+| meetup 67 懇親会優待費        |    -3,000円 | 学生支援枠 3名                                      |
+| meetup 67 懇親会調整費(一次会)|      +6,000円 | 余剰金 6,000円                                    |
+| meetup 67 懇親会調整費(二次会)|      +3,295円 | 余剰金 3,295円                                     |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  20,961 円
