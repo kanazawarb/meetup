@@ -35,6 +35,10 @@ published: true
 * [kanazawa.rb meetup 67 - Togetter](https://togetter.com/li/1209784)
 * [Kanazawa.rb meetup 67 - 30days](http://30d.jp/kzrb/57)
 
+## スライド
+
+* [JAWS DAYS 2018 行ってきた & スタッフした](https://www.slideshare.net/pharaohkj/jaws-days-2018-91049795)
+
 ## 参加者のブログ
 
 * [kanazawa\.rb meetup \#67 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2018/03/19/221237)
