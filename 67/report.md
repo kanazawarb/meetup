@@ -38,10 +38,12 @@ published: true
 ## スライド
 
 * [JAWS DAYS 2018 行ってきた & スタッフした](https://www.slideshare.net/pharaohkj/jaws-days-2018-91049795)
+* [Rubyで確定申告楽したい \- Google スライド](https://docs.google.com/presentation/d/13B2dKZb70pGyyaN-uCD2rCXEn34DheDQy5SnJsFFBDI/edit#slide=id.p)
 
 ## 参加者のブログ
 
 * [kanazawa\.rb meetup \#67 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2018/03/19/221237)
+* [Kanazawa\.rb meetup \#67 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb67)
 
 ## 収支
 
