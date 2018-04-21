@@ -48,6 +48,27 @@ published: true
 | 開場                              | 13:00 |      |                                                         |
 | オープニング(発表順の決定を含む)  | 13:15 | 15m  |                                                         |
 | LT 大会                           | 13:30 | 180m |                                                         |
+| Yoshioka                          |       | 5m   |                                                         |
+| 井澤ゆきみつ                      |       | 5m   |                                                         |
+| Keisuke Oohata                    |       | 5m   |                                                         |
+| ichigami                          |       | 5m   |                                                         |
+| しげっと                          |       | 5m   |                                                         |
+| (休憩)                            |       | 10m  |                                                         |
+| ふぁらお加藤                      |       | 5m   |                                                         |
+| TAKAyukiatkwsk                    |       | 5m   |                                                         |
+| 井澤ゆきみつ                      |       | 5m   |                                                         |
+| ふぁらお加藤                      |       | 5m   |                                                         |
+| Tsuyoshi Miyakawa                 |       | 5m   |                                                         |
+| (休憩)                            |       | 10m  |                                                         |
+| ふぁらお加藤                      |       | 5m   |                                                         |
+| noboru ishikura                   |       | 5m   |                                                         |
+| 井澤ゆきみつ                      |       | 5m   |                                                         |
+| 清原智和                          |       | 5m   |                                                         |
+| Keisuke Oohata                    |       | 5m   |                                                         |
+| (休憩)                            |       | 10m  |                                                         |
+| Kentaro Matsushita                |       | 5m   |                                                         |
+| 平田豊(ひらたゆたか)              |       | 5m   |                                                         |
+| Jun Nakano                        |       | 5m   |                                                         |
 | 運営ブレスト                      | 16:30 | 25m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
