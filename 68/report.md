@@ -2,10 +2,9 @@
 
 layout: record
 title: "#68 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,71 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* たかぎさんのおみやげ！ありがとうございます
+  + [写真](https://twitter.com/cotton_desu/status/987536750670110722/photo/1)
+  + [写真](https://twitter.com/Yukimitsu_Izawa/status/987542345762537473/photo/1)
 
-* XXX
+* 今日は LT 大会。当日限りのライブ配信もやってます。
+  + [写真](https://www.instagram.com/p/Bh0fl_thLBp/)
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
+* YouTubeチャンネル
+  + [Tomoo Ichigami](https://www.youtube.com/channel/UCyC7nvmqI5wSkwJGY-QmDnA)
+  + [Tsuyoshi Miyakawa](https://www.youtube.com/channel/UCxwxboeqjpK2mzuTSrs6p8g)
+
+* noboru-iのメモ的な何かです。
+  + [URL](https://noboru-i.github.io/)
+
+* GitHubでのプルリクエスト運用を加速するためにプルリくんというBotを作った話
+  + [Qiita](https://qiita.com/kentaro_m/items/fc79511f463ff51b4d0f)
+
+* coverage-markers
+  + [URL](https://atom.io/packages/coverage-markers)
+
+* インフラ勉強会、さいきんちらほら聞くなー。興味はある。
+  + [Qiita](https://qiita.com/yutakakn/items/86a32f2a3798f31a5471)
+
+* TeraTerm のビルド
+  + いまでも Windows 95 に対応するため Visual Studio 2005 を使っている。
+
+* カスタマイズマニアとDefault主義を時代によって行き来してる
+
 ## 運営ブレストログ
 
 * [meetup 68 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-68-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
-
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 68 - Togetter](XXX)
-* [Kanazawa.rb meetup 68 - 30days](XXX)
+* [kanazawa.rb meetup 68 - Togetter](https://togetter.com/li/1220373)
+* [Kanazawa.rb meetup 68 - 30days](http://30d.jp/kzrb/58)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [オレチョコ!!](https://speakerdeck.com/cottondesu/oretiyoko)
+* [開発環境紹介 / kanazawa\.rb meetup \#68](https://speakerdeck.com/shiget84/kanazawa-dot-rb-meetup-number-68)
+* [俺とディスプレイ](https://www.slideshare.net/pharaohkj/ss-94706208)
+* [俺と通知](https://www.slideshare.net/pharaohkj/ss-94706192)
+* [俺とキーボード](https://www.slideshare.net/pharaohkj/ss-94706229)
+* [情報収集・管理のために作ったもの](https://gitpitch.com/noboru-i/slide/gh-pages?p=201804-kzrb)
+* [Web to macOS native app](https://speakerdeck.com/kiyohara/web-to-macos-native-app)
+* [頑張らないzsh環境](https://speakerdeck.com/cottondesu/wan-zhang-ranaizshhuan-jing)
+* [開発環境改善活動2018 〜より快適な開発環境を目指して〜](https://speakerdeck.com/kentarom/kai-fa-huan-jing-gai-shan-huo-dong-2018-yorikuai-shi-nakai-fa-huan-jing-womu-zhi-site)
 
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [金沢とRubyのコミュニティ \- 生涯現役のITエンジニアを目指して](http://el.jibun.atmarkit.co.jp/yutakakn/2018/04/ruby.html)
+* [kanazawa\.rb meetup \#68 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2018/04/22/224024)
+* [kanazawa\.rb meetup \#68 に参加してきた。 \- 混沌とした備忘録](http://noboru.hatenablog.jp/entry/2018/04/23/230840)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    20,961円 |                                                   |
+| meetup 68 参加費合計(14名)    |   +7,000円 | 全参加者 14名                                        |
+| meetup 68 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
+| meetup 68 懇親会調整費(二次会)|      +1,263円 | 余剰金 1,263円                                    |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  27,224 円
