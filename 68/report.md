@@ -53,7 +53,7 @@ published: true
 ## スライド
 
 * [オレチョコ!!](https://speakerdeck.com/cottondesu/oretiyoko)
-* [開発環境紹介 / kanazawa\.rb meetup \#68](https://speakerdeck.com/shiget84/kanazawa-dot-rb-meetup-number-68)
+* [開発環境紹介 / kzrb meetup \#68](https://speakerdeck.com/shiget84/kzrb-meetup-number-68)
 * [俺とディスプレイ](https://www.slideshare.net/pharaohkj/ss-94706208)
 * [俺と通知](https://www.slideshare.net/pharaohkj/ss-94706192)
 * [俺とキーボード](https://www.slideshare.net/pharaohkj/ss-94706229)
@@ -67,6 +67,8 @@ published: true
 * [金沢とRubyのコミュニティ \- 生涯現役のITエンジニアを目指して](http://el.jibun.atmarkit.co.jp/yutakakn/2018/04/ruby.html)
 * [kanazawa\.rb meetup \#68 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2018/04/22/224024)
 * [kanazawa\.rb meetup \#68 に参加してきた。 \- 混沌とした備忘録](http://noboru.hatenablog.jp/entry/2018/04/23/230840)
+* [kanazawa\.rb meetup \#68 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb68)
+* [kanazawa\.rb meetup \#67 と \#68 に行ってきた話 \#kzrb \- shiget84's blog](http://shiget84.hateblo.jp/entry/kzrb-67-68)
 
 ## 収支
 
