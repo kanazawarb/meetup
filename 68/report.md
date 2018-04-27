@@ -53,7 +53,7 @@ published: true
 ## スライド
 
 * [オレチョコ!!](https://speakerdeck.com/cottondesu/oretiyoko)
-* [開発環境紹介 / kanazawa\.rb meetup \#68](https://speakerdeck.com/shiget84/kanazawa-dot-rb-meetup-number-68)
+* [開発環境紹介 / kzrb meetup \#68](https://speakerdeck.com/shiget84/kzrb-meetup-number-68)
 * [俺とディスプレイ](https://www.slideshare.net/pharaohkj/ss-94706208)
 * [俺と通知](https://www.slideshare.net/pharaohkj/ss-94706192)
 * [俺とキーボード](https://www.slideshare.net/pharaohkj/ss-94706229)
