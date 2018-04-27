@@ -67,6 +67,8 @@ published: true
 * [金沢とRubyのコミュニティ \- 生涯現役のITエンジニアを目指して](http://el.jibun.atmarkit.co.jp/yutakakn/2018/04/ruby.html)
 * [kanazawa\.rb meetup \#68 \- 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2018/04/22/224024)
 * [kanazawa\.rb meetup \#68 に参加してきた。 \- 混沌とした備忘録](http://noboru.hatenablog.jp/entry/2018/04/23/230840)
+* [kanazawa\.rb meetup \#68 に参加しました \#kzrb \- Blogaomu](http://www.blogaomu.com/entry/kzrb68)
+* [kanazawa\.rb meetup \#67 と \#68 に行ってきた話 \#kzrb \- shiget84's blog](http://shiget84.hateblo.jp/entry/kzrb-67-68)
 
 ## 収支
 
