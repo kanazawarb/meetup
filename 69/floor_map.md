@@ -6,6 +6,8 @@ published: true
 
 ---
 
+<div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
+
 # meetup #69 会場マップ
 
 ## 石川県金沢市南町2-1 北國新聞会館
