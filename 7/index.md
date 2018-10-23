@@ -84,9 +84,9 @@ Agile x Kanazawa.rb
 自分でオブジェクト指向開発を実践していく過程で、テクノロジーからプロセスへ、そしてピープルへとその興味が移っていきました。現在は、「アジャイルな」すべてのものを志向しています。最近の仕事は、マインドマップとUMLの融合エディタ、astah*(アスター、旧JUDE)の開発。新しいアイディアの可能性への挑戦です。
 
 <div class="book-images">
-  <a href="http://www.amazon.co.jp/dp/4798129704"><img src="http://ecx.images-amazon.com/images/I/41qg6STGdqL._SL160_.jpg" height="160" width="109" alt="" title="" /></a>
-  <a href="http://www.amazon.co.jp/dp/4822282295"><img src="http://ecx.images-amazon.com/images/I/51HKFQD123L._SL160_.jpg" height="160" width="113" alt="" title="" /></a>
-  <a href="http://www.amazon.co.jp/dp/4822281930"><img class="right" src="http://ecx.images-amazon.com/images/I/51ZPY244MRL._SL160_.jpg" height="160" width="113" alt="" title="" /></a>
+  <a href="http://www.amazon.co.jp/dp/4798129704"><img src="https://images-na.ssl-images-amazon.com/images/I/41qg6STGdqL._SL160_.jpg" height="160" width="109" alt="" title="" /></a>
+  <a href="http://www.amazon.co.jp/dp/4822282295"><img src="https://images-na.ssl-images-amazon.com/images/I/51HKFQD123L._SL160_.jpg" height="160" width="113" alt="" title="" /></a>
+  <a href="http://www.amazon.co.jp/dp/4822281930"><img class="right" src="https://images-na.ssl-images-amazon.com/images/I/51ZPY244MRL._SL160_.jpg" height="160" width="113" alt="" title="" /></a>
 </div>
 
 
