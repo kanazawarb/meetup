@@ -12,17 +12,17 @@ Kanazawa.rb Slides
 <ul class="slides">
   <li data-date="2009-11-02">
     <a target="_blank" href="http://www.slideshare.net/takot/ruby-2403320">
-      <img src="http://image.slidesharecdn.com/ruby-091102093045-phpapp02/95/slide-1-728.jpg?cb=1257175884" />
+      <img src="https://image.slidesharecdn.com/ruby-091102093045-phpapp02/95/slide-1-728.jpg?cb=1257175884" />
     </a>
   </li>
   <li data-date="2014-06-21">
     <a target="_blank" href="http://www.slideshare.net/yizawa/ghissue">
-      <img src="http://image.slidesharecdn.com/ghissue-140621023950-phpapp02/95/slide-1-638.jpg?cb=1403336492" />
+      <img src="https://image.slidesharecdn.com/ghissue-140621023950-phpapp02/95/slide-1-638.jpg?cb=1403336492" />
     </a>
   </li>
   <li data-date="2014-06-21">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/basic-knowledge-of-3d">
-      <img src="http://image.slidesharecdn.com/basic3dknowledge-140621022626-phpapp02/95/slide-1-638.jpg?cb=1403335693" />
+      <img src="https://image.slidesharecdn.com/basic3dknowledge-140621022626-phpapp02/95/slide-1-638.jpg?cb=1403335693" />
     </a>
   </li>
   <li data-date="2014-06-21">
@@ -32,7 +32,7 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2014-05-17">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-34794458">
-      <img src="http://image.slidesharecdn.com/random-140517024540-phpapp02/95/slide-1-638.jpg?cb=1400312828" />
+      <img src="https://image.slidesharecdn.com/random-140517024540-phpapp02/95/slide-1-638.jpg?cb=1400312828" />
     </a>
   </li>
   <li data-date="2014-05-17">
@@ -42,42 +42,42 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2014-05-17">
     <a target="_blank" href="http://www.slideshare.net/yizawa/log-mode">
-      <img src="http://image.slidesharecdn.com/log-mode-140517003152-phpapp01/95/slide-1-638.jpg?cb=1400304818" />
+      <img src="https://image.slidesharecdn.com/log-mode-140517003152-phpapp01/95/slide-1-638.jpg?cb=1400304818" />
     </a>
   </li>
   <li data-date="2014-05-17">
     <a target="_blank" href="http://www.slideshare.net/tomokazu/atomio-quick-script">
-      <img src="http://image.slidesharecdn.com/kanazawarb21-140517064618-phpapp02/95/slide-1-638.jpg?cb=1400327324" />
+      <img src="https://image.slidesharecdn.com/kanazawarb21-140517064618-phpapp02/95/slide-1-638.jpg?cb=1400327324" />
     </a>
   </li>
   <li data-date="2014-04-19">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/heartbleed-33703988?ref=http%3A%2F%2Fwww.slideshare.net%2Fpharaohkj">
-      <img src="http://image.slidesharecdn.com/heartbleed-140419020216-phpapp01/95/slide-1-638.jpg?cb=1397890975" />
+      <img src="https://image.slidesharecdn.com/heartbleed-140419020216-phpapp01/95/slide-1-638.jpg?cb=1397890975" />
     </a>
   </li>
   <li data-date="2014-04-19">
     <a target="_blank" href="http://www.slideshare.net/yizawa/octopress">
-      <img src="http://image.slidesharecdn.com/octopress-140419001857-phpapp01/95/slide-1-638.jpg?cb=1397885202" />
+      <img src="https://image.slidesharecdn.com/octopress-140419001857-phpapp01/95/slide-1-638.jpg?cb=1397885202" />
     </a>
   </li>
   <li data-date="2014-03-15">
     <a target="_blank" href="http://www.slideshare.net/pharaohkj/ss-32339680">
-      <img src="http://image.slidesharecdn.com/random-140315014955-phpapp02/95/slide-1-638.jpg?cb=1394866376" />
+      <img src="https://image.slidesharecdn.com/random-140315014955-phpapp02/95/slide-1-638.jpg?cb=1394866376" />
     </a>
   </li>
   <li data-date="2014-03-15">
     <a target="_blank" href="http://www.slideshare.net/yizawa/rubyffi">
-      <img src="http://image.slidesharecdn.com/ffi-140315012934-phpapp01/95/slide-1-638.jpg?cb=1394865070" />
+      <img src="https://image.slidesharecdn.com/ffi-140315012934-phpapp01/95/slide-1-638.jpg?cb=1394865070" />
     </a>
   </li>
   <li data-date="2014-02-27">
     <a target="_blank" href="http://www.slideshare.net/yotaichino/ss-31714725">
-      <img src="http://image.slidesharecdn.com/random-140227063954-phpapp02/95/slide-1-638.jpg?cb=1393504960" />
+      <img src="https://image.slidesharecdn.com/random-140227063954-phpapp02/95/slide-1-638.jpg?cb=1393504960" />
     </a>
   </li>
   <li data-date="2014-02-15">
     <a target="_blank" href="http://www.slideshare.net/MakotoTakebayashi1/not-ruby">
-      <img src="http://image.slidesharecdn.com/201402meetup18-140215012808-phpapp02/95/slide-1-638.jpg?cb=1392449376" />
+      <img src="https://image.slidesharecdn.com/201402meetup18-140215012808-phpapp02/95/slide-1-638.jpg?cb=1392449376" />
     </a>
   </li>
   <li data-date="2014-02-15">
@@ -92,22 +92,22 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2014-02-15">
     <a target="_blank" href="http://www.slideshare.net/cottondesu/ss-31242666">
-      <img src="http://image.slidesharecdn.com/random-140215095920-phpapp02/95/slide-1-638.jpg?cb=1392480306" />
+      <img src="https://image.slidesharecdn.com/random-140215095920-phpapp02/95/slide-1-638.jpg?cb=1392480306" />
     </a>
   </li>
   <li data-date="2014-02-15">
     <a target="_blank" href="http://www.slideshare.net/tomokazu/textobjects-vims-elegant-function">
-      <img src="http://image.slidesharecdn.com/kanazawarb18-140215061858-phpapp02/95/slide-1-638.jpg?cb=1392466867" />
+      <img src="https://image.slidesharecdn.com/kanazawarb18-140215061858-phpapp02/95/slide-1-638.jpg?cb=1392466867" />
     </a>
   </li>
   <li data-date="2014-02-15">
     <a target="_blank" href="http://www.slideshare.net/takumimurano505/lombok-java">
-      <img src="http://image.slidesharecdn.com/lombokjava-140215010446-phpapp01/95/slide-1-638.jpg?cb=1392448059" />
+      <img src="https://image.slidesharecdn.com/lombokjava-140215010446-phpapp01/95/slide-1-638.jpg?cb=1392448059" />
     </a>
   </li>
   <li data-date="2014-02-15">
     <a target="_blank" href="http://www.slideshare.net/yizawa/ntp-ampattack">
-      <img src="http://image.slidesharecdn.com/ntp-amp-attack-140215011108-phpapp01/95/slide-1-638.jpg?cb=1392448319" />
+      <img src="https://image.slidesharecdn.com/ntp-amp-attack-140215011108-phpapp01/95/slide-1-638.jpg?cb=1392448319" />
     </a>
   </li>
   <li data-date="2014-02-15">
@@ -122,7 +122,7 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2013-11-23">
     <a target="_blank" href="http://www.slideshare.net/yotaichino/web2py4beginner">
-      <img src="http://image.slidesharecdn.com/web2py4beginner-131123012714-phpapp02/95/slide-1-638.jpg?cb=1385191848" />
+      <img src="https://image.slidesharecdn.com/web2py4beginner-131123012714-phpapp02/95/slide-1-638.jpg?cb=1385191848" />
     </a>
   </li>
   <li data-date="2013-11-23">
@@ -132,12 +132,12 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2013-11-23">
     <a target="_blank" href="http://www.slideshare.net/yizawa/getting-started-with-ror4-bs3">
-      <img src="http://image.slidesharecdn.com/gettingstargedwithror4bs3-131122234806-phpapp02/95/slide-1-638.jpg?cb=1385185780" />
+      <img src="https://image.slidesharecdn.com/gettingstargedwithror4bs3-131122234806-phpapp02/95/slide-1-638.jpg?cb=1385185780" />
     </a>
   </li>
   <li data-date="2013-10-20">
     <a target="_blank" href="http://www.slideshare.net/yizawa/ss-27372185">
-      <img src="http://image.slidesharecdn.com/random-131019230839-phpapp01/95/slide-1-638.jpg?cb=1382242185" />
+      <img src="https://image.slidesharecdn.com/random-131019230839-phpapp01/95/slide-1-638.jpg?cb=1382242185" />
     </a>
   </li>
   <li data-date="2013-10-19">
@@ -162,12 +162,12 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2013-08-25">
     <a target="_blank" href="http://www.slideshare.net/tomokazu/kanazawa-rb-12pub">
-      <img src="http://image.slidesharecdn.com/kanazawarb12pub-130824210857-phpapp01/95/slide-1-638.jpg?cb=1379469008" />
+      <img src="https://image.slidesharecdn.com/kanazawarb12pub-130824210857-phpapp01/95/slide-1-638.jpg?cb=1379469008" />
     </a>
   </li>
   <li data-date="2013-08-24">
     <a target="_blank" href="http://www.slideshare.net/rch850/capify-all">
-      <img src="http://image.slidesharecdn.com/capifyall-130824004103-phpapp02/95/slide-1-638.jpg?cb=1377322954" />
+      <img src="https://image.slidesharecdn.com/capifyall-130824004103-phpapp02/95/slide-1-638.jpg?cb=1377322954" />
     </a>
   </li>
   <li data-date="2013-08-24">
@@ -177,47 +177,47 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2013-08-24">
     <a target="_blank" href="http://www.slideshare.net/yizawa/rubydsl-25541986">
-      <img src="http://image.slidesharecdn.com/dsl-130823235114-phpapp01/95/slide-1-638.jpg?cb=1377319918" />
+      <img src="https://image.slidesharecdn.com/dsl-130823235114-phpapp01/95/slide-1-638.jpg?cb=1377319918" />
     </a>
   </li>
   <li data-date="2013-06-16">
     <a target="_blank" href="http://www.slideshare.net/cottondesu/git-23054387">
-      <img src="http://image.slidesharecdn.com/git-130616015346-phpapp02/95/slide-1-638.jpg?cb=1371648102" />
+      <img src="https://image.slidesharecdn.com/git-130616015346-phpapp02/95/slide-1-638.jpg?cb=1371648102" />
     </a>
   </li>
   <li data-date="2013-06-16">
     <a target="_blank" href="http://www.slideshare.net/tomokazu/githubs-hub">
-      <img src="http://image.slidesharecdn.com/kanazawarb101-130615193705-phpapp02/95/slide-1-638.jpg?cb=1371398559" />
+      <img src="https://image.slidesharecdn.com/kanazawarb101-130615193705-phpapp02/95/slide-1-638.jpg?cb=1371398559" />
     </a>
   </li>
   <li data-date="2013-06-16">
     <a target="_blank" href="http://www.slideshare.net/tomokazu/kanazawa-rb-102">
-      <img src="http://image.slidesharecdn.com/kanazawarb102-130615193942-phpapp02/95/slide-1-638.jpg?cb=1371343268" />
+      <img src="https://image.slidesharecdn.com/kanazawarb102-130615193942-phpapp02/95/slide-1-638.jpg?cb=1371343268" />
     </a>
   </li>
   <li data-date="2013-05-25">
     <a target="_blank" href="http://www.slideshare.net/yizawa/pow-21874326">
-      <img src="http://image.slidesharecdn.com/pow-130525005539-phpapp02/95/slide-1-638.jpg?cb=1369461379" />
+      <img src="https://image.slidesharecdn.com/pow-130525005539-phpapp02/95/slide-1-638.jpg?cb=1369461379" />
     </a>
   </li>
   <li data-date="2013-04-20">
     <a target="_blank" href="http://www.slideshare.net/yizawa/rvm-server">
-      <img src="http://image.slidesharecdn.com/rvm-server-130420022229-phpapp02/95/slide-1-638.jpg?cb=1366442747" />
+      <img src="https://image.slidesharecdn.com/rvm-server-130420022229-phpapp02/95/slide-1-638.jpg?cb=1366442747" />
     </a>
   </li>
   <li data-date="2013-03-31">
     <a target="_blank" href="http://www.slideshare.net/yizawa/try-17934332">
-      <img src="http://image.slidesharecdn.com/try-130330221243-phpapp02/95/slide-1-638.jpg?cb=1364699602" />
+      <img src="https://image.slidesharecdn.com/try-130330221243-phpapp02/95/slide-1-638.jpg?cb=1364699602" />
     </a>
   </li>
   <li data-date="2013-03-31">
     <a target="_blank" href="http://www.slideshare.net/okamototakuyasr2/meetup-7lt1">
-      <img src="http://image.slidesharecdn.com/meetup-7-lt-1-130330221833-phpapp01/95/slide-1-638.jpg?cb=1364700060" />
+      <img src="https://image.slidesharecdn.com/meetup-7-lt-1-130330221833-phpapp01/95/slide-1-638.jpg?cb=1364700060" />
     </a>
   </li>
   <li data-date="2013-03-30">
     <a target="_blank" href="http://www.slideshare.net/hiranabe/project-facilitation-at-kanazawarb">
-      <img src="http://image.slidesharecdn.com/projectfacilitation20130330-kanazawa-rb-130330091655-phpapp02/95/slide-1-638.jpg?cb=1364653055" />
+      <img src="https://image.slidesharecdn.com/projectfacilitation20130330-kanazawa-rb-130330091655-phpapp02/95/slide-1-638.jpg?cb=1364653055" />
     </a>
   </li>
   <li data-date="2013-03-28">
@@ -227,17 +227,17 @@ Kanazawa.rb Slides
   </li>
   <li data-date="2013-02-20">
     <a target="_blank" href="http://www.slideshare.net/IIJ_MOGOK/kanazawarb-slideshare">
-      <img src="http://image.slidesharecdn.com/kanazawarb-slideshare-130219202417-phpapp02/95/slide-1-638.jpg?cb=1361338515" />
+      <img src="https://image.slidesharecdn.com/kanazawarb-slideshare-130219202417-phpapp02/95/slide-1-638.jpg?cb=1361338515" />
     </a>
   </li>
   <li data-date="2013-02-17">
     <a target="_blank" href="http://www.slideshare.net/KeisukeKita/sqale">
-      <img src="http://image.slidesharecdn.com/sqale-130216203846-phpapp01/95/slide-1-638.jpg?cb=1361069743" />
+      <img src="https://image.slidesharecdn.com/sqale-130216203846-phpapp01/95/slide-1-638.jpg?cb=1361069743" />
     </a>
   </li>
   <li data-date="2013-02-17">
     <a target="_blank" href="http://www.slideshare.net/tomokazu/kanazawa-rb-06">
-      <img src="http://image.slidesharecdn.com/kanazawarb06-130216195854-phpapp01/95/slide-1-638.jpg?cb=1361066894" />
+      <img src="https://image.slidesharecdn.com/kanazawarb06-130216195854-phpapp01/95/slide-1-638.jpg?cb=1361066894" />
     </a>
   </li>
   <li data-date="2012-08-19">
