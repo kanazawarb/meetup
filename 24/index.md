@@ -10,7 +10,7 @@ title: "#24"
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/13573">meetup
-#24</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#24</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 

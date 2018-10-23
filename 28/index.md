@@ -11,7 +11,7 @@ date: 2014-12-20 (Sat)
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/17763" class="doorkeeper-registration-widget">meetup
-#28</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
+#28</a><script src="https://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
 
 </div>
 

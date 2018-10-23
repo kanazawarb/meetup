@@ -11,7 +11,7 @@ date: 2015-10-17 (Sat)
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/32361">meetup
-#38</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#38</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 

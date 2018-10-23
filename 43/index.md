@@ -8,7 +8,7 @@ title: "#43"
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/39942">meetup #43</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/39942">meetup #43</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
 # meetup #43

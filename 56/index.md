@@ -10,7 +10,7 @@ date: 2017-04-15 (Sat)
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/58873">meetup
-#56</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#56</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 

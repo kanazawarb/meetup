@@ -11,7 +11,7 @@ date: 2013-11-23 (Sat)
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/6745" class="doorkeeper-registration-widget">meetup
-#15</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
+#15</a><script src="https://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
 
 </div>
 
