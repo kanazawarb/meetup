@@ -11,7 +11,7 @@ date: 2014-07-19 (Sat)
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/12981">meetup
-#23</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#23</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 

@@ -11,7 +11,7 @@ date: 2015-04-25 (Sat)
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/22832">meetup
-#32</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#32</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 

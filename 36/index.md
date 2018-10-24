@@ -11,7 +11,7 @@ date: 2015-08-29 (Sat)
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/29067">meetup
-#36</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#36</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 

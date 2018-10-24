@@ -11,7 +11,7 @@ date: 2014-02-15 (Sat)
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/8563" class="doorkeeper-registration-widget">meetup
-#18</a><script src="http://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
+#18</a><script src="https://widgets.doorkeeper.jp/w/widget.js" type="text/javascript"></script>
 
 </div>
 

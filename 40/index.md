@@ -11,7 +11,7 @@ date: 2015-12-12 (Sat)
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/35492">meetup
-#40</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+#40</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 </div>
 
