@@ -49,9 +49,23 @@ Twitter 上で表明してもらえると助かります。
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT                                | 13:45 | 160m | みんな                                                  |
+| Rainbow CSVの紹介                 |       |      | cotton                                                  |
+| 今年の振り返り                    |       |      | tokkie                                                  |
+| Charlesでスマホアプリデバッグ     |       |      | noboru_i                                                |
+| Rails Fixtures と ActiveStorage と私 |     |       | kiyohara                                              |
+| 中間管理職が腐ったミカンだったら組織と現場は間違いなく腐るという話 |  |  | minakawa                        |
+| スクレイピングは茨の道            |       |      | cotton                                                  |
+| Ruby入門書を読んだ話              |       |      | shiget84                                                |
+| 2018年買ったもの                  |       |      | noboru_i                                                |
+| Bufferに投稿するCLIツールを作ってみた |   |      | takayukiatkwsk                                          |
+| 2018年買ったもの                  |       |      | shiget84                                                |
+| 2018年KPT                         |       |      | @wtnabe                                                 |
+| いろいろ挑戦してみた              |       |      | @ssabcire                                               |
+| Ansibleとのたたかい               |       |      | t11a                                                    |
+| 2018年やり残したことをやった      |       |      | @kabetany                                               |
+| 俺とバイクでソロキャン道具        |       |      | @PharaohKJ                                              |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
-
 
 **meetup #76 は 全員LT の予定です！各自何を喋るかテーマを持って来てください。**
 
