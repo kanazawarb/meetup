@@ -6,13 +6,7 @@ published: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/83603">kanazawa.rb meetup #76</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
@@ -136,4 +130,3 @@ gist用のテンプレートも用意しました。forkして書き換えるだ
 - 一応WiFiがありますが、人数が多くなるとパンクします＞＜
 - 電源は十分なクチがないので、 **タップを持参** してもらえると嬉しいです。特に **Mac の人はアダプタが干渉しやすい** ので注意！
 - 遅刻しないでもらえると嬉しいけど、途中の出入りは自由です。
-
