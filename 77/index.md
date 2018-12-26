@@ -11,6 +11,7 @@ published: true
 終了後記入
 
 ちょっとテスト
+ちょっと、ちょっとちょっと
 
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
