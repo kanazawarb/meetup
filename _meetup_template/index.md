@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: "#77"
+title: "#XX"
 published: true
 
 ---
@@ -15,10 +15,10 @@ published: true
 -->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/84574">kanazawa.rb meetup #77</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/46236">kanazawa.rb meetup #46</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# meetup #77
+# meetup #XX
 
 意識高いもくもく会
 
@@ -31,8 +31,8 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 えっと。なんでもよいです。
 
 
-| **日時**   | 2019年1月19日(土) 13:00 - 17:00 |
-| **会場**   | [合同会社 DMM.com 金沢事業所(ポルテ金沢13F)](https://dmm-corp.com/company/com/)<br>石川県金沢市本町2-15-1 |
+| **日時**   | 2016年6月18日(土) 13:00 - 17:00 |
+| **会場**   | [ITプラザ武蔵](http://www.bp-musashi.jp/) 情報化研修室<br>金沢市武蔵町14番31号 |
 | **参加費** | 500円 |
 
 * 本イベントは非営利目的のものであり **参加費** は継続的なコミュニティ運営のための活動費に充てられます。
@@ -47,11 +47,11 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 | 開場                              | 13:00 |      |                                                         |
 | 自己紹介＆目標発表                | 13:15 | 15m  |                                                         |
 | 各自で何かする自由な時間          | 13:30 |      | みんな                                                  |
-| LT - 今日触ったこと               |       |      | @Iruk_Nuj                                               |
-| LT - 俺と Otoya                   |       |      | @PharaohKJ                                              |
-| LT - 2018年の買い物について       |       |      | @Yukimitsu_Izawa                                        |
-| LT - 仕事環境向上をめざして 〜CO2センサーで室内環境を監視する〜 | | | @Yukimitsu_Izawa                     |
-| LT - Github Tips                  |       |      | @kiyohara                                               |
+| LT (Shell check をつかおう)       | 15:00 | 5m   | [@cotton_desu](https://twitter.com/cotton_desu)         |
+| LT (sh unit2 をつかおう)          | 15:05 | 10m  | [@cotton_desu](https://twitter.com/cotton_desu)         |
+| LT (Dokku を動かしてみたよ(デモ)) | 15:15 | 15m  | [@wtnabe](https://twitter.com/wtnabe)                   |
+| LT (AWS サミットと俺)             | 15:30 | 10m  | [@PharaohKJ](https://twitter.com/PharaohKJ)             |
+| LT (IoT タグであそぼう)           | 15:40 | 25m  | [@Yukimitsu_Izawa](https://twitter.com/Yukimitsu_Izawa) |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 目標達成度発表                    | 16:40 | 15m  | みんな                                                  |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
