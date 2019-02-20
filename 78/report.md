@@ -2,10 +2,9 @@
 
 layout: record
 title: "#78 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,39 +12,33 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* [meeemo(メェーモ)](https://meeemo.space/) で今回の目標と結果発表を共有
+    + [写真](http://30d.jp/kzrb/68/photo/199)
+* Netlify の Functions を使ってみてへぇ〜ってなっている 
+* 後述の Issue をベースに Github やその他諸々の権限まわりを更新しました。いつでも追加で手を上げられますよ！
+    + [運営協力者 第7期（2019年2月〜2019年8月） · Issue #970 · kanazawarb/meetup ](https://github.com/kanazawarb/meetup/issues/970)
+* meemoのテンプレートを作ってくれるツールの話
+* Linuxカーネルソース減量の話
 
-* XXX
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 78 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-78-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
-
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 78 - Togetter](XXX)
-* [Kanazawa.rb meetup 78 - 30days](XXX)
+* [kanazawa.rb meetup 78 - Togetter](https://togetter.com/li/1320597)
+* [Kanazawa.rb meetup 78 - 30days](http://30d.jp/kzrb/68)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [Linuxカーネルソースの減量](https://speakerdeck.com/sat/linuxkanerusosufalsejian-liang)
 
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [Kanazawa.rb meetup #78 に参加しました #kzrb \- blogaomu](https://www.blogaomu.com/entry/kzrb78)
+* [kanazawa.rb meetup #78 \- 過ぎたるは及ばざるが如し](https://www.aligatame.net/entry/2019/02/19/204931)
 
 ## 収支
 
@@ -55,12 +48,9 @@ published: false
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    46,393円 |                                                   |
+| meetup 78 参加費合計(15名)    |   +12,000円 | 支援 3名 / 一般チケット 12名                  |
+| meetup 78 懇親会調整費(二次会)|      +13円 | 余剰金 13円                                      |
 
-**次回繰越**  66,317 円
+**次回繰越**  58,406 円
 
