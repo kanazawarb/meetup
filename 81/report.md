@@ -2,10 +2,9 @@
 
 layout: record
 title: "#81 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,23 +12,33 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* LT
+  + [あんぷさん](https://twitter.com/kiyohara/status/1129666778659938305)
+    - 台湾
+  + [いざわさん](https://twitter.com/kiyohara/status/1129667019727548416)
+    - Google Domains
+    - Twitter でバズると通知が壊れる
+  + [くりやまさん](https://twitter.com/kiyohara/status/1129667230445105152)
+    - RubyKaigi
+    - キラキラ
+  + [わたなべさん](https://twitter.com/kiyohara/status/1129667411823583238)
+    - コンピテンシー
+  + きよはらさん
+    - NEologd
+  + [かとうさん](https://twitter.com/kiyohara/status/1129667638156615681)
+    - 手分けったー
+    - ポッドキャストはじめます
 
-* XXX
+* [集合写真](https://twitter.com/kiyohara/status/1129668597750652929)
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 81 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-81-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
-
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 81 - Togetter](XXX)
-* [Kanazawa.rb meetup 81 - 30days](XXX)
+* [kanazawa.rb meetup 81 - Togetter](https://togetter.com/li/1357584)
+* [Kanazawa.rb meetup 81 - 30days](http://30d.jp/kzrb/71)
 
 
 <!-- 分かっている範囲でリンクがあれば列挙する
@@ -55,12 +64,8 @@ published: false
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    72,056円 |                                                   |
+| meetup 81 参加費合計(12名)    |   +10,500円 | 支援 3名 / 一般チケット 9名                       |
 
-**次回繰越**  66,317 円
+**次回繰越**  82,556 円
 
