@@ -2,10 +2,9 @@
 
 layout: record
 title: "#83 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,31 +12,47 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* DMM GAMES さんの素敵なオフィスで開催
+  + [写真](https://twitter.com/shinodogg/status/1152426980962213888)
+  + [写真](https://twitter.com/PharaohKJ/status/1152434974672375810)
 
-* XXX
+* ステッカーをいただいた
+  + [写真](https://twitter.com/shinodogg/status/1152425193241022466)
 
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
-## 運営ブレストログ
+* Algolia 篠原さんによる Algolia 紹介セッション
+  + [写真](https://twitter.com/TAKAyuki_atkwsk/status/1152431114524360704)
+  + [写真](https://twitter.com/kiyohara/status/1152432461642686464)
 
-* [meetup 83 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-83-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
+* ハンズオン
+  + [写真](https://twitter.com/Yukimitsu_Izawa/status/1152443264793841664)
+  + [写真](https://twitter.com/kiyohara/status/1152455493866029056)
+  + [写真](https://twitter.com/kiyohara/status/1152473114585919488)
 
--->
+* 清原さんによる利用事例紹介
+  + [写真](https://twitter.com/shinodogg/status/1152484358579576832)
+
+* 加藤さんによる周辺技術紹介
+  + [写真](https://twitter.com/Yukimitsu_Izawa/status/1152485206537846784)
+
+* 集合写真
+  + [写真](https://twitter.com/kiyohara/status/1152515075309105152)
+
+* Algolia Community Party (懇親会)
+  + [写真](https://twitter.com/shinodogg/status/1152508979693539328)
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
+* [kanazawa.rb meetup 83 - Togetter](https://togetter.com/li/1378740)
+* [Kanazawa.rb meetup 83 - 30days](http://30d.jp/kzrb/73)
 
-* [kanazawa.rb meetup 83 - Togetter](XXX)
-* [Kanazawa.rb meetup 83 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
-
--->
+* [Algolia 勉強会 in 金沢 \- 資料一覧 \- connpass](https://connpass.com/event/135409/presentation/)
+  + [Algolia introduction in Kanazawa \- July 2019](https://www.slideshare.net/shinodogg/algolia-introduction-in-kanazawa-july-2019)
+  + [Getting Started with Algolia InstantSearch\.js](https://www.slideshare.net/shinodogg/getting-started-with-algolia-instantsearchjs)
+  + [Indexing with Algolia Ruby API Client](https://www.slideshare.net/shinodogg/indexing-with-algolia-ruby-api-client)
+  + [Algolia in CAMPFIRE \- Speaker Deck](https://speakerdeck.com/kiyohara/algolia-in-campfire)
+  + [俺と超高速リアルタイム検索APIをたぶん支えているAWS \- Speaker Deck](https://speakerdeck.com/pharaohkj/an-tochao-gao-su-riarutaimujian-suo-apiwotabunzhi-eteiruaws)
 
 <!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
@@ -46,21 +61,14 @@ published: false
 
 -->
 
-
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    87,286円 |                                                   |
+| meetup 83 懇親会調整費(二次会)|      +310円 | 余剰金 310円                                      |
 
-**次回繰越**  66,317 円
+**次回繰越**  87,596 円
 
