@@ -6,13 +6,7 @@ published: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 # Algolia 勉強会 in 金沢 (meetup #83)
 
