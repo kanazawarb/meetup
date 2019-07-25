@@ -38,7 +38,7 @@ kanazawa.rbにまだ参加したことがない方もこの期にぜひぜひ参
 
 
 | 日時   | 2013年 8/24(土) 13:00 〜 17:00 |
-| 会場   | ITプラザ武蔵 情報化研修室(4F)<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 会場   | ITビジネスプラザ武蔵 情報化研修室(4F)<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
 | 参加費 | 500円 |
 
 
