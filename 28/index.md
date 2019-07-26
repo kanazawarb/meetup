@@ -24,7 +24,7 @@ meetup #28
 
 
 | 日時   | 2014年 12/20(土) 13:00 〜 17:00 |
-| 会場   | ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 会場   | ITビジネスプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
 | 参加費 | 500円 |
 
 

@@ -25,7 +25,7 @@ How to make meetup
 <ul class="workflow">
   <li>1. 日程を決める
     <ul>
-      <li>最近はITプラザ武蔵は1ヶ月前じゃ遅いので2ヶ月前くらいに</li>
+      <li>最近はITビジネスプラザ武蔵は1ヶ月前じゃ遅いので2ヶ月前くらいに</li>
     </ul>
   </li>
   <li>2. 場所を押さえる（<strong>オレがやるよと言う</strong>）</li>

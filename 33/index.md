@@ -31,7 +31,7 @@ APIはこれで、こんな風に使っている」といった紹介なども�
 
 
 | 日時   | 2015年 05/16(土) 13:00 〜 17:00 |
-| 会場   | ITプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 会場   | ITビジネスプラザ武蔵 研修室2<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
 | 参加費 | 500円 |
 
 

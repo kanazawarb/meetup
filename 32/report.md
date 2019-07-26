@@ -32,7 +32,7 @@ meetup #32 report
 -   「概念を知っていると実装の理解が早いから、こういうの大事だね」「これ、いいリスト [instagram.com/p/142eSfQeqh/](https://instagram.com/p/142eSfQeqh/) 」
 -   「わたなべさんのエモい話 [instagram.com/p/1420iuweq0/](https://instagram.com/p/1420iuweq0/) 」
 -   「前工程大事 vs イテレーション大事」
--   「次会 meetup #33 は「Web APIについてなにか(仮)」で 5/16(土) ITプラザ武蔵 の予定です！」
+-   「次会 meetup #33 は「Web APIについてなにか(仮)」で 5/16(土) ITビジネスプラザ武蔵 の予定です！」
 -   「 [もくもくの告知](https://ishikawa-dev.doorkeeper.jp/events/22961) [instagram.com/p/149qQ8QeiY/](https://instagram.com/p/149qQ8QeiY/) 」
 -   「Code for Kanazawa の Civic Hack Night の告知！ <https://instagram.com/p/14-NVMwei8/> 」
 -   「懇親会の学割なくなったことで社会人になったことを実感」

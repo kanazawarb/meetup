@@ -32,7 +32,7 @@ Coderetreat
 
 
 | 日時   | 2017年 4/15(土) 13:00 〜 17:00 |
-| 会場   | ITプラザ武蔵 情報化研修室<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
+| 会場   | ITビジネスプラザ武蔵 情報化研修室<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
 | 参加費 | 500円 |
 
 
