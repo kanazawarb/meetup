@@ -2,10 +2,9 @@
 
 layout: record
 title: "#85 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,46 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* もくもくするのに最適っぽいスペース at DMM GAMES
+    + [写真](http://30d.jp/kzrb/75/photo/54)
+    + [写真](http://30d.jp/kzrb/75/photo/53)
+* 今日流行ってる gatsby これかー
+* まれに見る真面目な雰囲気である
+* 富山Ruby会議のお知らせ
+    + [富山Ruby会議](https://toyamarb.github.io/toyama-rubykaigi01/)
+* 集合写真
+    + [写真](https://twitter.com/kiyohara/status/1175336522402258947)
 
-* XXX
-
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 85 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-85-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
 
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
-
-* [kanazawa.rb meetup 85 - Togetter](XXX)
-* [Kanazawa.rb meetup 85 - 30days](XXX)
+* [Kanazawa.rb meetup 85 - Togetter](https://togetter.com/li/1407656)
+* [Kanazawa.rb meetup 85 - 30days](http://30d.jp/kzrb/75)
 
 
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
+* [Google Cloud Speech-to-Text 使ってみた](https://qiita.com/PharaohKJ/items/e0a844760c49ed14ff76)
 
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [Kanazawa.rb meetup #85 に参加しました #kzrb - Blogaomu](https://www.blogaomu.com/entry/kzrb85)
+* [Kanazawa.rb meetup #85 - 過ぎたるは及ばざるが如し](https://www.aligatame.net/entry/2019/09/24/200006)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    33,056円 |                                                   |
+| meetup 85 参加費合計(14名)    |   +11,500円 | 支援 3名 / 一般チケット 11名                  |
+| meetup 85 懇親会優待費        |    -1,000円 | 県外LT枠 1名                                      |
+| ドメイン更新費用               |      -4,795円 | 立て替え精算(kiyohara) |
 
-**次回繰越**  66,317 円
+**次回繰越**  38,761 円
 
