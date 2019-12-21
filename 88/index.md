@@ -47,6 +47,32 @@ Twitter 上で表明してもらえると助かります。
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT                                | 13:45 | 160m | みんな                                                  |
+| LT - minakawa                     |       |      |                                                         |
+| LT - oohata                       |       |      |                                                         |
+| LT - muryoui                      |       |      |                                                         |
+| LT - takagi                       |       |      |                                                         |
+| LT - ono                          |       |      |                                                         |
+| LT - matsushita                   |       |      |                                                         |
+| 休憩                              |       |      |                                                         |
+| LT - nakano                       |       |      |                                                         |
+| LT - ishikura                     |       |      |                                                         |
+| LT - takebayashi                  |       |      |                                                         |
+| LT - yagi                         |       |      |                                                         |
+| LT - yamada-h                     |       |      |                                                         |
+| LT - yagi                         |       |      |                                                         |
+| 休憩                              |       |      |                                                         |
+| LT - oh                           |       |      |                                                         |
+| LT - ishikura                     |       |      |                                                         |
+| LT - takeuchi                     |       |      |                                                         |
+| LT - taketo                       |       |      |                                                         |
+| LT - yamada-y                     |       |      |                                                         |
+| LT - kiyohara                     |       |      |                                                         |
+| 休憩                              |       |      |                                                         |
+| LT - kurokawa                     |       |      |                                                         |
+| LT - kato                         |       |      |                                                         |
+| LT - takeuchi                     |       |      |                                                         |
+| LT - taketo                       |       |      |                                                         |
+| LT - kato                         |       |      |                                                         |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
