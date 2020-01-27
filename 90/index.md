@@ -16,7 +16,7 @@ published: true
 
 # JP\_Stripes (Stripe ユーザーグループ）in 金沢 キックオフ!! with Kanazawa.rb & JAWS-UG金沢 (meetup #90)
 
-Stripe Japan 小島さまをお招きして、Stripe オンライン決済プラットフォームである [Stripe](https://stripe.com/) についてご紹介いただきます。
+Stripe Japan 小島さまをお招きして、オンライン決済プラットフォームである [Stripe](https://stripe.com/) についてご紹介いただきます。
 
 Stripeのユーザーコミュニティである JP\_Stripes の全国19都市目にあたる、石川での初のミートアップという位置づけとなります。
 
