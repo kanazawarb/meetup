@@ -6,13 +6,7 @@ published: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 # JP\_Stripes (Stripe ユーザーグループ）in 金沢 キックオフ!! with Kanazawa.rb & JAWS-UG金沢 (meetup #90)
 
