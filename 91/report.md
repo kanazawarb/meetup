@@ -17,7 +17,7 @@ published: true
   + [写真](https://twitter.com/TAKAyuki_atkwsk/status/1241214888090968066)
   + [写真](https://twitter.com/kiyohara/status/1241229873818918912)
 
-* [VTuberさん](https://twitter.com/kiyohara/status/1241264273927487488)
+* VTuberさんの[知見](https://twitter.com/kiyohara/status/1241264273927487488)
 
 * いつもとはひと味違う集合写真
   + [写真](https://twitter.com/kiyohara/status/1241275270973108224)
