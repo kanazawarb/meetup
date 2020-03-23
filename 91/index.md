@@ -6,13 +6,7 @@ published: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/104870">kanazawa.rb meetup #91</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
@@ -54,6 +48,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 | LT                                | 16:00 |      | みんな                                                  |
 | バ美肉                            |       | 3m   | @Yukimitsu\_Izawa                                       |
 | Twitter メディアスタジオのご紹介  |       | 10m  | @Yukimitsu\_Izawa                                       |
+| GitHub Hackathon 成果報告         |       | 10m  | @\_kentaro\_m                                           |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 目標達成度発表                    | 16:40 | 15m  | みんな                                                  |
 | クロージング                      | 16:55 | 5m   | みんな                                                  |
