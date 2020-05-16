@@ -60,20 +60,20 @@ LT 大会 - オンライン
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT                                | 13:45 | 160m | みんな                                                  |
-| LT 災害グッズとして見たときのキャンプ道具選び                    | | izawa |
-| LT AWS Lambdaでファイルをこねくり回す                            | | tonto |
-| LT process, virtual machine, and container                       | | sat |
-| 休憩                                                             | | |
-| LT THETAシリーズ用シャッターリモコンの作製                       | | issekiamp|
-| LT Alfred Workflow をつくろう                                    | | kiyohara |
-| LT 実践スナップショットテスト 〜UIのあるべき姿を担保するために〜 | | matsuken |
-| 休憩                                                             | | |
-| LT 私が知っておきたかった統計手法                                | | takayukiatkwsk |
-| LT Ruby の開発について                                           | | osyo |
-| LT リモートワークことはじめ                                      | | YagiKotaro |
-| 休憩                                                             | | |
-| LT Circle CI 1.0からGitHub Actionsに乗りカエル                   | | cottondesu |
-| LT iOSアプリをリリースするまで                                   | | tonto |
+| LT 災害グッズとして見たときのキャンプ道具選び                    | | | izawa |
+| LT AWS Lambdaでファイルをこねくり回す                            | | | tonto |
+| LT process, virtual machine, and container                       | | | sat |
+| 休憩                                                             | | | |
+| LT THETAシリーズ用シャッターリモコンの作製                       | | | issekiamp|
+| LT Alfred Workflow をつくろう                                    | | | kiyohara |
+| LT 実践スナップショットテスト 〜UIのあるべき姿を担保するために〜 | | | matsuken |
+| 休憩                                                             | | | |
+| LT 私が知っておきたかった統計手法                                | | | takayukiatkwsk |
+| LT Ruby の開発について                                           | | | osyo |
+| LT リモートワークことはじめ                                      | | | YagiKotaro |
+| 休憩                                                             | | | |
+| LT Circle CI 1.0からGitHub Actionsに乗りカエル                   | | | cottondesu |
+| LT iOSアプリをリリースするまで                                   | | | tonto |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | クロージング                      | 16:55 | 5m   | みんな                                                  |
 
