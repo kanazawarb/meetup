@@ -2,10 +2,9 @@
 
 layout: record
 title: "#94 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,40 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* rspec-openapi
+  + [GitHub](https://github.com/k0kubun/rspec-openapi)
+* Machida.rb
+  + [URL](https://machidarb.doorkeeper.jp/)
+* Krisp すごい
+  + [URL](https://jp.vcube.com/service/krisp)
+* Rails ジェネレータとテンプレート入門
+  + [URL](https://railsguides.jp/generators.html)
+* 集合写真
+  + [写真](https://twitter.com/kiyohara/status/1274253888284028928)
+* オンライン懇親会
+  + [写真](https://twitter.com/kiyohara/status/1274260118226432001)
 
-* XXX
-
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 94 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-94-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
 
 ## まとめ
 
 <!-- Togetter, 30days のリンクをいれる -->
 
-* [kanazawa.rb meetup 94 - Togetter](XXX)
-* [Kanazawa.rb meetup 94 - 30days](XXX)
+* [kanazawa.rb meetup 94 - Togetter](https://togetter.com/li/1547679)
+* [Kanazawa.rb meetup 94 - 30days](https://30d.jp/kzrb/84)
 
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#94 \- 過ぎたるは及ばざるが如し](https://www.aligatame.net/entry/2020/06/24/120000)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    58,992円 |                                                   |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  58,992 円
