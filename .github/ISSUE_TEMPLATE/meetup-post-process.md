@@ -7,27 +7,29 @@ assignees: ''
 
 ---
 
-* レポートを作成する
-    - [ ] ツイートまとめ(togetter) ... 後述手順参照
-    - [ ] 写真アルバム(30days) ... 後述手順参照
-    - [ ] レポートページ(github pages)
-    - [ ] 運営ブレストログ(github wiki)
+## レポートを作成する
+- [ ] ツイートまとめ(togetter) ... 後述手順参照
+- [ ] 写真アルバム(30days) ... 後述手順参照
+- [ ] レポートページ(github pages)
+- [ ] 運営ブレストログ(github wiki)
 
-* レポートをアナウンスする
-    - ツイートまとめ(togetter)
-        - [ ] Twitter
-        - [ ] Facebook
-        - [ ] ruby-jp slack
-    - 写真アルバム(30days)
-        - [ ] Twitter
-        - [ ] Facebook
-        - [ ] ruby-jp slack
-    - レポートページ(github pages)
-        - [ ] Twitter
-        - [ ] Facebook
-        - [ ] ruby-jp slack
+## レポートをアナウンスする
+- ツイートまとめ(togetter)
+    - [ ] Twitter
+    - [ ] Facebook
+    - [ ] ruby-jp slack
+- 写真アルバム(30days)
+    - [ ] Twitter
+    - [ ] Facebook
+    - [ ] ruby-jp slack
+- レポートページ(github pages)
+    - [ ] Twitter
+    - [ ] Facebook
+    - [ ] ruby-jp slack
 
 ---
+
+## 手順補足
 
 * [ツイートまとめ(togetter) 作成手順](https://github.com/kanazawarb/meetup/wiki/how-to-write-together)
 
