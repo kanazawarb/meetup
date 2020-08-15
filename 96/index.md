@@ -121,14 +121,13 @@ kanazawa.rb はカンファレンスでも勉強会でもない！
 | LT - コミュニティ・イベントの話   |       |      |  Masatoshi Moritsuka                                    |
 | LT - 俺と男のパスタ道             |       |      |  ふぁらを加藤                                           |
 | 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  sat                                                    |
-| LT -                              |       |      |  muryoimpl                                              |
-| LT -                              |       |      |  ふぁらを加藤                                           |
-| LT -                              |       |      |  井澤ゆきみつ                                           |
-| 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  ふぁらを加藤                                           |
-| LT -                              |       |      |  sat                                                    |
-| LT -                              |       |      |  Keisuke Oohata                                         |
+| LT - COVID-19 時代にできること 完結編 |   |      |  sat                                                    |
+| LT - 自作 PC はじめました(沼)     |       |      |  muryoimpl                                              |
+| LT - Active Storage + Cloud Front |       |      |  ふぁらを加藤                                           |
+| LT - Zoom 中に自動で Slack Status を変える話 | | |  井澤ゆきみつ                                           |
+| LT - AWS Samurai 2019 受賞の話    |       |      |  ふぁらを加藤                                           |
+| LT - CPU の基本的な性能指標       |       |      |  sat                                                    |
+| LT - kzrb 8年目 振り返り          |       |      |  Keisuke Oohata                                         |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
