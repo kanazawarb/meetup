@@ -107,7 +107,7 @@ kanazawa.rb はカンファレンスでも勉強会でもない！
 | オープニング＆発表順決定          | 13:15 | 30m  | みんな                                                  |
 | LT                                | 13:45 |      | みんな                                                  |
 | LT - ノベルティの話               |       |      |  ichigami                                               |
-| LT - ruby\_jard の話              |       |      |  osyo                                                   |
+| LT - ruby_jard の話               |       |      |  osyo                                                   |
 | LT - ActiveRecord のメモリ使用量について  | |    |  muryoimpl                                              |
 | LT - GAS と V8 の話               |       |      |  Keisuke Oohata                                         |
 | 休憩                              |       |      |                                                         |
