@@ -111,15 +111,15 @@ kanazawa.rb はカンファレンスでも勉強会でもない！
 | LT - ActiveRecord のメモリ使用量について  | |    |  muryoimpl                                              |
 | LT - GAS と V8 の話               |       |      |  Keisuke Oohata                                         |
 | 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  井澤ゆきみつ                                           |
-| LT -                              |       |      |  清原智和                                               |
-| LT -                              |       |      |  sat                                                    |
-| LT -                              |       |      |  Hitoshi Kurokawa                                       |
+| LT - M5Stack で Kindle(iPad) 操作する話 | |      |  井澤ゆきみつ                                           |
+| LT - compose.yml の動的上書きの話 |       |      |  清原智和                                               |
+| LT - GitHub Sponsors の話         |       |      |  sat                                                    |
+| LT - Docker で php 開発環境を作った話 |   |      |  Hitoshi Kurokawa                                       |
 | 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  Ryusei Nomi(とんと)                                    |
-| LT -                              |       |      |  takayukiatkwsk                                         |
-| LT -                              |       |      |  Masatoshi Moritsuka                                    |
-| LT -                              |       |      |  ふぁらを加藤                                           |
+| LT - Go で WebSocket な話         |       |      |  Ryusei Nomi(とんと)                                    |
+| LT - 謎のDOMの話                  |       |      |  takayukiatkwsk                                         |
+| LT - コミュニティ・イベントの話   |       |      |  Masatoshi Moritsuka                                    |
+| LT - 俺と男のパスタ道             |       |      |  ふぁらを加藤                                           |
 | 休憩                              |       |      |                                                         |
 | LT -                              |       |      |  sat                                                    |
 | LT -                              |       |      |  muryoimpl                                              |
