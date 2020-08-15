@@ -106,29 +106,6 @@ kanazawa.rb はカンファレンスでも勉強会でもない！
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  | みんな                                                  |
 | LT                                | 13:45 |      | みんな                                                  |
-| LT - ノベルティの話               |       |      |  ichigami                                               |
-| LT - ruby_jard の話               |       |      |  osyo                                                   |
-| LT - ActiveRecord のメモリ使用量について  | |    |  muryoimpl                                              |
-| LT - GAS と V8 の話               |       |      |  Keisuke Oohata                                         |
-| 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  井澤ゆきみつ                                           |
-| LT -                              |       |      |  清原智和                                               |
-| LT -                              |       |      |  sat                                                    |
-| LT -                              |       |      |  Hitoshi Kurokawa                                       |
-| 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  Ryusei Nomi(とんと)                                    |
-| LT -                              |       |      |  takayukiatkwsk                                         |
-| LT -                              |       |      |  Masatoshi Moritsuka                                    |
-| LT -                              |       |      |  ふぁらを加藤                                           |
-| 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  sat                                                    |
-| LT -                              |       |      |  muryoimpl                                              |
-| LT -                              |       |      |  ふぁらを加藤                                           |
-| LT -                              |       |      |  井澤ゆきみつ                                           |
-| 休憩                              |       |      |                                                         |
-| LT -                              |       |      |  ふぁらを加藤                                           |
-| LT -                              |       |      |  sat                                                    |
-| LT -                              |       |      |  Keisuke Oohata                                         |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
