@@ -2,10 +2,9 @@
 
 layout: record
 title: "#97 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,36 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* あと3回で100回。すごい
+* Firebaseで1時間で簡単なWebチャットアプリが作れるハンズオン
+  + [Qiita](https://qiita.com/taketakekaho/items/52b7c196ddbd4cb3c968)
+* JS Primar で文字列のところを読んでいるけどやっぱりこの手のテキスト処理はRubyで甘やかされたい感
+  + [URL](https://jsprimer.net/basic/string/)
+* その18 シェルスクリプトで学ぶ排他制御
+  + [YouTube](https://www.youtube.com/watch?v=RPKt1p2SkxY&feature=youtu.be)
+* 能美さんのポートフォリオサイト
+  + [URL](https://27ma4-ryusei.netlify.app/)
 
-* XXX
-
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 97 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-97-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
--->
-
 ## まとめ
 
-<!-- Togetter, 30days のリンクをいれる -->
+* [kanazawa.rb meetup 97 - Togetter](https://togetter.com/li/1595488)
+* [Kanazawa.rb meetup 97 - 30days](https://30d.jp/kzrb/87)
 
-* [kanazawa.rb meetup 97 - Togetter](XXX)
-* [Kanazawa.rb meetup 97 - 30days](XXX)
-
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#97 \- 過ぎたるは及ばざるが如し](https://cotton-desu.hatenablog.com/entry/2020/09/26/120000)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    29,092円 |                                                   |
 
-**次回繰越**  66,317 円
+**次回繰越**  29,092 円
 
