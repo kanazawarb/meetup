@@ -2,10 +2,9 @@
 
 layout: record
 title: "#99 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,39 +12,27 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
+* もくもくに困ったらudemyブラックフライデーセールやってるのでおすすめです
+* [oVice](https://ovice.in/ja/)
+* これを参考にAPIGatewayで作ったAPIにAPIキーを設定した
+  + [Qiita](https://qiita.com/baikichiz/items/ed787c5c79059213401e)
+* LTバトルは草
+* [集合写真](https://30d.jp/kzrb/89/photo/9)
 
-* XXX
-
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 99 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-99-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
 
 ## まとめ
 
 <!-- Togetter, 30days のリンクをいれる -->
 
-* [kanazawa.rb meetup 99 - Togetter](XXX)
-* [Kanazawa.rb meetup 99 - 30days](XXX)
+* [kanazawa.rb meetup 99 - Togetter](https://togetter.com/li/1626877)
+* [Kanazawa.rb meetup 99 - 30days](https://30d.jp/kzrb/89)
 
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## スライド
-
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## 参加者のブログ
 
-* XXX
-
--->
-
+* [kanazawa\.rb meetup \#99 \- 過ぎたるは及ばざるが如し](https://cotton-desu.hatenablog.com/entry/2020/11/29/183000)
 
 ## 収支
 
@@ -55,12 +42,6 @@ published: false
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    29,092円 |                                                   |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  29,092 円
