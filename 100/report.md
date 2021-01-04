@@ -2,10 +2,9 @@
 
 layout: record
 title: "#100 report"
-published: false
+published: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -13,54 +12,41 @@ published: false
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
-
-* XXX
-
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
-## 運営ブレストログ
-
-* [meetup 100 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-100-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
+* 祝100回パチパチ！！
+  + [写真](https://30d.jp/kzrb/90/photo/1)
+* 開始直後の参加メンバー
+  + [写真](https://30d.jp/kzrb/90/photo/3)
+* 確かに文章書いてるうちに急にアウトプット欲が冷めたりすることがあるな
+* 一人アドカレです
+  + [Qiita](https://qiita.com/advent-calendar/2020/bugs_ruby)
+* Ractor超入門
+  + [Qiita](https://qiita.com/S_H_/items/f9d1917fda770bcdbe2a)
+* osyo さんの自己紹介
+  + [自己紹介](https://gist.github.com/osyo-manga/89e763bb7cb6ad57b55d5ce54e010980)
+  + [12月25日にリリースされる Ruby 3.0 に備えよう！](https://speakerdeck.com/osyo/12yue-25ri-niririsusareru-ruby-3-dot-0-nibei-eyou)
+* 懇親会ウェーイ！！
+  + [写真](https://30d.jp/kzrb/90/photo/15)
 
 ## まとめ
 
 <!-- Togetter, 30days のリンクをいれる -->
 
-* [kanazawa.rb meetup 100 - Togetter](XXX)
-* [Kanazawa.rb meetup 100 - 30days](XXX)
+* [kanazawa.rb meetup 100 - Togetter](https://togetter.com/li/1640301)
+* [Kanazawa.rb meetup 100 - 30days](https://30d.jp/kzrb/90)
 
-
-<!-- 分かっている範囲でリンクがあれば列挙する
 ## スライド
 
-* XXX
-
--->
-
-<!-- 分かっている範囲でリンクがあれば列挙する
-## 参加者のブログ
-
-* XXX
-
--->
-
+* [ブログでのアウトプットが減っている件](https://speakerdeck.com/takayukiatkwsk/what-long-intervals-my-blog-posts-have)
+* [Using Ractor](https://speakerdeck.com/kunitoo/using-ractor)
+* [Kanazawa.rbを振り返る](https://speakerdeck.com/ryuseinomi/kanazawa-dot-rbwozhen-rifan-ru-9ced94c7-6e7a-4465-99d5-2bc2ddf95733)
+* [部屋とコーヒーと私](https://speakerdeck.com/sat/bu-wu-tokohitosi)
 
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 45 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
 |項目                           |金額         |補足                                               |
 |:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |    59,717円 |                                                   |
-| meetup 46 会場費              |    -3,560円 | 先行支払い                                        |
-| meetup 45 参加費合計(24名)    |   +12,000円 | 全参加者 31名 / 参加費免除枠 7名                  |
-| meetup 45 懇親会優待費        |    -2,000円 | 県外LT枠 2名                                      |
-| meetup 45 懇親会調整費(一次会)|      -300円 | 余剰金 2,100円 / キャンセル補填金 -2,400円(1名分) |
-| meetup 45 懇親会調整費(二次会)|      +460円 | 余剰金 460円                                      |
+| 前回繰越金                    |    29,092円 |                                                   |
 
-**次回繰越**  66,317 円
-
+**次回繰越**  29,092 円
