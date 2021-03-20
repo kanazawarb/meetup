@@ -1,5 +1,3 @@
-[![Build Status](http://img.shields.io/travis/kanazawarb/meetup.svg)](https://travis-ci.org/kanazawarb/meetup)
-
 まずやること
 ------------
 
