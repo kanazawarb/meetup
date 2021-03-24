@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: "#XX"
+title: "#103"
 published: true
 
 ---
@@ -15,10 +15,10 @@ published: true
 -->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/46236">kanazawa.rb meetup #46</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/119484">kanazawa.rb meetup #103</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# meetup #XX
+# meetup #103
 
 ## 意識高いもくもく会
 
@@ -28,7 +28,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2020年8月15日(土) 13:00 - 17:00 |
+| **日時**   | 2021年3月20日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -46,7 +46,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetupXX` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup103` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://kzrb-slackin.herokuapp.com/) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
@@ -58,11 +58,6 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 | 開場                              | 13:00 |      |                                                         |
 | 自己紹介＆目標発表                | 13:15 | 15m  |                                                         |
 | 各自で何かする自由な時間          | 13:30 |      | みんな                                                  |
-| LT (Shell check をつかおう)       | 15:00 | 5m   | [@cotton_desu](https://twitter.com/cotton_desu)         |
-| LT (sh unit2 をつかおう)          | 15:05 | 10m  | [@cotton_desu](https://twitter.com/cotton_desu)         |
-| LT (Dokku を動かしてみたよ(デモ)) | 15:15 | 15m  | [@wtnabe](https://twitter.com/wtnabe)                   |
-| LT (AWS サミットと俺)             | 15:30 | 10m  | [@PharaohKJ](https://twitter.com/PharaohKJ)             |
-| LT (IoT タグであそぼう)           | 15:40 | 25m  | [@Yukimitsu_Izawa](https://twitter.com/Yukimitsu_Izawa) |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 目標達成度発表                    | 16:40 | 15m  | みんな                                                  |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |

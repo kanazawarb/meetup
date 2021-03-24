@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: "#XX report"
+title: "#103 report"
 published: false
 
 ---
@@ -9,7 +9,7 @@ published: false
 
 <div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
 
-# meetup #XX report
+# meetup #103 report
 
 ## 話題
 
@@ -20,7 +20,7 @@ published: false
 <!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
-* [meetup XX 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-XX-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
+* [meetup 103 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-103-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
 -->
 
@@ -28,8 +28,8 @@ published: false
 
 <!-- Togetter, 30days のリンクをいれる -->
 
-* [kanazawa.rb meetup XX - Togetter](XXX)
-* [Kanazawa.rb meetup XX - 30days](XXX)
+* [kanazawa.rb meetup 103 - Togetter](XXX)
+* [Kanazawa.rb meetup 103 - 30days](XXX)
 
 
 <!-- 分かっている範囲でリンクがあれば列挙する
