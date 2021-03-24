@@ -1,5 +1,10 @@
 FROM ruby:2.7.2
-# RUN mkdir /tmp
-ADD . /tmp
+
 WORKDIR /tmp
-RUN bundle install
+ADD . /tmp
+
+RUN bundle install && \
+    bundle binstubs rake --path /tmp/.bundle/bin --force
+
+EXPOSE 4000
+CMD [".bundle/bin/rake", "serve"]
