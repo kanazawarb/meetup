@@ -6,9 +6,8 @@ ADD . /tmp
 
 RUN chown jekyll -R /tmp && \
     bundle config set system 'true' && \
-    bundle install && \
-    bundle binstubs rake --path /tmp/.bundle/bin --force
+    bundle install
 
 EXPOSE 4000
 USER jekyll
-CMD [".bundle/bin/rake", "serve"]
+CMD ["bundle", "exec", "rake", "serve"]
