@@ -12,7 +12,7 @@ published: true
 
 ## 話題
 
-* with_indifferent_access
+* HashWithIndifferentAccess
   + [api.rubyonrails.org](https://api.rubyonrails.org/classes/ActiveSupport/HashWithIndifferentAccess.html#method-i-without)
   + [プルリク](https://github.com/rails/rails/pull/41705)
 * Railsガイドは明示的にwith_indifferent_accessしていた
