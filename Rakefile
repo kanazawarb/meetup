@@ -8,7 +8,7 @@ task :serve do
 #   After boot jekyll server, open http://localhost:4000   #
 ############################################################
 HEADER
-  sh 'jekyll serve -w'
+  sh 'jekyll serve -w -H 0.0.0.0 -l'
 end
 
 if system('gem which guard/livereload > /dev/null 2>&1')
