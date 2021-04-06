@@ -27,6 +27,9 @@ $ docker build . -t meetup
 
 # ポート 4000 番でサーバを起動
 $ docker run -it -p 4000:4000 -p 35729:35729 -v $PWD:/tmp meetup
+
+# Rake task を実行する
+$ docker run --rm meetup bundle exec rake -T
 ```
 
 URL設計
