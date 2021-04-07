@@ -2,6 +2,7 @@ require 'date'
 require 'erb'
 require 'fileutils'
 require 'pathname'
+require 'nokogiri'
 
 module Meetup
   ROOT_PATH = './'
@@ -29,6 +30,12 @@ module Meetup
     v.strftime("%Y年%m月%d日(#{day})")
   end
 
+  def format_date_en(date_str)
+    v = Date.parse(date_str)
+    day = %w(Sun Mon Tue Wed Thu Fri Sat)[v.wday]
+    v.strftime("%Y-%m-%d(#{day})")
+  end
+
   def exist_index?(current_max)
     exist?(current_max, :index)
   end
@@ -44,7 +51,11 @@ module Meetup
   class Event
     attr_reader :text
 
-    def initialize(number:, template_name:)
+    INDENT_SIZE = 10
+    BLANK = ' '
+    LI_INDENT = BLANK * INDENT_SIZE
+
+    def initialize(number:, template_name:, date:)
       @number = number
       @template_name = template_name
 
@@ -64,6 +75,51 @@ module Meetup
       path = Pathname(dest_dir).join(dest_filename)
       FileUtils.mkdir_p dest_dir
       File.write(path, @text)
+    end
+
+    def add_next_event_to_layouts(formatted_next_date)
+      add_event './_layouts/record.html' do |doc|
+        return if already_exist_event?(doc)
+
+        doc.at_css('ul > li').add_previous_sibling(
+          "<li><a href=\"../#{@number}/\">#{no_with_sign + BLANK + formatted_next_date}</a></li>\n" + LI_INDENT
+        )
+      end
+
+      add_event './_layouts/toplevel.html' do |doc|
+        return if already_exist_event?(doc)
+
+        doc.at_css('ul > li').add_previous_sibling(
+          "<li><a href=\"./#{@number}/\">#{no_with_sign + BLANK + formatted_next_date}</a></li>\n" + LI_INDENT
+        )
+      end
+    end
+
+    private
+
+    def add_event(path)
+      doc = Nokogiri::HTML::Document.parse(File.read(path))
+      yield doc
+      html = doc.to_html(indent: INDENT_SIZE)
+      File.write(path, remove_extra_tag(html))
+    end
+
+    def no_with_sign
+      "##{@number}"
+    end
+
+    # TODO:
+    # Nokogiri で to_html すると Content-Type の meta tag が追加されてしまうため
+    # 削除しているが、Nokogiri 側で制御できないかな？
+    def remove_extra_tag(str)
+      str.sub(
+        "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n",
+        ''
+      )
+    end
+
+    def already_exist_event?(doc)
+      doc.at_css('ul > li').search('//li').text.include?("#{no_with_sign + BLANK}")
     end
   end
 end

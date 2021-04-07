@@ -76,17 +76,20 @@ namespace :meetup do
       /\A\d+\z/.match?(val) ? val : default_value
     }
 
-    next_date_ja = say_and_gets('開催日を yyyy-mm-dd 形式で入力してください') {|val|
+    next_date = say_and_gets('開催日を yyyy-mm-dd 形式で入力してください') {|val|
       if /\A\d{4}-\d{2}-\d{2}\z/.match?(val)
-        format_date_ja(val)
+        val
       else
         default_value
       end
     }
+    next_date_ja = format_date_ja(next_date) unless next_date == default_value
+    next_date_en = format_date_en(next_date) unless next_date == default_value
 
     event = Event.new(number: next_time, template_name: 'index.md.erb') {|e|
       e.render_text!(next_time: next_time, doorkeeper_id: doorkeeper_id, next_date_ja: next_date_ja)
       e.generate_file(e.dest_dir, 'index.md')
+      e.add_next_event_to_layouts(next_date_en)
     }
 
     puts "#{next_time}/index.md が出力されました"
