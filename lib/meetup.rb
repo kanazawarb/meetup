@@ -55,15 +55,14 @@ module Meetup
     BLANK = ' '
     LI_INDENT = BLANK * INDENT_SIZE
 
-    def initialize(number:, template_name:, date:)
+    def initialize(number:)
       @number = number
-      @template_name = template_name
 
       yield self if block_given?
     end
 
-    def render_text!(bind_hash)
-      source_path = Pathname(Meetup::TEMPLATE_PATH).join(@template_name)
+    def render_template!(template_name, bind_hash)
+      source_path = Pathname(Meetup::TEMPLATE_PATH).join(template_name)
       @text = ERB.new(File.read(source_path)).result_with_hash(bind_hash)
     end
 

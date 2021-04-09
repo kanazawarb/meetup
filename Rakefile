@@ -86,8 +86,8 @@ namespace :meetup do
     next_date_ja = format_date_ja(next_date) unless next_date == default_value
     next_date_en = format_date_en(next_date) unless next_date == default_value
 
-    event = Event.new(number: next_time, template_name: 'index.md.erb') {|e|
-      e.render_text!(next_time: next_time, doorkeeper_id: doorkeeper_id, next_date_ja: next_date_ja)
+    event = Event.new(number: next_time) {|e|
+      e.render_template!('index.md.erb', next_time: next_time, doorkeeper_id: doorkeeper_id, next_date_ja: next_date_ja)
       e.generate_file(e.dest_dir, 'index.md')
       e.add_next_event_to_layouts(next_date_en)
     }
@@ -107,8 +107,8 @@ namespace :meetup do
       next
     end
 
-    event = Event.new(number: current_time, template_name: 'report.md.erb') {|e|
-      e.render_text!(current_time: current_time)
+    event = Event.new(number: current_time) {|e|
+      e.render_template!('report.md.erb', current_time: current_time)
       e.generate_file(e.dest_dir, 'report.md')
     }
 
