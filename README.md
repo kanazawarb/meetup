@@ -24,15 +24,23 @@ Dockerで動かしたい場合
 ```
 # イメージをビルド
 $ docker build . -t meetup
+# もしくは
+$ make build
 
 # ポート 4000 番でサーバを起動
 $ docker run -it -p 4000:4000 -p 35729:35729 -v $PWD:/tmp meetup
+# もしくは
+$ make up
 
 # イベントの index.md のテンプレートを出力する
 $ docker run -it -v $PWD:/tmp meetup bundle exec rake meetup:gen_index
+# もしくは
+$ make index
 
 # イベントの report.md のテンプレートを出力する
 $ docker run -it -v $PWD:/tmp meetup bundle exec rake meetup:gen_report
+# もしくは
+$ make report
 ```
 
 URL設計
