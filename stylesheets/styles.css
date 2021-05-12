@@ -333,11 +333,17 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
+  margin: 0 auto;
+  width: 960px;
   float:left;
   position:fixed;
-  bottom:10px;
-	padding-left: 50px;
+  bottom:0px;
+  padding-left: 50px;
+  background-color: #FBFAF7;
+}
+
+footer p {
+    margin: 0 0 0px;
 }
 
 @media print, screen and (max-width: 960px) {
