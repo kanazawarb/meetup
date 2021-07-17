@@ -62,7 +62,10 @@ published: true
 | 2021年版開発環境  | | 10m | Yagiさん  |
 | $ git fetch tonto develop  | | 10m | tontoさん |
 | わたしの仕事環境~ 共有と自慢 ~ | | 10m | satさん |
+| 作業環境に導入した小粒グッズ5選 | | 10m | takayukiatkwskさん |
+| ターミナル環境2021 | | 5m | matsushitaさん |
 | 自分の開発環境の変遷 | | 5m | satさん |
+| 俺と開発環境  |  | 5m | pharaohkjさん |
 | 発表＆議論                        |       |      |                                                         |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
