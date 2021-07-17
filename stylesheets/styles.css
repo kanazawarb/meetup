@@ -333,8 +333,7 @@ section {
 /* Footer */
 
 footer {
-  margin: 0 auto;
-  width: 960px;
+  width: 100%;
   position:fixed;
   bottom: 0;
   padding-left: 50px;
