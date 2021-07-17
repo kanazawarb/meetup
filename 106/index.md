@@ -1,7 +1,7 @@
 ---
 
 layout: record
-title: "#105"
+title: "#106"
 published: true
 
 ---
@@ -9,10 +9,10 @@ published: true
 <div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/121161">kanazawa.rb meetup #105</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/123089">kanazawa.rb meetup #106</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# meetup #105
+# meetup #106
 
 ## 意識高いもくもく会
 
@@ -22,7 +22,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2021年05月15日(土) 13:00 - 17:00 |
+| **日時**   | 2021年06月19日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -40,7 +40,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup105` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup106` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://kzrb-slackin.herokuapp.com/) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 

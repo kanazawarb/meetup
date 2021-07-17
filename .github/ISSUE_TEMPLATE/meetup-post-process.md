@@ -10,7 +10,7 @@ assignees: ''
 ## レポートを作成する
 - [ ] ツイートまとめ(togetter) ... 後述手順参照
 - [ ] 写真アルバム(30days) ... 後述手順参照
-- [ ] レポートページ(github pages)
+- [ ] レポートページ
 - [ ] 運営ブレストログ(github wiki)
 
 ## レポートをアナウンスする
@@ -22,7 +22,7 @@ assignees: ''
     - [ ] Twitter
     - [ ] Facebook
     - [ ] ruby-jp slack
-- レポートページ(github pages)
+- レポートページ
     - [ ] Twitter
     - [ ] Facebook
     - [ ] ruby-jp slack
