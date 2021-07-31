@@ -29,7 +29,26 @@ published: true
 9周年を記念したノベルティとして、特別デザインのTシャツをご用意しています。
 ご自身でご購入いただく形ではありますが、この記念を祝っていただける方には是非ご検討いただければと！
 
-ToDo: SUZURI の URL を入れる
+<table>
+<tr>
+<td>
+<a href="https://suzuri.jp/kzrb/7715442/t-shirt/s/white" target="_blank"><img src="https://d1q9av5b648rmv.cloudfront.net/v3/323x323/t-shirt/s/white/front/7715442/1627713938-5572x2306.png.jpg?h=1882f837e23786dec3f2f845e573e2bbf2290f09&printed=true"></a>
+<div style="text-align:center">記念Tシャツ（通常版）</div>
+</td>
+<td>
+<a href="https://suzuri.jp/kzrb/7715442/t-shirt/s/white" target="_blank"><img src="https://d1q9av5b648rmv.cloudfront.net/v3/323x323/t-shirt/s/natural/front/7715442/1627713938-5572x2306.png.jpg?h=1882f837e23786dec3f2f845e573e2bbf2290f09&printed=true"></a>
+<div style="text-align:center">記念Tシャツ（寄付版※）</div>
+</td>
+</tr>
+</table>
+
+Tシャツはいくつかのカラーバリエーションがあり、サイズも選択可能です。
+また、Tシャツ以外にもいくつかの記念品を用意しています。
+是非、以下のサイトをチェックしてみてください！
+
+<a href="https://suzuri.jp/kzrb" target="_blank">https://suzuri.jp/kzrb</a>
+
+<small>※寄付版は、Kanazawa.rb の運営費をサポートするモデルとなります。商品自体に差はありません。</small>
 
 | **日時**   | 2021年08月21日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
