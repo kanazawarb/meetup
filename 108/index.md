@@ -36,7 +36,7 @@ published: true
 <div style="text-align:center">記念Tシャツ（通常版）</div>
 </td>
 <td>
-<a href="https://suzuri.jp/kzrb/7715442/t-shirt/s/white" target="_blank"><img src="https://d1q9av5b648rmv.cloudfront.net/v3/323x323/t-shirt/s/natural/front/7715442/1627713938-5572x2306.png.jpg?h=1882f837e23786dec3f2f845e573e2bbf2290f09&printed=true"></a>
+<a href="https://suzuri.jp/kzrb/7715638/t-shirt/s/natural" target="_blank"><img src="https://d1q9av5b648rmv.cloudfront.net/v3/323x323/t-shirt/s/natural/front/7715442/1627713938-5572x2306.png.jpg?h=1882f837e23786dec3f2f845e573e2bbf2290f09&printed=true"></a>
 <div style="text-align:center">記念Tシャツ（寄付版※）</div>
 </td>
 </tr>
