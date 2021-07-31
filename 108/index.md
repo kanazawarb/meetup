@@ -48,7 +48,7 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 
 <a href="https://suzuri.jp/kzrb" target="_blank">https://suzuri.jp/kzrb</a>
 
-<small>※寄付版は、Kanazawa.rb の運営費をサポートするモデルとなります。商品自体に差はありません。</small>
+<small>※商品名に Donation とあるものは寄付版です。寄付版は、Kanazawa.rb の運営費をサポートするモデルとなります。商品自体に差はありません。</small>
 
 | **日時**   | 2021年08月21日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
