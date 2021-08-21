@@ -128,8 +128,13 @@ kanazawa.rb はカンファレンスでも勉強会でもない！
 | 続・開発環境を晒す | | 5min | muryoimplさん |
 | エアコンの操作についての話 | | 5min |  井澤ゆきみつさん |
 | Rspecを学ぶにあたって参考になった本・記事 | | 5min | Ryusei Nomi(とんと)さん |
-| Swagger頑張ったー | | 5min |  Kuisuke Oohataさん |
+| Swagger頑張ったー | | 5min |  Keisuke Oohataさん |
 | ソーシャルネットワークで炎上を避けるノウハウ | | 5min | satさん | 
+| 最近のデスク周りの diff | | 5min |  muryoimplさん |
+| Kubernetes知らない人にKubernetesのoperatorを説明する| | 5min |  satさん |
+| geektoolでライブ壁紙  | | 5min | izawa |
+| 写真サークルのWebページを作成した話 | | 5min |  とんとさん |
+
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
