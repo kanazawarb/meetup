@@ -31,7 +31,7 @@ published: true
 ## まとめ
 
 * [kanazawa.rb meetup 109 - Togetter](https://togetter.com/li/1776808)
-* [Kanazawa.rb meetup 109 - 30days](https://30d.jp/kzrb/98)
+* [Kanazawa.rb meetup 109 - 30days](https://30d.jp/kzrb/99)
 
 ## スライド
 
