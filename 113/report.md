@@ -14,15 +14,15 @@ published: true
 
 * 明日はおそらく原稿レビューのフィードバック反映をやります
 * 何年ぶり何度目かの統計学に入門します
-* 今日は Rspec でテストコードをもくもく書いてくぞ〜
+* 今日は RSpec でテストコードをもくもく書いてくぞ〜
 * 本日の成果 : 途中までブログに書いた
   + [URL](https://kglabo.com/self-affirmation-management/)
 * 今日は静かにみんなもくもく
-* serverless framework ドキュメント
+* Serverless Framework ドキュメント
   + [URL](https://www.serverless.com/framework/docs/providers/aws)
 * CloudFormation を JSON で書かざるをえない状況に追い込まれて心折れかけている
-* m5stack は UIflowを使えますね
-  + 学生さん向けのハッカソンイベントを何回かやってますが、M5stack + UIflow で作ってもらってます。非理系の学生さんにも好評です
+* M5Stack は UIFlowを使えますね
+  + 学生さん向けのハッカソンイベントを何回かやってますが、M5Stack + UIFlow で作ってもらってます。非理系の学生さんにも好評です
 
 
 ## 運営ブレストログ
