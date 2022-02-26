@@ -12,7 +12,7 @@ published: true
 ## 話題
 
 * 読書する参加者が多かった
-  * 久々に本の原稿に関係ないことします。この本読みます [URL](amzn.to/3I24M9T)
+  * 久々に本の原稿に関係ないことします。この本読みます [URL](https://amzn.to/3I24M9T)
   * 【改訂版】組込みソフトウェア開発向け コーディング作法ガイド［C言語版］ESCR Ver.3.0 [URL](https://www.ipa.go.jp/sec/publish/tn18-004.html)
   * 3Dプリンタを改造してチップマウンタを作ってみたら趣味の王様だった件 [URL](https://techbookfest.org/product/5022688210845696)
   * 猫でもわかるBlazor入門 [URL](https://techbookfest.org/product/4680078745141248)
