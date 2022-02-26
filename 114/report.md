@@ -16,9 +16,9 @@ published: true
   * 【改訂版】組込みソフトウェア開発向け コーディング作法ガイド［C言語版］ESCR Ver.3.0 [URL](https://www.ipa.go.jp/sec/publish/tn18-004.html)
   * 3Dプリンタを改造してチップマウンタを作ってみたら趣味の王様だった件 [URL](https://techbookfest.org/product/5022688210845696)
   * 猫でもわかるBlazor入門 [URL](https://techbookfest.org/product/4680078745141248)
-  * 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 | SBクリエイティブ [URL](https://www.sbcr.jp/product/4797393163/)
+  * 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 SBクリエイティブ [URL](https://www.sbcr.jp/product/4797393163/)
   * マジメだけどおもしろいセキュリティ講義 事故が起きる理由と現実的な対策を考える：書籍案内｜技術評論社 [URL](https://gihyo.jp/book/2017/978-4-7741-9322-9)
-  * キッチン・インフォマティクス 料理を支える自然言語処理と画像処理 | Ohmsha [URL](https://www.ohmsha.co.jp/book/9784274226564/)
+  * キッチン・インフォマティクス 料理を支える自然言語処理と画像処理 Ohmsha [URL](https://www.ohmsha.co.jp/book/9784274226564/)
 * AWS DVAの問題が難しくて心が折れそうになる。
 * 今日はナンプレアプリを作っていました。道のりは長いぜ！っていうことが分かって良かったです。 
 * Rails 7のデモ
