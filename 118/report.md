@@ -17,7 +17,7 @@ published: true
 * Linux版のDocker DesktopをインストールしてRailsの動作確認する
 * nakano先生の発表〜
   + 内容が盛り盛りの予感...！ [[写真](https://twitter.com/skn_ton10_v1/status/1538047040994918400)]
-* Go言語でつくるインタプリタ』1章の字句解析を読み終えた。簡単なREPLと字句解析の処理が作れた。割とシンプルに作れるのだなという発見。
+* 『Go言語でつくるインタプリタ』1章の字句解析を読み終えた。簡単なREPLと字句解析の処理が作れた。割とシンプルに作れるのだなという発見。
 * 今日はこんな感じのモーダルを作ったのと、gtag を Web ページに埋め込みました〜 [[写真](https://twitter.com/skn_ton10_v1/status/1538071218561368071)]
 * Gatherをお試しがてら懇親会やってます
 * 話題が渋滞している
@@ -27,8 +27,6 @@ published: true
 * [meetup 118 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-118-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
 
 ## まとめ
-
-<!-- Togetter, 30days のリンクをいれる -->
 
 * [kanazawa.rb meetup 118 - Togetter](https://togetter.com/li/1905979)
 * [Kanazawa.rb meetup 118 - 30days](https://30d.jp/kzrb/108)
