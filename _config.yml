@@ -1,3 +1,0 @@
-layout: default
-markdown: kramdown
-exclude: [.git, .bundle, Gemfile, Gemfile.lock, README.md, _config.yml, _layouts, params.json, vendor]
