@@ -60,7 +60,7 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 
 [https://suzuri.jp/kzrb](https://suzuri.jp/kzrb)
 
-<small>※商品名に Donation とあるものは寄付版です。寄付版は、Kanazawa.rb の運営費をサポートするモデルとなります。商品自体に差はありません。</small>
+<small>※商品名に Donation とあるものは寄付版です。寄付版は、kanazawa.rb の運営費をサポートするモデルとなります。商品自体に差はありません。</small>
 
 | **日時**   | 2022年08月27日(土) 13:00 - 17:00 |
 | **会場**   | [ITビジネスプラザ武蔵](http://www.bp-musashi.jp/) 研修室1<br>金沢市武蔵町14番31号 |
@@ -72,7 +72,7 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 
 * テキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup120` チャネルにご参加ください。
+    * Slack というサービスの [kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup120` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://kzrb-slackin.herokuapp.com/) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
