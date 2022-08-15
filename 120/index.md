@@ -15,7 +15,7 @@ published: true
 -->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/141516">kanazawa.rb meetup #120</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/141516">Kanazawa.rb meetup #120</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
 # meetup #120
@@ -25,7 +25,7 @@ published: true
 なんでもいいのでYou、話しちゃいなよ！！ 参加者全員が「どんな内容でも良いので」参加者に向けて発表することを目標にしています。
 感染症対策を十分におこなった上で、対面イベントとして実施いたします。
 
-kanazawa.rb もついに10周年を迎えることとなりました。この10年、とくにここ数年の間にコミュニティを取り巻く環境は大きく変化し、これからも変化せざるを得ない状況が続きそうです。そんな中でも、交流を求める参加者全員の思いが10年という節目を迎えさせてくれました。
+Kanazawa.rb もついに10周年を迎えることとなりました。この10年、とくにここ数年の間にコミュニティを取り巻く環境は大きく変化し、これからも変化せざるを得ない状況が続きそうです。そんな中でも、交流を求める参加者全員の思いが10年という節目を迎えさせてくれました。
 10周年の記念として、いつも運営にご協力いただいている [15VISION](https://15vision.jp/) の [いちがみさん](https://twitter.com/ichigami/) にお手伝いいただき、特別なステッカーを用意しています。
 
 <div style="text-align:center">
@@ -98,8 +98,8 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 LTを難しく考えすぎていませんか？
 LTは高い技術力を持った人が笑いを取りながらハックした成果を発表する場と思い込んでいませんか？
 そんなことはありません！
-少なくとも kanazawa.rb の LT は **なんだっていいよ！**
-kanazawa.rb はカンファレンスでも勉強会でもない！
+少なくとも Kanazawa.rb の LT は **なんだっていいよ！**
+Kanazawa.rb はカンファレンスでも勉強会でもない！
 スライドなんかなくたっていい！
 
 あなたの話はあなたにしかできません。これ、ほんと。
