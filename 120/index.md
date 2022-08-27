@@ -90,15 +90,15 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 | LT: お試し sidekiq                           | | | Ryusei Nomi(とんと)  | 
 | LT: 私の散歩道                               | | | Kentaro Matsushita   | 
 | LT: git secrets と git hook をざっと理解する | | | takayukiatkwsk       | 
-| LT: (調整中)                                 | | | 清原智和             |
-| 休憩                                         | | |                      |
 | LT: 散財係数爆上がり中                       | | | Keisuke Oohata       | 
+| 休憩                                         | | |                      |
 | LT: concern のテストを書く                   | | | Ryusei Nomi(とんと)  | 
 | LT: スライドタイトルで振り返るこの10年       | | | ふぁらお加藤         | 
 | LT: 写真で振り返る kanazawa.rb               | | | ふぁらお加藤         | 
-| 休憩                                         | | |                      |
 | LT: レザークラフトをやってみたよ             | | | 井澤ゆきみつ         | 
-| LT: (調整中)                                 | | | sat                  |
+| 休憩                                         | | |                      |
+| LT: THE FIRST CODE                           | | | sat                  |
+| LT: kubernetesコントローラのプログラミングモデル | | | sat              |
 | LT: kanazawa.rb 10周年 KPT                   | | | Keisuke Oohata       | 
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
