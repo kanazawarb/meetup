@@ -6,7 +6,7 @@ require 'nokogiri'
 
 module Meetup
   ROOT_PATH = './'
-  TEMPLATE_PATH = './_meetup_template'
+  TEMPLATE_PATH = './meetup_template'
 
   def latest_meetup_count
     path = Pathname(ROOT_PATH).join('*')
