@@ -17,3 +17,24 @@ $pink-300: #dd2cd4;
   line-height: 2.5rem;
   margin-left: 3rem;
 }
+
+ul.slides {
+  list-style: none;
+  width: 100%;
+
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 1rem;
+
+  li {
+    width: 20%;
+    list-style: none;
+
+    &:before {
+      content: '';
+    }
+  }
+}
