@@ -6,7 +6,7 @@ title: "#87 report"
 published: true
 
 ---
-<div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
+<div style="text-align: left;"><a href="../"><strong>アナウンスページはこちら</strong></a></div>
 
 # meetup #87 report
 

@@ -7,7 +7,7 @@ title: "#45 report"
 
 ---
 
-<div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div> 
+<div style="text-align: left;"><a href="../"><strong>アナウンスページはこちら</strong></a></div> 
 
 # meetup #45 report
 

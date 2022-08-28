@@ -6,7 +6,7 @@ title: "#29 report"
 
 ---
 
-<p> <a href="./"><strong>アナウンスページはこちら</strong></a></p>
+<p> <a href="../"><strong>アナウンスページはこちら</strong></a></p>
 
 meetup #29 report
 ==================
