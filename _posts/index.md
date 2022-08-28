@@ -1,15 +1,14 @@
 ---
-
-title: Meetup
 layout: default
+title: Home
 nav_order: 1
-
+permalink: /
 ---
 
 <p style="text-align: right;">
-  <a href="./howto-make-meetup.html">→ How to make meetup</a>
+  <a href="./howto-make-meetup">→ How to make meetup</a>
   <br>
-  <a href="./slides.html">→ Kanazawa.rb Slides</a>
+  <a href="./slides">→ Kanazawa.rb Slides</a>
 </p>
 
 Let’s meet up !

@@ -1,12 +1,10 @@
 ---
 
-layout: toplevel
+layout: default
 title: How to make meetup
 nav_order: 3
-
+description: meetup の開催の仕方
 ---
-
-[← Meetup](./)
 
 How to make meetup
 ==================
