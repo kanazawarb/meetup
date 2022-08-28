@@ -1,7 +1,7 @@
 ---
 
 title: Meetup
-layout: toplevel
+layout: default
 nav_order: 1
 
 ---
