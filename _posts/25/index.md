@@ -8,7 +8,7 @@ date: 2014-09-20 (Sat)
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/25/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/15010">meetup

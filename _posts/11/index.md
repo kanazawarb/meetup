@@ -7,7 +7,7 @@ title: "#11"
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/11/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/4679" class="doorkeeper-registration-widget">meetup

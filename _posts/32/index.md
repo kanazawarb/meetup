@@ -8,7 +8,7 @@ date: 2015-04-25 (Sat)
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/32/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/22832">meetup

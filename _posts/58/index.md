@@ -7,7 +7,7 @@ published: true
 
 ---
 
-<div style="text-align: right;"><a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<div style="text-align: right;"><a href="/58/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/61003">kanazawa.rb meetup #58 開発環境自慢 LT 〜 Kanazawa.rb vs ふくもく会</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>

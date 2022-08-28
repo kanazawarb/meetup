@@ -7,7 +7,7 @@ published: true
 
 ---
 
-<div style="text-align: right;"><a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<div style="text-align: right;"><a href="/104/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/120425">kanazawa.rb meetup #104</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>

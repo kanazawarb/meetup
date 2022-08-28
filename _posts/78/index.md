@@ -7,7 +7,7 @@ published: true
 
 ---
 
-<div style="text-align: right;"><a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<div style="text-align: right;"><a href="/78/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
 
 <div class="doorkeeper-widget">

@@ -7,7 +7,7 @@ title: "#1"
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/1/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 kanazawa.rbってなに
 ===================

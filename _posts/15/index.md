@@ -8,7 +8,7 @@ date: 2013-11-23 (Sat)
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/15/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/6745" class="doorkeeper-registration-widget">meetup

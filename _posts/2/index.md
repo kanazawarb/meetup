@@ -7,7 +7,7 @@ title: "#2"
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/2/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 meetup #2
 ==========

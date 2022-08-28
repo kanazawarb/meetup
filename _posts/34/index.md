@@ -8,7 +8,7 @@ date: 2015-06-20 (Sat)
 ---
 
 <p>
-<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="/34/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 meetup #34
 ===========
