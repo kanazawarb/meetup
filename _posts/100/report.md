@@ -7,7 +7,7 @@ published: true
 
 ---
 
-<div style="text-align: left;"><a href="../"><strong>アナウンスページはこちら</strong></a></div>
+<div style="text-align: left;"><a href="/100/"><strong>アナウンスページはこちら</strong></a></div>
 
 # meetup #100 report
 

@@ -8,7 +8,7 @@ published: true
 ---
 <!-- 公開時は上記 published: false を true に変更する -->
 
-<div style="text-align: left;"><a href="../"><strong>アナウンスページはこちら</strong></a></div>
+<div style="text-align: left;"><a href="/46/"><strong>アナウンスページはこちら</strong></a></div>
 
 # meetup #46 report
 

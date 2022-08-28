@@ -6,7 +6,7 @@ title: "#42 report"
 
 ---
 
-<div style="text-align: left;"><a href="../"><strong>アナウンスページはこちら</strong></a></div> 
+<div style="text-align: left;"><a href="/42/"><strong>アナウンスページはこちら</strong></a></div> 
 
 # meetup #42 report
 
