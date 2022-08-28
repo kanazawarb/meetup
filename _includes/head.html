@@ -28,6 +28,10 @@
 
   {% if site.search_enabled != false %}
     <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
+    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.stemmer.support.min.js' | relative_url }}"></script>
+    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.multi.min.js' | relative_url }}"></script>
+    <script type="text/javascript" src="{{ '/assets/js/vendor/tinyseg.js' | relative_url }}"></script>
+    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.ja.min.js' | relative_url }}"></script>
   {% endif %}
 
   {% if site.mermaid %}
