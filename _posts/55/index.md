@@ -1,6 +1,6 @@
 ---
 
-layout: record
+layout: default
 title: "#55"
 published: true
 

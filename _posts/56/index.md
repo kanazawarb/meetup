@@ -1,6 +1,6 @@
 ---
 
-layout: record
+layout: default
 title: "#56"
 date: 2017-04-15 (Sat)
 

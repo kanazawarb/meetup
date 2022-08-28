@@ -1,6 +1,6 @@
 ---
 
-layout: record
+layout: default
 title: "#86 report"
 published: true
 
