@@ -2,6 +2,7 @@
 
 title: Meetup
 layout: toplevel
+nav_order: 1
 
 ---
 

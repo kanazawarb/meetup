@@ -2,6 +2,7 @@
 
 layout: toplevel
 title: Kanazawa.rb Slides
+nav_order: 4
 
 ---
 

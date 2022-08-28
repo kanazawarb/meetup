@@ -2,6 +2,7 @@
 
 layout: toplevel
 title: How to make meetup
+nav_order: 3
 
 ---
 
