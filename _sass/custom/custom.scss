@@ -38,3 +38,15 @@ ul.slides {
     }
   }
 }
+
+.doorkeeper-widget {
+  width : 300px;
+  float:  right;
+}
+
+@media screen and (max-width: 600px) {
+  .doorkeeper-widget {
+    float: none;
+    margin: 0 auto;
+  }
+}
