@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: post
 nav_exclude: true
 title: "#38"
 date: 2015-10-17 (Sat)

@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: post
 nav_exclude: true
 title: "#94"
 published: true
