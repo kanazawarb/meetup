@@ -1,6 +1,7 @@
 ---
 
 layout: default
+nav_exclude: true
 title: "#31"
 date: 2015-03-21 (Sat)
 

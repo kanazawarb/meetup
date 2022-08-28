@@ -1,6 +1,7 @@
 ---
 
 layout: default
+nav_exclude: true
 title: "#28"
 date: 2014-12-20 (Sat)
 
