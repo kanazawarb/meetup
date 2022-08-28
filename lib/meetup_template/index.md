@@ -1,6 +1,6 @@
 ---
 
-layout: record
+layout: post
 title: "#XX"
 published: true
 

@@ -6,15 +6,15 @@ require 'nokogiri'
 
 module Meetup
   ROOT_PATH = './'
-  TEMPLATE_PATH = './meetup_template'
+  TEMPLATE_PATH = './lib//meetup_template'
 
   def latest_meetup_count
-    path = Pathname(ROOT_PATH).join('*')
-    Dir.glob(path).select {|e| /\d+/.match?(e) }.map(&:to_i).max
+    path = Pathname(ROOT_PATH).join('_posts/*')
+    Dir.glob(path).map {|e| %r|\A_posts/(\d+)\z|.match(e) ? $1.to_i : 0 }.max
   end
 
   def previous_held_date(current_max)
-    path = Pathname(ROOT_PATH).join("#{current_max}/index.md")
+    path = Pathname(ROOT_PATH).join("_posts/#{current_max}/index.md")
     File.read(path).split("\n").select {|l| /\*\*日時\*\*/.match?(l) }
   end
 
@@ -45,7 +45,7 @@ module Meetup
   end
 
   private def exist?(current_max, name)
-    File.exist?("#{current_max}/#{name}.md")
+    File.exist?("_posts/#{current_max}/#{name}.md")
   end
 
   class Event
@@ -77,7 +77,7 @@ module Meetup
     end
 
     def add_next_event_to_layouts(formatted_next_date)
-      add_event './_layouts/record.html' do |doc|
+      add_event './_layouts/post.html' do |doc|
         return if already_exist_event?(doc)
 
         doc.at_css('ul > li').add_previous_sibling(

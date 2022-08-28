@@ -57,7 +57,7 @@ namespace :meetup do
       e.add_next_event_to_layouts(next_date_en)
     }
 
-    puts "#{next_time}/index.md が出力されました"
+    puts "_posts/#{next_time}/index.md が出力されました"
     puts "\e[1m\e[31m## TODO ## のある箇所を実際の値に置換してください\e[0m" if %r|#{default_value}|.match?(event.text)
   end
 
@@ -68,7 +68,7 @@ namespace :meetup do
     puts "\e[1m#{current_time}, 前回の開催日: #{previous_held_date(current_time)}\e[0m"
 
     if exist_report?(current_time)
-      puts "既に #{current_time}/report.md は存在しています"
+      puts "既に _posts/#{current_time}/report.md は存在しています"
       next
     end
 
@@ -77,10 +77,10 @@ namespace :meetup do
       e.generate_file(e.dest_dir, 'report.md')
     }
 
-    puts "#{current_time}/report.md が出力されました"
+    puts "_posts/#{current_time}/report.md が出力されました"
 
     default_value = 'XXX'
-    str = "\e[1m\e[31m#{current_time}/report.md 内の XXX となっている箇所を実際の値に置換してください\e[0m"
+    str = "\e[1m\e[31m_posts/#{current_time}/report.md 内の XXX となっている箇所を実際の値に置換してください\e[0m"
     puts str if %r|#{default_value}|.match?(event.text)
   end
 end
