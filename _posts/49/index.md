@@ -6,7 +6,7 @@ published: true
 
 ---
 
-<div style="text-align: right;"><a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<div style="text-align: right;"><a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
 
 # Elastic勉強会 in Kanazawa (meetup #49)
 

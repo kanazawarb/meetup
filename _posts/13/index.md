@@ -7,7 +7,7 @@ date: 2013-09-28 (Sat)
 ---
 
 <p>
-<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a href="http://kzrb.doorkeeper.jp/events/5667" class="doorkeeper-registration-widget">meetup

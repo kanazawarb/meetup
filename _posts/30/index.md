@@ -7,7 +7,7 @@ date: 2015-02-21 (Sat)
 ---
 
 <p>
-<a href="./report.html"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<a href="./report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="http://kzrb.doorkeeper.jp/events/20088">meetup
