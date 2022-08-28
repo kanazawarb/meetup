@@ -2,10 +2,11 @@
 
 layout: default
 title: "#12 report - KPT log"
+nav_exclude: true
 
 ---
 
-<p> <a href="./report.html">← report</a></p>
+<p> <a href="../report">← report</a></p>
 
 meetup #12 report
 ==================

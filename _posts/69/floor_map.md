@@ -2,11 +2,12 @@
 
 layout: default
 title: "#69 floor map"
+nav_exclude: true
 published: true
 
 ---
 
-<div style="text-align: left;"><a href="./"><strong>アナウンスページはこちら</strong></a></div>
+<div style="text-align: left;"><a href="../"><strong>アナウンスページはこちら</strong></a></div>
 
 # meetup #69 会場マップ
 
