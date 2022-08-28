@@ -1,12 +1,10 @@
 ---
 
-layout: toplevel
+layout: default
 title: Kanazawa.rb Slides
 nav_order: 4
 
 ---
-
-[← Meetup](./)
 
 Kanazawa.rb Slides
 ==================
@@ -121,11 +119,13 @@ Kanazawa.rb Slides
       <img src="https://speakerd.s3.amazonaws.com/presentations/3b1bc6407834013117e47a3d3f60dcf4/slide_0.jpg" />
     </a>
   </li>
+  <!--
   <li data-date="2013-11-23">
     <a target="_blank" href="http://www.slideshare.net/yotaichino/web2py4beginner">
       <img src="https://image.slidesharecdn.com/web2py4beginner-131123012714-phpapp02/95/slide-1-638.jpg?cb=1385191848" />
     </a>
   </li>
+  -->
   <li data-date="2013-11-23">
     <a target="_blank" href="https://speakerdeck.com/wtnabe/learning-rubys-dynamism-with-rails">
       <img src="https://speakerd.s3.amazonaws.com/presentations/f0954410380d013196a71a9d6806e3ee/slide_0.jpg" />
@@ -226,11 +226,13 @@ Kanazawa.rb Slides
       <img src="https://speakerd.s3.amazonaws.com/presentations/755170a07a1e0130222e12313809347f/slide_0.jpg" />
     </a>
   </li>
+  <!--
   <li data-date="2013-02-20">
     <a target="_blank" href="http://www.slideshare.net/IIJ_MOGOK/kanazawarb-slideshare">
       <img src="https://image.slidesharecdn.com/kanazawarb-slideshare-130219202417-phpapp02/95/slide-1-638.jpg?cb=1361338515" />
     </a>
   </li>
+  -->
   <li data-date="2013-02-17">
     <a target="_blank" href="http://www.slideshare.net/KeisukeKita/sqale">
       <img src="https://image.slidesharecdn.com/sqale-130216203846-phpapp01/95/slide-1-638.jpg?cb=1361069743" />
@@ -246,11 +248,13 @@ Kanazawa.rb Slides
       <img src="https://speakerd.s3.amazonaws.com/presentations/50304611edfca8000201146b/slide_0.jpg" />
     </a>
   </li>
+  <!--
   <li data-date="2012-08-18">
     <a target="_blank" href="https://speakerdeck.com/u/mitukiii/p/orefalse-ruby-huan-jing-wojian-ro-~-baribari~">
       <img src="https://speakerd.s3.amazonaws.com/presentations/502f3e2c9a533c000201ed43/slide_0.jpg" />
     </a>
   </li>
+  -->
   <li data-date="2012-08-18">
     <a target="_blank" href="https://speakerdeck.com/u/wtnabe/p/beginning-ruby-with-markdown-and-more">
       <img src="https://speakerd.s3.amazonaws.com/presentations/502f05d721ffdc0002015658/slide_0.jpg" />
