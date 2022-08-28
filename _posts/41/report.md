@@ -1,6 +1,7 @@
 ---
 
 layout: default
+nav_exclude: true
 title: "#41 report"
 
 ---

@@ -1,6 +1,7 @@
 ---
 
 layout: default
+nav_exclude: true
 title: "#90 report"
 published: true
 
