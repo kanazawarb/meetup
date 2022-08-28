@@ -1,13 +1,12 @@
-FROM ruby:3.0.2
+FROM ruby:2.7
 
-RUN useradd -m -u 1000 jekyll
-WORKDIR /tmp
-ADD . /tmp
+ENV LC_ALL C.UTF-8
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US.UTF-8
 
-RUN chown jekyll -R /tmp && \
-    bundle config set system 'true' && \
-    bundle install
+WORKDIR /usr/src/app
+
+COPY Gemfile just-the-docs.gemspec ./
+RUN gem install bundler && bundle install
 
 EXPOSE 4000
-USER jekyll
-CMD ["bundle", "exec", "rake", "serve"]
