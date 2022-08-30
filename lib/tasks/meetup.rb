@@ -4,12 +4,12 @@ require 'fileutils'
 require 'pathname'
 
 module Meetup
-  ROOT_PATH = './'
-  TEMPLATE_PATH = './lib/meetup_template'
+  ROOT_PATH = File.expand_path("../../", __dir__)
+  TEMPLATE_PATH = File.join(ROOT_PATH, "./lib/meetup_template")
 
   def latest_meetup_count
     path = Pathname(ROOT_PATH).join('_posts/*')
-    Dir.glob(path).map {|e| %r|\A_posts/(\d+)\z|.match(e) ? $1.to_i : 0 }.max
+    Dir.glob(path).map {|e| %r|_posts/(\d+)\z|.match(e) ? $1.to_i : 0 }.max
   end
 
   def previous_held_date(current_max)
@@ -44,7 +44,8 @@ module Meetup
   end
 
   private def exist?(current_max, name)
-    File.exist?("_posts/#{current_max}/#{name}.md")
+    path = Pathname(ROOT_PATH).join("_posts/#{current_max}/#{name}.md")
+    File.exist?(path)
   end
 
   class Event
@@ -73,7 +74,7 @@ module Meetup
     end
 
     def add_next_event_to_layouts(next_date_en:, next_title:, next_time:)
-      add_event './_posts/meetups.md' do |doc|
+      add_event File.join(ROOT_PATH, "./_posts/meetups.md") do |doc|
         return if already_exist_event?(doc)
 
         card_html = render_erb("_meetup_card.erb", {
