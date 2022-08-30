@@ -6,7 +6,7 @@ require 'nokogiri'
 
 module Meetup
   ROOT_PATH = './'
-  TEMPLATE_PATH = './lib//meetup_template'
+  TEMPLATE_PATH = './lib/meetup_template'
 
   def latest_meetup_count
     path = Pathname(ROOT_PATH).join('_posts/*')
@@ -67,7 +67,7 @@ module Meetup
     end
 
     def dest_dir
-      Pathname(Meetup::ROOT_PATH).join(@number.to_s)
+      Pathname(Meetup::ROOT_PATH).join("_posts/#{@number}")
     end
 
     def generate_file(dest_dir, dest_filename)

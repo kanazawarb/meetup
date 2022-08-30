@@ -1,5 +1,5 @@
 # -*- mode: ruby -*-
-require_relative './../meetup'
+require_relative './meetup'
 
 desc 'jekyll serve -w'
 task :serve do
@@ -54,7 +54,7 @@ namespace :meetup do
     event = Event.new(number: next_time) {|e|
       e.render_template!('index.md.erb', next_time: next_time, doorkeeper_id: doorkeeper_id, next_date_ja: next_date_ja)
       e.generate_file(e.dest_dir, 'index.md')
-      e.add_next_event_to_layouts(next_date_en)
+      # e.add_next_event_to_layouts(next_date_en)
     }
 
     puts "_posts/#{next_time}/index.md が出力されました"
