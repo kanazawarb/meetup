@@ -49,11 +49,7 @@ layout: table_wrappers
       </a>
     </div>
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
-      <div class="nav-category">
-        <a href="https://kzrb-slackin.herokuapp.com">
-          <img id="slackin-badge" src="https://kzrb-slackin.herokuapp.com/badge.svg">
-        </a>
-      </div>
+      <div class="nav-category">{% include slack_link.html %}</div>
       {% assign pages_top_size = site.html_pages
           | where_exp:"item", "item.title != nil"
           | where_exp:"item", "item.parent == nil"

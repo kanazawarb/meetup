@@ -97,3 +97,15 @@ ul.slides {
     background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
   }
 }
+
+// slack link
+.slack-link__img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.slack-link__text {
+  display: inline-block;
+  vertical-align: middle;
+  text-transform: none !important;
+}
