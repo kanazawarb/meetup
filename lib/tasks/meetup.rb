@@ -2,7 +2,6 @@ require 'date'
 require 'erb'
 require 'fileutils'
 require 'pathname'
-require 'nokogiri'
 
 module Meetup
   ROOT_PATH = './'
@@ -51,9 +50,7 @@ module Meetup
   class Event
     attr_reader :text
 
-    INDENT_SIZE = 10
     BLANK = ' '
-    LI_INDENT = BLANK * INDENT_SIZE
 
     def initialize(number:)
       @number = number
@@ -75,45 +72,35 @@ module Meetup
       File.write(path, @text)
     end
 
-    def add_next_event_to_layouts(formatted_next_date)
-      add_event './_layouts/post.html' do |doc|
+    def add_next_event_to_layouts(next_date_en:, next_title:, next_time:)
+      add_event './_posts/meetups.md' do |doc|
         return if already_exist_event?(doc)
 
-        doc.at_css('ul > li').add_previous_sibling(
-          "<li><a href=\"../#{@number}/\">#{no_with_sign + BLANK + formatted_next_date}</a></li>\n" + LI_INDENT
-        )
-      end
+        card_html = render_erb("_meetup_card.erb", {
+          meetup_with_no: "Meetup#{no_with_sign}",
+          next_date_en: next_date_en,
+          next_title: next_title,
+          next_time: next_time,
+        })
 
-      add_event './_layouts/toplevel.html' do |doc|
-        return if already_exist_event?(doc)
-
-        doc.at_css('ul > li').add_previous_sibling(
-          "<li><a href=\"./#{@number}/\">#{no_with_sign + BLANK + formatted_next_date}</a></li>\n" + LI_INDENT
-        )
+        doc.sub!("<ul>\n", "<ul>\n#{card_html}\n")
       end
     end
 
     private
 
     def add_event(path)
-      doc = Nokogiri::HTML::Document.parse(File.read(path))
+      doc = File.read(path)
       yield doc
-      html = doc.to_html(indent: INDENT_SIZE)
-      File.write(path, remove_extra_tag(html))
+      File.write(path, doc)
     end
 
     def no_with_sign
       "##{@number}"
     end
 
-    # TODO:
-    # Nokogiri で to_html すると Content-Type の meta tag が追加されてしまうため
-    # 削除しているが、Nokogiri 側で制御できないかな？
-    def remove_extra_tag(str)
-      str.sub(
-        "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n",
-        ''
-      )
+    def already_exist_event?(doc)
+      doc.include?(no_with_sign + BLANK)
     end
 
     def render_erb(template_name, bind_hash)

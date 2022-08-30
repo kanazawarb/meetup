@@ -51,10 +51,19 @@ namespace :meetup do
     next_date_ja = format_date_ja(next_date) unless next_date == default_value
     next_date_en = format_date_en(next_date) unless next_date == default_value
 
+    default_title = "オンラインもくもく会"
+    next_title = say_and_gets("次回Meetupのタイトルを入力してください。default: #{default_title}") {|val|
+      val.nil? || val == "" ? default_title : val.strip
+    }
+
     event = Event.new(number: next_time) {|e|
       e.render_template!('index.md.erb', next_time: next_time, doorkeeper_id: doorkeeper_id, next_date_ja: next_date_ja)
       e.generate_file(e.dest_dir, 'index.md')
-      # e.add_next_event_to_layouts(next_date_en)
+      e.add_next_event_to_layouts(
+        next_date_en: next_date_en,
+        next_title: next_title,
+        next_time: next_time,
+      )
     }
 
     puts "_posts/#{next_time}/index.md が出力されました"
