@@ -62,8 +62,7 @@ module Meetup
     end
 
     def render_template!(template_name, bind_hash)
-      source_path = Pathname(Meetup::TEMPLATE_PATH).join(template_name)
-      @text = ERB.new(File.read(source_path)).result_with_hash(bind_hash)
+      @text = render_erb(template_name, bind_hash)
     end
 
     def dest_dir
@@ -117,8 +116,9 @@ module Meetup
       )
     end
 
-    def already_exist_event?(doc)
-      doc.at_css('ul > li').search('//li').text.include?("#{no_with_sign + BLANK}")
+    def render_erb(template_name, bind_hash)
+      source_path = Pathname(Meetup::TEMPLATE_PATH).join(template_name)
+      ERB.new(File.read(source_path)).result_with_hash(bind_hash)
     end
   end
 end
