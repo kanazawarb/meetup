@@ -33,7 +33,7 @@ module Meetup
   def format_date_en(date_str)
     v = Date.parse(date_str)
     day = %w(Sun Mon Tue Wed Thu Fri Sat)[v.wday]
-    v.strftime("%Y-%m-%d(#{day})")
+    v.strftime("%Y-%m-%d (#{day})")
   end
 
   def exist_index?(current_max)
