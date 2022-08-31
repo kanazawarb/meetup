@@ -6,8 +6,6 @@
 
     bundle install --path vendor/bundle --binstubs .bundle/bin
 
-( `guard-livereload` が必要な場合は global に install して使ってください )
-
 作業の進め方
 ------------
 
@@ -33,14 +31,3 @@ $ make index
 
 # イベントの report.md のテンプレートを出力する
 $ make report
-```
-
-URL設計
-------
-
-    /                          meetup そのものの説明
-    /positionpaper.html        ポジションペーパーについて、参考
-    /meetup                    meetup の説明
-    /meetup/:num/index.html    開催告知
-                /report.html   開催レポート
-    /meetup/slides.html        Kanazawa.rb Slides
