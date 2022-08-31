@@ -1,0 +1,111 @@
+$pink-000: #f77ef1;
+$pink-100: #f967f1;
+$pink-200: #e94ee1;
+$pink-300: #dd2cd4;
+
+// utilities
+.text-white {
+  color: $white !important;
+}
+
+.bg-red-350 {
+  background-color: $red-350 !important;
+}
+
+// logo
+.site-logo__text {
+  line-height: 2.5rem;
+  margin-left: 3rem;
+}
+
+// slides
+ul.slides {
+  list-style: none;
+  width: 100%;
+
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 1rem;
+
+  li {
+    width: 20%;
+    list-style: none;
+
+    &:before {
+      content: '';
+    }
+  }
+}
+
+// doorkeeper widget
+.doorkeeper-widget {
+  width : 300px;
+  float:  right;
+}
+
+@media screen and (max-width: 600px) {
+  .doorkeeper-widget {
+    float: none;
+    margin: 0 auto;
+  }
+}
+
+// meetups
+.meetup__description {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+// pagination
+.meetup__pagination {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  list-style: none;
+
+  .meetup__pagination-item {
+    &::before {
+      content: '';
+    }
+  }
+
+  .meetup__pagination-item--current {
+    margin: auto 0.25rem;
+  }
+}
+
+.meetup__card {
+  &:hover {
+    opacity: .8;
+    background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
+  }
+}
+
+.meetup__date {
+  font-size: 80%;
+  margin-left: .5rem;
+}
+
+.meetup__link {
+  &:hover {
+    opacity: .8;
+    background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
+  }
+}
+
+// slack link
+.slack-link__img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.slack-link__text {
+  display: inline-block;
+  vertical-align: middle;
+  text-transform: none !important;
+}

@@ -1,4 +1,8 @@
-FROM ruby:3.0.2
+FROM ruby:3.1.2
+
+ENV LC_ALL C.UTF-8
+ENV LANG ja_JP.UTF-8
+ENV LANGUAGE ja_JP.UTF-8
 
 RUN useradd -m -u 1000 jekyll
 WORKDIR /tmp
@@ -10,4 +14,4 @@ RUN chown jekyll -R /tmp && \
 
 EXPOSE 4000
 USER jekyll
-CMD ["bundle", "exec", "rake", "serve"]
+CMD ["bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-I", "-l"]
