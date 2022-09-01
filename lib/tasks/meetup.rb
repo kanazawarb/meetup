@@ -86,6 +86,21 @@ module Meetup
 
         doc.sub!("<ul>\n", "<ul>\n#{card_html}\n")
       end
+
+      add_event File.join(ROOT_PATH, "./_posts/index.md") do |doc|
+        return if already_exist_event?(doc)
+
+        html = <<~HTML
+        <div>
+          <p class="d-inline-block label label-red ml-0">注目</p>
+          <a href="/#{next_time}" class="home__latest-meetup-link">
+            最新の Meetup##{next_time} はこちらへ
+          </a>
+        </div>
+        HTML
+
+        doc.sub!(%r{<div>(\w|\W)*</div>}, html.chomp)
+      end
     end
 
     private

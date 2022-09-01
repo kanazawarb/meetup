@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 permalink: /
 ---
+<div></div>
 
 <p style="text-align: right;">
   <a href="./howto-make-meetup">→ How to make meetup</a>
