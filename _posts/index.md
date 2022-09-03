@@ -4,6 +4,12 @@ title: Home
 nav_order: 1
 permalink: /
 ---
+<div>
+  <p class="d-inline-block label label-red ml-0">注目</p>
+  <a href="/120" class="home__latest-meetup-link">
+    最新の Meetup#120 はこちらへ
+  </a>
+</div>
 
 <p style="text-align: right;">
   <a href="./howto-make-meetup">→ How to make meetup</a>
