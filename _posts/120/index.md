@@ -7,13 +7,7 @@ published: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="/120/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/141516">kanazawa.rb meetup #120</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
