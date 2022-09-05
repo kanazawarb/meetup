@@ -27,7 +27,7 @@ exclude:
 theme: just-the-docs
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/images/logo_kzrb.png"
+logo: "https://meetup.kzrb.org/images/logo_kzrb.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -120,3 +120,21 @@ compress_html:
   # ignore:
   #   envs: all
   #
+twitter:
+  username: kanazawarb
+  card: summary
+
+author:
+  twitter: kanazawarb
+
+locale: ja_JP
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: https://meetup.kzrb.org/images/logo_kzrb.png
+        height: 200
+        width: 200
+        alt: kanazawa.rb logo
