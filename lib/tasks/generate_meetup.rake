@@ -56,8 +56,19 @@ namespace :meetup do
       val.nil? || val == "" ? default_title : val.strip
     }
 
+    tool_name = say_and_gets("今回使用するツールはどちらですか？ 0: Gather, 1: Zoom, default: Gather") {|val|
+      tool_id = %w(0 1).include?(val) ? val.to_i : 0
+      tool_id.zero? ? "Gather" : "Zoom"
+    }
+
     event = Event.new(number: next_time) {|e|
-      e.render_template!('index.md.erb', next_time: next_time, doorkeeper_id: doorkeeper_id, next_date_ja: next_date_ja)
+      e.render_template!(
+        'index.md.erb',
+        next_time: next_time,
+        doorkeeper_id: doorkeeper_id,
+        next_date_ja: next_date_ja,
+        tool_name: tool_name,
+      )
       e.generate_file(e.dest_dir, 'index.md')
       e.add_next_event_to_layouts(
         next_date_en: next_date_en,
