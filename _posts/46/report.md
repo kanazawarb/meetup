@@ -1,10 +1,12 @@
 ---
 
-layout: default
+layout: report
 nav_exclude: true
 title: "#46 report"
 published: true
-
+number: 46
+next: true
+prev: true
 ---
 <!-- 公開時は上記 published: false を true に変更する -->
 

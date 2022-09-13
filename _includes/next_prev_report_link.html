@@ -1,0 +1,17 @@
+{% if page.next or page.prev %}
+  <hr />
+
+  <p class="meetup__footer-link">
+    <a href="/{{ page.number | minus: 1 }}/report">
+      {% if page.prev and page.number > 0 %}
+         < prev
+      {% endif %}
+    </a>
+
+    <a href="/{{ page.number | plus: 1 }}">
+      {% if page.next %}
+        next >
+      {% endif %}
+    </a>
+  </p>
+{% endif %}
