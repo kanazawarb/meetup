@@ -4,7 +4,9 @@ layout: post
 nav_exclude: true
 title: "#22"
 date: 2014-06-21 (Sat)
-
+number: 22
+next: true
+prev: true
 ---
 
 <p>

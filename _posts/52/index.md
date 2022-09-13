@@ -4,7 +4,9 @@ layout: post
 nav_exclude: true
 title: "#52"
 published: true
-
+number: 52
+next: true
+prev: true
 ---
 
 

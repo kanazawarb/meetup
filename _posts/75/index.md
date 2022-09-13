@@ -4,7 +4,9 @@ layout: post
 nav_exclude: true
 title: "#75"
 published: true
-
+number: 75
+next: true
+prev: true
 ---
 
 <div style="text-align: right;"><a href="/75/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>

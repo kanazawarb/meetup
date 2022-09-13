@@ -4,7 +4,9 @@ layout: post
 nav_exclude: true
 title: "#100"
 published: true
-
+number: 100
+next: true
+prev: true
 ---
 
 # meetup #100
