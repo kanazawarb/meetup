@@ -103,6 +103,18 @@ module Meetup
       end
     end
 
+    def enable_link_in_prev_index
+      prev_index_path = File.join(ROOT_PATH, "_posts", "#{@number - 1}", "index.md")
+      str = File.read(prev_index_path).sub("#next", "next")
+      File.write(prev_index_path, str)
+    end
+
+    def enable_link_in_prev_report
+      prev_report_path = File.join(ROOT_PATH, "_posts", "#{@number - 1}", "report.md")
+      str = File.read(prev_report_path).sub("#next", "next")
+      File.write(prev_report_path, str)
+    end
+
     private
 
     def add_event(path)
