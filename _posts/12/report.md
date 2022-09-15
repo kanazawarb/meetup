@@ -34,7 +34,7 @@ meetup #12 report
 一周年振り返り KPT
 ------------------
 
--   [KPT 実施ログ](./report-kpt.html)
+-   [KPT 実施ログ](/12/report-kpt)
 
 まとめ
 ------
