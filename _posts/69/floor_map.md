@@ -17,9 +17,9 @@ published: true
 
 ## 北國新聞会館 1F フロアマップ
 
-<img src="./floor_map_01.png" width="600" alt="北國新聞会館 1F フロアマップ">
+<img src="/69/floor_map_01.png" width="600" alt="北國新聞会館 1F フロアマップ">
 
 ## 北國新聞会館 16F フロアマップ
 
-<img src="./floor_map_02.png" width="600" alt="北國新聞会館 16F フロアマップ">
+<img src="/69/floor_map_02.png" width="600" alt="北國新聞会館 16F フロアマップ">
 

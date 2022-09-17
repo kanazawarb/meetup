@@ -1,10 +1,12 @@
 ---
 
-layout: default
+layout: report
 nav_exclude: true
 title: "#109 report"
 published: true
-
+number: 109
+next: true
+prev: true
 ---
 
 <div style="text-align: left;"><a href="/109/"><strong>アナウンスページはこちら</strong></a></div>

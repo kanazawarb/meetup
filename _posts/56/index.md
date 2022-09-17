@@ -4,7 +4,9 @@ layout: post
 nav_exclude: true
 title: "#56"
 date: 2017-04-15 (Sat)
-
+number: 56
+next: true
+prev: true
 ---
 
 <div style="text-align: right;"><a href="/56/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>

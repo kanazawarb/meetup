@@ -3,7 +3,9 @@
 layout: post
 nav_exclude: true
 title: "#0 boot loader"
-
+number: 0
+next: true
+prev: true
 ---
 
 やった

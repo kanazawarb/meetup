@@ -4,7 +4,9 @@ layout: post
 nav_exclude: true
 title: "#69"
 published: true
-
+number: 69
+next: true
+prev: true
 ---
 
 <div style="text-align: right;"><a href="/69/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
@@ -21,7 +23,7 @@ published: true
 北國新聞会館にある DMM GAMES さんの金沢中央事業所です。
 (13F の事務所ではなく 16F のフリースペースです。「DMM GAMES」という表札があります。)
 
-詳細なフロアマップは[こちら](./floor_map.html)を参照ください。
+詳細なフロアマップは[こちら](/69/floor_map)を参照ください。
 
 Kanazawa.rbの意識高いもくもく会には以下のような特徴があります。
 

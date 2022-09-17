@@ -98,6 +98,11 @@ ul.slides {
   }
 }
 
+.meetup__footer-link {
+  display: flex;
+  justify-content: space-between;
+}
+
 // slack link
 .slack-link__img {
   display: inline-block;

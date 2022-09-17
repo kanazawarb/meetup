@@ -3,7 +3,9 @@
 layout: post
 nav_exclude: true
 title: "#2"
-
+number: 2
+next: true
+prev: true
 ---
 
 <p>

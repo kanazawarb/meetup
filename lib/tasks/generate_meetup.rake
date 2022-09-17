@@ -76,6 +76,7 @@ namespace :meetup do
         next_time: next_time,
       )
     }
+    event.enable_link_in_prev_index
 
     puts "_posts/#{next_time}/index.md が出力されました"
     puts "\e[1m\e[31m## TODO ## のある箇所を実際の値に置換してください\e[0m" if %r|#{default_value}|.match?(event.text)
@@ -96,6 +97,7 @@ namespace :meetup do
       e.render_template!('report.md.erb', current_time: current_time)
       e.generate_file(e.dest_dir, 'report.md')
     }
+    event.enable_link_in_prev_report
 
     puts "_posts/#{current_time}/report.md が出力されました"
 

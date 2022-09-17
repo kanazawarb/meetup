@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: report
 nav_exclude: true
 title: "#41 report"
-
+number: 41
+next: true
+prev: true
 ---
 
 <p> <a href="/41/"><strong>アナウンスページはこちら</strong></a></p>

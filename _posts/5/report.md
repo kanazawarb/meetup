@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: report
 nav_exclude: true
 title: "#5 report"
-
+number: 5
+next: true
+prev: true
 ---
 
 <p> <a href="/5/"><strong>アナウンスページはこちら</strong></a></p>
