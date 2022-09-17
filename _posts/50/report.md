@@ -18,7 +18,7 @@ published: true
 * いざわさんの LT スタート。蛍光灯、ちゃんと選んでる？ってはなし [写真](https://www.instagram.com/p/BLkm-0DBC8N/)
 * わたなべさんの LT スタート。QR コードのバルク生成の話。 [写真](https://www.instagram.com/p/BLkoAmUBaro/)
 * むらのさんの LT スタート。slack に、誰でも参加できるようにする仕組みについて。slackin を heroku で動かしてる。 [写真](https://www.instagram.com/p/BLkqbOLhVj-/)
-  + Join kanazawa.rb on Slack! [kzrb-slackin.herokuapp.com](https://kzrb-slackin.herokuapp.com/)
+  + Join kanazawa.rb on Slack! [kzrb-slackin.herokuapp.com](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA)
 * じとめさんの基板話を聞いてる [写真](https://www.instagram.com/p/BLkuvv2hNr_/)
 * Kanazawa.rb meetup 50 done!! [写真](https://www.instagram.com/p/BLk3_JvBwXr/)
 
