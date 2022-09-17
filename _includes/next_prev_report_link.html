@@ -4,13 +4,13 @@
   <p class="meetup__footer-link">
     <a href="/{{ page.number | minus: 1 }}/report">
       {% if page.prev and page.number > 0 %}
-         < prev
+         &lt; prev
       {% endif %}
     </a>
 
     <a href="/{{ page.number | plus: 1 }}">
       {% if page.next %}
-        next >
+        next &gt;
       {% endif %}
     </a>
   </p>
