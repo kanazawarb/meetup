@@ -34,7 +34,7 @@ LT 大会 - オンライン
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
     * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup93` チャネルにご参加ください。
-    * アカウントの新規発行をご希望の方は [こちら](https://kzrb-slackin.herokuapp.com/) から登録ください。
+    * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
 また、参加される方は、どんな内容を話すかを以下いずれかの方法で共有いただけますと助かります。
