@@ -14,6 +14,7 @@ exclude:
   - "Gemfile.lock"
   - "package.json"
   - "package-lock.json"
+  - "script/"
   - "LICENSE.txt"
   - "lib/"
   - "bin/"
@@ -21,8 +22,9 @@ exclude:
   - "Rakefile"
   - "docs/tests/"
   - "*.tags"
-  - '.jekyll-cache'
-  - 'post/.jekyll-cache'
+  - ".jekyll-cache"
+  - "post/.jekyll-cache"
+  - "vendor"
 
 theme: just-the-docs
 
@@ -56,6 +58,16 @@ search:
   # Supports true or false (default)
   button: false
 
+# To disable support for mermaid diagrams (https://mermaid-js.github.io/mermaid/),
+# comment out the `mermaid` and `version` keys below
+# By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.6"
+  # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
+  # See also docs/ui-components/code
+
 # Enable or disable heading anchors
 heading_anchors: true
 
@@ -70,6 +82,11 @@ aux_links_new_tab: false
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# External navigation links
+nav_external_links:
+  - title: Kanazawa.rb の Doorkeeper
+    url: https://kzrb.doorkeeper.jp/
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -96,6 +113,23 @@ last_edit_time_format: "%F" # uses ruby's time format: https://ruby-doc.org/stdl
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
