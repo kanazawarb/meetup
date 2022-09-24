@@ -5,7 +5,7 @@ title: "#120 report"
 nav_exclude: true
 published: true
 number: 120
-#next: true
+next: true
 prev: true
 ---
 
