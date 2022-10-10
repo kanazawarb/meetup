@@ -4,7 +4,9 @@
 まずやること
 ------------
 
-    bundle install --path vendor/bundle --binstubs .bundle/bin
+    bundle config set path 'vendor/bundle'
+    bundle binstubs --path=.bundle/bin
+    bundle install
 
 作業の進め方
 ------------
