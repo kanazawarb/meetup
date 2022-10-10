@@ -1,21 +1,28 @@
 ---
 
 layout: post
-title: "#121"
+title: "#122"
 nav_exclude: true
 published: true
-number: 121
-next: true
+number: 122
+#next: true
 prev: true
+
 ---
 
-<div style="text-align: right;"><a href="/121/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<!--
+
+終了後記入
+
+<div style="text-align: right;"><a href="/122/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+
+-->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/142982">kanazawa.rb meetup #121</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/144791">kanazawa.rb meetup #122</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# meetup #121
+# meetup #122
 
 ## 意識高いもくもく会
 
@@ -25,12 +32,13 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2022年09月17日(土) 13:00 - 17:00 |
+| **日時**   | 2022年10月15日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
 
 ## オンライン開催について
+
 
 * [Gather](https://www.gather.town/) というサービスを使って全員がリモートから参加する予定です。
 * Gather の接続先 URL はイベントの直前に Doorkeeper のメール通知機能を利用してアナウンスされます。
@@ -40,9 +48,10 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
     * 入室前に、コンピュータのマイク・スピーカーが想定どおりのデバイスが指定されているかを確認しましょう。
     * ハウリングする場合には、ヘッドフォンを使ってみるとよいかもしれません。
 
+
 * Gather と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup121` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup122` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
@@ -54,7 +63,6 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 | 開場                              | 13:00 |      |                                                         |
 | 自己紹介＆目標発表                | 13:15 | 15m  |                                                         |
 | 各自で何かする自由な時間          | 13:30 |      | みんな                                                  |
-| LT 「Webpacker -> jsbundling-rails 移行」                      | 14:30 | 10m  | @taketo1113                  |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 目標達成度発表                    | 16:40 | 15m  | みんな                                                  |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
@@ -103,7 +111,7 @@ gist用のテンプレートも用意しました。forkして書き換えるだ
 ### 実施形式
 
 * meetup と同様にオンラインで開催いたします。
-  + Gather に接続したまま各自が飲食をするという形式です。
+  + Gather を接続したまま各自が飲食をするという形式です。
 
 ### 実施の流れ
 
