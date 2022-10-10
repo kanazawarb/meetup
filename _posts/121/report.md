@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: report
 title: "#121 report"
 nav_exclude: true
 published: true
