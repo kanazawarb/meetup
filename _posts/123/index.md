@@ -1,22 +1,28 @@
 ---
 
 layout: post
-title: "#122"
+title: "Meetup #123"
 nav_exclude: true
 published: true
-number: 122
-next: true
+number: 123
+#next: true
 prev: true
 
 ---
 
-<div style="text-align: right;"><a href="/122/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<!--
+
+終了後記入
+
+<div style="text-align: right;"><a href="/123/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+
+-->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/144791">kanazawa.rb meetup #122</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/146326">kanazawa.rb meetup #123</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# meetup #122
+# Meetup #123
 
 ## 意識高いもくもく会
 
@@ -26,7 +32,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2022年10月15日(土) 13:00 - 17:00 |
+| **日時**   | 2022年11月19日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -45,7 +51,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Gather と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup122` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup123` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
