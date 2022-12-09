@@ -19,7 +19,7 @@ module Meetup
 
   def say_and_gets(text)
     puts text
-    val = $stdin.gets.chomp
+    val = $stdin.gets.chomp.strip
     yield val
   end
 
