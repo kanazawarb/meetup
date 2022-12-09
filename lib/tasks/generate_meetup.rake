@@ -80,6 +80,7 @@ namespace :meetup do
         next_date_ja: next_date_ja,
         tool_name: tool_name,
         next_title: next_title,
+        title_key: title_key,
       )
       e.generate_file(e.dest_dir, 'index.md')
       e.add_next_event_to_layouts(
