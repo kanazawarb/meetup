@@ -51,23 +51,35 @@ namespace :meetup do
     next_date_ja = format_date_ja(next_date) unless next_date == default_value
     next_date_en = format_date_en(next_date) unless next_date == default_value
 
-    default_title = "オンラインもくもく会"
-    next_title = say_and_gets("次回Meetupのタイトルを入力してください。default: #{default_title}") {|val|
-      val.nil? || val == "" ? default_title : val.strip
-    }
+    title_key = say_and_gets("次回Meetupのタイプを選択してください。#{title_text}, default: #{Meetup::TITLES[Meetup::KEY_MOKU2]}") do |val|
+      val.to_i
+    end
 
-    tool_name = say_and_gets("今回使用するツールはどちらですか？ 0: Gather, 1: Zoom, default: Gather") {|val|
-      tool_id = %w(0 1).include?(val) ? val.to_i : 0
-      tool_id.zero? ? "Gather" : "Zoom"
-    }
+    next_title =
+      if Meetup::TITLES[title_key].nil?
+        say_and_gets('次回Meetupのタイトルを入力してください。') do |val|
+          val.empty? ? default_value : val
+        end
+      else
+        Meetup::TITLES[title_key]
+      end
 
-    event = Event.new(number: next_time) {|e|
+    tool_name =
+      if title_key != Meetup::KEY_LT
+        say_and_gets("今回使用するツールはどちらですか？ #{tool_text}, default: #{Meetup::TOOLS[Meetup::KEY_GATHER]}") do |val|
+          tool_id = Meetup::TOOLS.keys.map(&:to_s).include?(val) ? val.to_i : 0
+          Meetup::TOOLS[tool_id]
+        end
+      end
+
+    event = Event.new(number: next_time) do |e|
       e.render_template!(
-        'index.md.erb',
+        index_template_filename(title_key),
         next_time: next_time,
         doorkeeper_id: doorkeeper_id,
         next_date_ja: next_date_ja,
         tool_name: tool_name,
+        next_title: next_title,
       )
       e.generate_file(e.dest_dir, 'index.md')
       e.add_next_event_to_layouts(
@@ -75,7 +87,7 @@ namespace :meetup do
         next_title: next_title,
         next_time: next_time,
       )
-    }
+    end
     event.enable_link_in_prev_index
 
     puts "_posts/#{next_time}/index.md が出力されました"
