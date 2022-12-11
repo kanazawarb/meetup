@@ -37,6 +37,10 @@ namespace :meetup do
 
     default_value = '## TODO ##'
 
+    on_off_line_flg = say_and_gets("どちらかを選択してください。#{on_off_line_text}") {|val|
+      v = /\A\d+\z/.match?(val) ? val.to_i : 0
+    }
+
     doorkeeper_id = say_and_gets('Doorkeeper の event_id を入力してください') {|val|
       /\A\d+\z/.match?(val) ? val : default_value
     }
@@ -81,12 +85,14 @@ namespace :meetup do
         tool_name: tool_name,
         next_title: next_title,
         title_key: title_key,
+        on_off_line_flg: on_off_line_flg,
       )
       e.generate_file(e.dest_dir, 'index.md')
       e.add_next_event_to_layouts(
         next_date_en: next_date_en,
         next_title: next_title,
         next_time: next_time,
+        on_off_line_flg: on_off_line_flg,
       )
     end
     event.enable_link_in_prev_index

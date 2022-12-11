@@ -16,6 +16,15 @@ module Meetup
   KEY_ZOOM = 1
   TOOLS = { KEY_GATHER => "Gather", KEY_ZOOM => "Zoom" }.freeze
 
+  KEY_OFFLINE = 0
+  KEY_ONLINE = 1
+  ON_OFF_LINES = { KEY_OFFLINE => "オフライン開催", KEY_ONLINE => "オンライン開催" }.freeze
+
+  def erb_source_path(filename)
+    Pathname(Meetup::TEMPLATE_PATH).join(filename)
+  end
+  module_function :erb_source_path
+
   def latest_meetup_count
     path = Pathname(ROOT_PATH).join('_posts/*')
     Dir.glob(path).map {|e| %r|_posts/(\d+)\z|.match(e) ? $1.to_i : 0 }.max
@@ -66,6 +75,10 @@ module Meetup
     Meetup::TOOLS.map {|k, v| "#{k}: #{v}" }.join(", ")
   end
 
+  def on_off_line_text
+    Meetup::ON_OFF_LINES.map {|k, v| "#{k}: #{v}" }.concat(["default: #{Meetup::ON_OFF_LINES[Meetup::KEY_ONLINE]}"]).join(", ")
+  end
+
   def index_template_filename(title_key)
     title_key == Meetup::KEY_LT ? 'lt_index.md.erb' : 'index.md.erb'
   end
@@ -100,7 +113,7 @@ module Meetup
       File.write(path, @text)
     end
 
-    def add_next_event_to_layouts(next_date_en:, next_title:, next_time:)
+    def add_next_event_to_layouts(next_date_en:, next_title:, next_time:, on_off_line_flg:)
       add_event File.join(ROOT_PATH, "./_posts/meetups.md") do |doc|
         return if already_exist_event?(doc)
 
@@ -109,6 +122,7 @@ module Meetup
           next_date_en: next_date_en,
           next_title: next_title,
           next_time: next_time,
+          on_off_line_flg: on_off_line_flg,
         })
 
         doc.sub!("<ul>\n", "<ul>\n#{card_html}\n")
@@ -160,7 +174,7 @@ module Meetup
 
     def render_erb(template_name, bind_hash)
       source_path = Pathname(Meetup::TEMPLATE_PATH).join(template_name)
-      ERB.new(File.read(source_path)).result_with_hash(bind_hash)
+      ERB.new(File.read(source_path), trim_mode: '-').result_with_hash(bind_hash)
     end
   end
 end

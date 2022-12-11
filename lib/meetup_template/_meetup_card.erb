@@ -2,7 +2,7 @@
     <a href="/<%= next_time %>" class="meetup__link"><%= meetup_with_no %>
       <span class="meetup__date text-grey-dk-000"><%= next_date_en %></span>
       <p class="meetup__description text-grey-dk-300">
-        <%= next_title %>
+        <%= next_title %> - <%= on_off_line_flg == Meetup::KEY_ONLINE ? "オンライン" : "オフライン" %>
       </p>
     </a>
   </li>

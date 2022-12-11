@@ -24,16 +24,18 @@ prev: true
 
 # Meetup #<%= next_time %>
 
-## <%= next_title %>
+## <%= next_title %> - <%= on_off_line_flg == Meetup::KEY_ONLINE ? "オンライン" : "オフライン" %>
 <!--
-## 年末 LT 大会 (オフライン開催)
-## 祝◯周年 LT 大会 (オフライン開催)
+## 年末 LT 大会 - <%= on_off_line_flg == Meetup::KEY_ONLINE ? "オンライン" : "オフライン" %>
+## 祝◯周年 LT 大会 - <%= on_off_line_flg == Meetup::KEY_ONLINE ? "オンライン" : "オフライン" %>
 -->
 
 なんでもいいのでYou、話しちゃいなよ！！
 参加者全員が「どんな内容でも良いので」前にでてトークすることを目標にしています。
 
+<%- if next_date_ja.include?("12月") -%>
 一年を振り返るいい機会です。是非ご参加ください。
+<%- end -%>
 
 参加される方は、どんな内容を話すかを
 [#kzrb](http://twitter.com/search?q=%23kzrb) というハッシュタグをつけて
@@ -50,6 +52,7 @@ Twitter 上で表明してもらえると助かります。
 * 参加費は、当日に現地で回収致します。 現金、Kyash、PayPay のいずれかでお支払いになります。現金の方はお釣りの出ないようご協力お願いします。なお、領収証は発行されません。
 * 割引制度があります。「学生の方」「女性の方」「県外からの参加者で且つ何らかの発表を行った方」の参加費は無料となります。
 
+<%- if on_off_line_flg == Meetup::KEY_OFFLINE -%>
 ## 発表時の資料の投影について
 
 発表時に資料を利用する方はふたつの方法から選択いただけます
@@ -69,6 +72,7 @@ Twitter 上で表明してもらえると助かります。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
+<%- end -%>
 
 ## ざっくりタイムテーブル
 
@@ -80,7 +84,7 @@ Twitter 上で表明してもらえると助かります。
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
-**meetup #<%= next_time %>では、全員が LT でなにか発表することを目標にしています！どんな内容でもよいので、是非なにかひとつテーマを持って来てください。**
+**Meetup #<%= next_time %>では、全員が LT でなにか発表することを目標にしています！どんな内容でもよいので、是非なにかひとつテーマを持って来てください。**
 
 LT を実施するので恒例の自己紹介タイムは端折ります。
 
@@ -142,3 +146,5 @@ Gist 用のテンプレートも用意しました。fork して書き換える�
 - 一応WiFiがありますが、人数が多くなるとパンクします＞＜
 - 電源は十分なクチがないので、 **タップを持参** してもらえると嬉しいです。特に **Mac の人はアダプタが干渉しやすい** ので注意！
 - 遅刻しないでもらえると嬉しいけど、途中の出入りは自由です。
+
+<%= ERB.new(File.read(Meetup.erb_source_path("_after_meeting.erb")), trim_mode: '-').result_with_hash(on_off_line_flg: on_off_line_flg, tool_name: Meetup::TOOLS[Meetup::KEY_GATHER]) -%>
