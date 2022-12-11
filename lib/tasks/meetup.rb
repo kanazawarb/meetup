@@ -10,12 +10,11 @@ module Meetup
   KEY_MOKU2 = 0
   KEY_LT = 1
   KEY_OTHER = 2
-
   TITLES = { KEY_MOKU2 => '意識高いもくもく会', KEY_LT => '〇〇LT大会', KEY_OTHER => nil }.freeze
 
   KEY_GATHER = 0
   KEY_ZOOM = 1
-  TOOLS = { KEY_GATHER => "Gather", KEY_ZOOM => "Zoom" }
+  TOOLS = { KEY_GATHER => "Gather", KEY_ZOOM => "Zoom" }.freeze
 
   def latest_meetup_count
     path = Pathname(ROOT_PATH).join('_posts/*')
