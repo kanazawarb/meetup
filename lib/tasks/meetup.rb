@@ -7,6 +7,16 @@ module Meetup
   ROOT_PATH = File.expand_path("../../", __dir__)
   TEMPLATE_PATH = File.join(ROOT_PATH, "./lib/meetup_template")
 
+  KEY_MOKU2 = 0
+  KEY_LT = 1
+  KEY_OTHER = 2
+
+  TITLES = { KEY_MOKU2 => '意識高いもくもく会', KEY_LT => '〇〇LT大会', KEY_OTHER => nil }.freeze
+
+  KEY_GATHER = 0
+  KEY_ZOOM = 1
+  TOOLS = { KEY_GATHER => "Gather", KEY_ZOOM => "Zoom" }
+
   def latest_meetup_count
     path = Pathname(ROOT_PATH).join('_posts/*')
     Dir.glob(path).map {|e| %r|_posts/(\d+)\z|.match(e) ? $1.to_i : 0 }.max
@@ -19,7 +29,7 @@ module Meetup
 
   def say_and_gets(text)
     puts text
-    val = $stdin.gets.chomp
+    val = $stdin.gets.chomp.strip
     yield val
   end
 
@@ -41,6 +51,24 @@ module Meetup
 
   def exist_report?(current_max)
     exist?(current_max, :report)
+  end
+
+  def title_text
+    Meetup::TITLES.map {|k, v|
+      if k == Meetup::KEY_OTHER
+        "#{k}: 自由入力"
+      else
+        "#{k}: #{v}"
+      end
+    }.join(", ")
+  end
+
+  def tool_text
+    Meetup::TOOLS.map {|k, v| "#{k}: #{v}" }.join(", ")
+  end
+
+  def index_template_filename(title_key)
+    title_key == Meetup::KEY_LT ? 'lt_index.md.erb' : 'index.md.erb'
   end
 
   private def exist?(current_max, name)
