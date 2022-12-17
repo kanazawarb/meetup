@@ -70,6 +70,23 @@ Twitter 上で表明してもらえると助かります。
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT 発表                           |       |      |                                                         |
+| ruby で uniq c | | | kiyohara |
+| オレオレGASからMakeへの移行を検討してみた | | | cotton |
+| 指紋認証でsshログイン | | | yuki |
+| 推しフォントの話をしよう 2022年12月版 | | | kiyohara |
+| クレカ（Kyashが） 不正利用されてしまった件 | | | yagfair |
+| 経験が浅いチームが安定的にRailsアプリを運用するには | | | nagutabby |
+| Codespacesはじめました | | | kentaro.m811 |
+| 俺とAirTag | | | pharaohkj |
+| 俺と今年ベストバイ | | | pharaohkj |
+| ゆく年くる年2022' | | | satoru.takeuchi |
+| 俺と資源ごみアプリ | | | pharaohkj |
+| Kamon経由でDatadog APMと連携する際にスパンからエラー情報が抜けてしまう現象について | | | takayukiatkwsk |
+| 俺と野々市婚活支援事業 | | | pharaohkj |
+| 写真で振り返る2022年の野外活動 | | | takayukiatkwsk |
+| 俺と沖縄旅行 | | | pharaohkj |
+| has_one といったな。あれは嘘だ。 | | | kiyohara |
+| かんたん！お手軽！OG画像生成 | | | kentaro.m811 |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
