@@ -19,8 +19,8 @@ prev: true
 * 参加者用プレゼントです [[写真](https://twitter.com/satoru_takeuchi/status/1603964190531940352)]
 * Enumerable#tally しらなんだわ
 * irb でライブデモしながら発表させてもらった。なんとか6分で行けた。よかった（？）[[写真](https://twitter.com/kiyohara/status/1603977144102981633)]
-* 2022年の推しフォントです。Nerd font 組み込みのヤツつかってます。[[URL](https://github.com/yuru7/HackGen)]
-* nerd font はこちら。アイコン表示が便利。[[URL](https://www.nerdfonts.com/)]
+* 2022年の推しフォントです。Nert Fonts 組み込みのヤツつかってます。[[URL](https://github.com/yuru7/HackGen)]
+* Nert Fonts はこちら。アイコン表示が便利。[[URL](https://www.nerdfonts.com/)]
 * 学生主体のアプリ開発においても、しっかりアプリケーションを運用するための改善という感じで良いですね。
 * 結局、肉は塩
 * アプリ制作してフィードバックもらいに行けるのいいなあ
