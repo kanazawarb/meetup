@@ -34,6 +34,7 @@ prev: true
 ## 参加者のブログ
 
 * [Kanazawa\.rb meetup \#125 \- 過ぎたるは及ばざるが如し](https://cotton-desu.hatenablog.com/entry/2023/01/27/130000)
+* [Kanazawa.rb meetup#125 に参加してきた](https://muryoimpl.com/blog/2023-01-21/participated-in-kzrb-meetup-125/)
 
 ## 収支
 
