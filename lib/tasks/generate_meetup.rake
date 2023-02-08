@@ -38,7 +38,7 @@ namespace :meetup do
     default_value = '## TODO ##'
 
     on_off_line_flg = say_and_gets("どちらかを選択してください。#{on_off_line_text}") {|val|
-      v = /\A\d+\z/.match?(val) ? val.to_i : 0
+      v = /\A\d+\z/.match?(val) ? val.to_i : Meetup::KEY_ONLINE
     }
 
     doorkeeper_id = say_and_gets('Doorkeeper の event_id を入力してください') {|val|
