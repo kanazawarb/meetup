@@ -76,7 +76,7 @@ module Meetup
   end
 
   def on_off_line_text
-    Meetup::ON_OFF_LINES.map {|k, v| "#{k}: #{v}" }.concat(["default: #{Meetup::ON_OFF_LINES[Meetup::KEY_OFFLINE]}"]).join(", ")
+    Meetup::ON_OFF_LINES.map {|k, v| "#{k}: #{v}" }.concat(["default: #{Meetup::ON_OFF_LINES[Meetup::KEY_ONLINE]}"]).join(", ")
   end
 
   def index_template_filename(title_key)
