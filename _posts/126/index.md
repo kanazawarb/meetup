@@ -10,13 +10,7 @@ prev: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="/126/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 <div class="doorkeeper-widget">
 <a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/151475">kanazawa.rb meetup #126</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
