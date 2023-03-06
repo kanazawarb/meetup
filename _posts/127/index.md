@@ -1,22 +1,28 @@
 ---
 
 layout: post
-title: "Meetup #126"
+title: "Meetup #127"
 nav_exclude: true
 published: true
-number: 126
-next: true
+number: 127
+#next: true
 prev: true
 
 ---
 
-<div style="text-align: right;"><a href="/126/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<!--
+
+終了後記入
+
+<div style="text-align: right;"><a href="/127/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+
+-->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/151475">kanazawa.rb meetup #126</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/152375">kanazawa.rb meetup #127</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 </div>
 
-# Meetup #126
+# Meetup #127
 
 ## 意識高いもくもく会
 
@@ -26,24 +32,25 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2023年02月18日(土) 13:00 - 17:00 |
+| **日時**   | 2023年03月18日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
  <!-- オンラインstart -->
 ## オンライン開催について
 
-* [Gather](https://www.gather.town/) というサービスを使って全員がリモートから参加する予定です。
-* Gather の接続先 URL はイベントの直前に Doorkeeper のメール通知機能を利用してアナウンスされます。
-    * 基本的にはアカウント登録不要でブラウザがあれば参加可能です。
-    * アカウント登録することでより便利にご利用いただけます。
-    * サービスの詳細は [こちら(英語)](https://support.gather.town/help/gather-basics) をご参照ください。
+* Zoom というアプリケーションを使って全員がリモートから参加する予定です。
+* Zoom の接続先 URL はイベントの直前に Doorkeeper のメール通知機能を利用してアナウンスされます。
+* 接続方法として、こちらのヘルプに事前に目を通していただけますと幸いです。
+    * [ミーティングに参加するにはどうすればよいですか？ – Zoom ヘルプセンター](https://support.zoom.us/hc/ja/articles/201362193-%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-)
+    * 接続先 URL をクリックすることでアプリケーションのセットアップも誘導されます。
+    * よりスムーズに参加するためアプリケーションのセットアップを事前に済ませていただくことを推奨します。
     * 入室前に、コンピュータのマイク・スピーカーが想定どおりのデバイスが指定されているかを確認しましょう。
     * ハウリングする場合には、ヘッドフォンを使ってみるとよいかもしれません。
 
-* Gather と同時にテキストチャットルームも活用します。
+* Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup126` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup127` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
@@ -102,11 +109,11 @@ gist用のテンプレートも用意しました。forkして書き換えるだ
 
 ### 実施形式
 * meetup と同様にオンラインで開催いたします。
-  + Gather に接続した状態で各自が飲食をするという形式です。
+  + Zoom に接続した状態で各自が飲食をするという形式です。
 
 ### 実施の流れ
 
-* meetup 終了後、懇親会に参加したい方がGather上に集まって実施する流れとなります。
+* meetup 終了後、懇親会に参加したい方がZoom上に集まって実施する流れとなります。
   + 事前に、飲み物や食べ物をご用意いただくとスムーズに参加できるかと思います。
   + もちろん、懇親会が始まった後に準備していただく形でも問題ありません。
 
