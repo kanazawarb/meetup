@@ -1,4 +1,4 @@
-FROM ruby:3.1.2
+FROM ruby:3.2.1
 
 ENV LC_ALL C.UTF-8
 ENV LANG ja_JP.UTF-8
