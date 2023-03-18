@@ -19,7 +19,10 @@ prev: true
 -->
 
 <div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/<%= doorkeeper_id %>">kanazawa.rb meetup #<%= next_time %></a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+  <a href="https://kzrb.doorkeeper.jp/events/<%= doorkeeper_id %>" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
+    Doorkeeperでの申込みはこちら
+    <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
+  </a>
 </div>
 
 # Meetup #<%= next_time %>
