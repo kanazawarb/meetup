@@ -15,7 +15,7 @@ assignees: ''
 - [ ] Zoom の URL を予約する
 - [ ] Slack に専用チャネルを作成する
     - チャネルトピックに Zoom URL をセットする
-- [ ] iffft の twitter-slack 連携の投稿先チャネルを変更する
+- [ ] ifttt の twitter-slack 連携の投稿先チャネルを変更する
 
 ## 申し込みページを作成する
 - [ ] Doorkeeper イベントを未公開状態で作成
