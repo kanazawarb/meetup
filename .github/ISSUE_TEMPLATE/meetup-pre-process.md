@@ -15,7 +15,7 @@ assignees: ''
 ## Slack 準備
 - [ ] Slack に専用チャネルを作成する
     - チャネルトピックに Zoom URL をセットする
-- [ ] iffft の twitter-slack 連携の投稿先チャネルを変更する
+- [ ] ifttt の twitter-slack 連携の投稿先チャネルを変更する
 
 ## 施設を予約する
 - [ ] 施設を決定する
