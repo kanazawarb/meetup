@@ -32,7 +32,7 @@ Kanazawa.rb, [Toyama.rb](https://toyamarb.github.io/), [ふくもく会](https:/
 
 [Cloudflare Meetup Kanazawa Kick off\!\! \- connpass](https://cfm-cts.connpass.com/event/281768/)
 
-| **日時**   | 2023年05月20日(土) 14:00 - 16:30 |
+| **日時**   | 2023年05月20日(土) 14:30 - 17:00 |
 | **会場**   | ITビジネスプラザ武蔵 第一会議室<br>金沢市武蔵町14番31号 <a href="http://www.bp-musashi.jp/">http://www.bp-musashi.jp/</a> |
 | **参加費** | 無料 |
 
