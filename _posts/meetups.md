@@ -12,6 +12,15 @@ description: "開催した Meetup のレポートです"
 
 <ul>
   <li class="meetup__card">
+    <a href="/129" class="meetup__link">Meetup#129
+      <span class="meetup__date text-grey-dk-000">2023-05-20 (Sat)</span>
+      <p class="meetup__description text-grey-dk-300">
+        Cloudflare Meetup Kanazawa Kick off!! - オフライン
+      </p>
+    </a>
+  </li>
+
+  <li class="meetup__card">
     <a href="/128" class="meetup__link">Meetup#128
       <span class="meetup__date text-grey-dk-000">2023-04-15 (Sat)</span>
       <p class="meetup__description text-grey-dk-300">
