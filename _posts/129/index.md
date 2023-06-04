@@ -10,13 +10,7 @@ prev: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="/129/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 # Cloudflare Meetup Kanazawa Kick off!! (meetup #129)
 
