@@ -118,6 +118,10 @@ namespace :meetup do
     }
     event.enable_link_in_prev_report
 
+    if exist_index?(current_time)
+      event.replace_doorkeeper_guide_wording
+    end
+
     puts "_posts/#{current_time}/report.md が出力されました"
 
     default_value = 'XXX'

@@ -156,6 +156,12 @@ module Meetup
       File.write(prev_report_path, str)
     end
 
+    def replace_doorkeeper_guide_wording
+      index_path = File.join(ROOT_PATH, "_posts", "#{@number}", "index.md")
+      str = File.read(index_path).sub("Doorkeeperでの申込みはこちら", "受付終了: Doorkeeperのページ")
+      File.write(index_path, str)
+    end
+
     private
 
     def add_event(path)
