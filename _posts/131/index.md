@@ -1,25 +1,31 @@
 ---
 
 layout: post
-title: "Meetup #130"
+title: "Meetup #131"
 nav_exclude: true
 published: true
-number: 130
-next: true
+number: 131
+#next: true
 prev: true
 
 ---
 
-<div style="text-align: right;"><a href="/130/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+<!--
+
+終了後記入
+
+<div style="text-align: right;"><a href="/131/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+
+-->
 
 <div class="doorkeeper-widget">
-  <a href="https://kzrb.doorkeeper.jp/events/158419" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
-    受付終了: Doorkeeperのページ
+  <a href="https://kzrb.doorkeeper.jp/events/159926" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
+    Doorkeeperでの申込みはこちら
     <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
   </a>
 </div>
 
-# Meetup #130
+# Meetup #131
 
 ## 意識高いもくもく会
 
@@ -29,7 +35,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2023年06月17日(土) 13:00 - 17:00 |
+| **日時**   | 2023年07月15日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -47,7 +53,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup130` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup131` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
