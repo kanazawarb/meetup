@@ -15,7 +15,7 @@ description: "開催した Meetup のレポートです"
     <a href="/132" class="meetup__link">Meetup#132
       <span class="meetup__date text-grey-dk-000">2023-08-26 (Sat)</span>
       <p class="meetup__description text-grey-dk-300">
-        〇〇LT大会 - オフライン
+        祝11周年 LT大会 - オフライン
       </p>
     </a>
   </li>
