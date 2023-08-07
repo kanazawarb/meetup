@@ -38,7 +38,7 @@ Rubyだけでなく、さまざまな情報を交換する場として、これ�
 11周年のノベルティグッズとして、ポストイットをご用意しています。
 
 <div style="text-align:center">
-<img src="https://meetup.kzrb.org/132/post-it.jpg" style="width: 320px">
+<img src="post-it.jpg" style="width: 320px">
 </div>
 
 参加者全員にお配りしますので、是非一緒にこの記念をお祝いしてください！
