@@ -67,7 +67,7 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 また、Tシャツ以外にもいくつかの記念品を用意しています。
 是非、以下のサイトをチェックしてみてください！
 
-https://suzuri.jp/kzrb
+[https://suzuri.jp/kzrb](https://suzuri.jp/kzrb)
 
 <small>※商品名に Donation とあるものは寄付版です。寄付版は、kanazawa.rb の運営費をサポートするモデルとなります。商品自体に差はありません。</small>
 
