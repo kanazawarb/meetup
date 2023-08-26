@@ -108,6 +108,19 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT 発表                           |       |      |                                                         |
+| 人生で一番苦労したプロジェクトの話 | | | kanontonto1010 |
+| 俺とキャンプ | | | satoru.takeuchi |
+| 外来語の話 | | | jun.nakano |
+| 最近のwtnabeのあれやこれや | | | wtnabe |
+| 推しの VTuber の公式 Web サイトを作った Part.2 | | | kanontonto1010 |
+| 最近作っていたもの | | | takayukiatkwsk |
+| Espressif ZeroCodeを試してみた' | | | issekiamp |
+| 形式仕様言語TLA+ | | | satoru.takeuchi |
+| *POSIX文字クラスでの躓き* | | | muryoimpl |
+| *俺とTODOアプリ* | | | muryoimpl |
+| PropshaftとSprocketsの違い - なぜPropshaftなのか -' | | | nagutabby |
+| AI + cli | | | kiyohara |
+| 形式仕様言語TLA+ その2 | | | satoru.takeuchi |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
