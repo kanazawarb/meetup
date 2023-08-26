@@ -121,6 +121,8 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 | *俺とTODOアプリ* | | | muryoimpl |
 | PropshaftとSprocketsの違い - なぜPropshaftなのか -' | | | nagutabby |
 | AI + cli | | | kiyohara |
+| 近況をお話しします | | | kanontonto1010 |
+| Espressif ZeroCode 実演リベンジ | | | issekiamp |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
