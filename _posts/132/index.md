@@ -116,11 +116,11 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 | 最近作っていたもの | | | takayukiatkwsk |
 | Espressif ZeroCodeを試してみた' | | | issekiamp |
 | 形式仕様言語TLA+ | | | satoru.takeuchi |
+| 形式仕様言語TLA+ その2 | | | satoru.takeuchi |
 | *POSIX文字クラスでの躓き* | | | muryoimpl |
 | *俺とTODOアプリ* | | | muryoimpl |
 | PropshaftとSprocketsの違い - なぜPropshaftなのか -' | | | nagutabby |
 | AI + cli | | | kiyohara |
-| 形式仕様言語TLA+ その2 | | | satoru.takeuchi |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
