@@ -18,7 +18,7 @@ prev: true
 
 * 11周年おめでとうございます！！
 * Kanazawa.rb 11周年記念会！LT 大会やってます。
-  * [写真](https://twitter.com/kiyohara/status/1695320590440362346)
+  * <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Kanazawa.rb 11周年記念会！LT 大会やってます。<a href="https://twitter.com/hashtag/kzrb?src=hash&amp;ref_src=twsrc%5Etfw">#kzrb</a> <a href="https://t.co/KeHEWcmY8J">pic.twitter.com/KeHEWcmY8J</a></p>&mdash; Tomokazu Kiyohara (@kiyohara) <a href="https://twitter.com/kiyohara/status/1695320590440362346?ref_src=twsrc%5Etfw">August 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 * Kanazawa.rb meetup 132 done!
   * [写真](https://twitter.com/kiyohara/status/1695372441475059779)
 * お疲れさまでしたー。5分間はあっという間。みなさんのLT職人芸が見れて嬉しかったです。私は相変わらず時間オーバーする癖が直りません。
