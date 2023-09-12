@@ -5,7 +5,7 @@ title: "Meetup #132"
 nav_exclude: true
 published: true
 number: 132
-#next: true
+next: true
 prev: true
 
 ---
