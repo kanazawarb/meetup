@@ -12,6 +12,15 @@ description: "開催した Meetup のレポートです"
 
 <ul>
   <li class="meetup__card">
+    <a href="/135" class="meetup__link">Meetup#135
+      <span class="meetup__date text-grey-dk-000">2023-11-18 (Sat)</span>
+      <p class="meetup__description text-grey-dk-300">
+        Ruby on Rails on App Runner ハンズオン
+      </p>
+    </a>
+  </li>
+
+  <li class="meetup__card">
     <a href="/134" class="meetup__link">Meetup#134
       <span class="meetup__date text-grey-dk-000">2023-10-21 (Sat)</span>
       <p class="meetup__description text-grey-dk-300">
