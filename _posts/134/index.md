@@ -10,17 +10,11 @@ prev: true
 
 ---
 
-<!--
-
-終了後記入
-
 <div style="text-align: right;"><a href="/134/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
--->
 
 <div class="doorkeeper-widget">
   <a href="https://kzrb.doorkeeper.jp/events/164401" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
-    Doorkeeperでの申込みはこちら
+    受付終了: Doorkeeperのページ
     <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
   </a>
 </div>
