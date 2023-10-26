@@ -27,7 +27,7 @@ prev: true
 
 # Ruby on Rails on App Runner ハンズオン(meetup #135)
 
-[JAWS-UG 金沢](https://jawsug-kanazawa.doorkeeper.jp/) さんとのコラボし、対面型のハンズオンイベントを実施します。
+[JAWS-UG 金沢](https://jawsug-kanazawa.doorkeeper.jp/) さんとコラボし、対面型のハンズオンイベントを実施します。
 
 AWS で提供されているフルマネージド型のコンテナアプリケーションサービスである [AWS App Runner](https://aws.amazon.com/jp/apprunner/) に Ruby 製 Web アプリケーションフレームワークである [Ruby on Rails](https://rubyonrails.org/) を利用したシステムをセットアップすることを目指します。
 
