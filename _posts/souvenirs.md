@@ -10,6 +10,8 @@ nav_order: 5
 
 ![](/132/post-it.jpg)
 
+[@Yukimitsu\_Izawa](https://twitter.com/Yukimitsu_Izawa/) さんにご寄付いただきました
+
 ## 10周年記念（ステッカー）
 
 ![](/120/sticker.jpg)
