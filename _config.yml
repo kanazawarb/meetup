@@ -28,6 +28,7 @@ exclude:
   - "docs/tests/"
   - "*.tags"
   - "post/.jekyll-cache"
+  - Dockerfile
 
 theme: just-the-docs
 
