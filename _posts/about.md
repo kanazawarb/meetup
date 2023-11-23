@@ -9,7 +9,7 @@ description: ""
   <h1>Kanazawa.rbってなに</h1>
   <img src="/images/logo_kzrb.png" style="float: left; margin-right: 2em">
   <p>金沢市および周辺地域在住あるいはRubyやビールに興味のあるすべての人を対象にした小さな地域Rubyコミュニティです。</p>
-  <p>スタッフ的な人は何人かいますが、実はほとんど <strong>Rubyは得意ではありません</strong> (笑) Ruby興味ある、使ったらモテる、そう思っている人が自分たちで何かやってみる、そんなコミュニティです。え、興味あるの？ YOU来ちゃいなよ！</p>
+  <p>スタッフ的な人は何人かいますが、実はほとんど <strong>Rubyは得意ではありません</strong> (笑) Ruby興味ある、使ったらモテる、そう思っている人が自分たちで何かやってみる、そんなコミュニティです。え、興味あるの？ じゃあ来ちゃいなよ！</p>
 
   <h1 style="clear: both">展望</h1>
   <ul>
