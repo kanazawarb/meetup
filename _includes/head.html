@@ -1,8 +1,22 @@
+{%- comment -%}
+  Include as: {%- include head.html -%}
+  Depends on: site.ga_tracking, site.ga_tracking_anonymize_ip,
+    site.search_enabled, site.static_files, site.favicon_ico.
+  Results in: HTML for the head element.
+  Includes:
+    head_nav.html, head_custom.html.
+  Overwrites: 
+    ga_tracking_ids, ga_property, file, favicon.
+  Should not be cached, because included files depend on page.
+{%- endcomment -%}
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+  
+  {% include head_nav.html %}
 
   {% if site.ga_tracking != nil %}
     {% assign ga_tracking_ids = site.ga_tracking | split: "," %}
