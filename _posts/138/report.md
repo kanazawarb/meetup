@@ -16,8 +16,6 @@ prev: true
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、twitter の #kzrb あたりからピックアップする -->
-
 * 統計検定の2級レベルが流行りの機械学習周りの基礎を学べて熱いらしい、というのを数年前に聞きました。ひとまず３級に向けて進めてます。
   * [統計検定：Japan Statistical Society Certificate](https://www.toukei-kentei.jp/)
 * 2020年に話題がある
@@ -29,6 +27,25 @@ prev: true
   * [AppleがiOSからPWAのサポートを削除したことを認める、デジタル市場法への対応で影響はEU圏のユーザーに限定 \- GIGAZINE](https://gigazine.net/news/20240216-ios-17-4-removes-web-apps-pwa/)
 * [あなたの挑戦を応援するコワーキング&シェアオフィスが金沢にオープン！｜マクアケ \- アタラシイものや体験の応援購入サービス](https://www.makuake.com/project/coworkingkanazawa/)
 * [コワーキングスクエア金沢香林坊 \- 石川県金沢市の中心地にあるコミュニティスペース](https://coworkingsquarekanazawa.com/)
+* [PWA \(Progressive Web Apps\) が流行らない理由 \- nagutabbyの考え事](https://blog.nagutabby.uk/why-pwa-is-not-popular)
+* [bensheldon/good\_job: Multithreaded, Postgres\-based, Active Job backend for Ruby on Rails\.](https://github.com/bensheldon/good_job)
+  * [Ruby on Rails: Redisを使わないActiveJobのバックエンド「GoodJob」を使ってみるMEMO📝 \- Madogiwa Blog](https://madogiwa0124.hatenablog.com/entry/2022/10/08/125502)
+  * [まだdelayed\_job使っているの？今はgood\_jobが熱い\!](https://zenn.dev/enechange_blog/articles/93229b13d99943)
+* [basecamp/solid\_queue: Database\-backed Active Job backend](https://github.com/basecamp/solid_queue)
+  * [Solid Queue \- ohbarye](https://scrapbox.io/ohbarye/Solid_Queue)
+* [Cloud Run Integration を使って外部アプリケーション ロードバランサとカスタム ドメインをかんたんに設定する](https://zenn.dev/google_cloud_jp/articles/cloudrun-itg-alb)
+  * CloudRun側からintegrationで簡単にLoad Balancer作ってそこにcertificate付けてIAPの設定はできるようになりました。Google-managedなcertificateの発行が思ったより遅いのがちょっと課題だけどLoad Balancingを気にしたくなかったので助かった。
+* [プロと読み解くRuby 3\.3 NEWS \- STORES Product Blog](https://product.st.inc/entry/2023/12/25/160504)
+* kaneko さんの parser の話はこのあたりかなー
+  * [LALR parser generatorの作り方 \- Speaker Deck](https://speakerdeck.com/yui_knk/lalr-parser-generatornozuo-rifang)
+* 技評のRuby3.3記事たち。
+  * [Ruby 3\.3 YJITのメモリ管理とRJIT 〜すべてが新しくなった2つのJITを使いこなす \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-jit)
+  * [Prism：エラートレラントな、まったく新しいRubyパーサ \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-prism)
+  * [Lrama LRパーサジェネレータが切り開く、Rubyの構文解析の未来 \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-lrama)
+  * [IRBのアップデート 〜補完とデバッグ機能の強化 \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-irb)
+  * [新機能ラッシュ！ RBS最新情報をキャッチアップ \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-rbs)
+  * [徹底解説！ default gemsとbundled gemsのすべて \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-bundled-gems)
+  * [M:Nスレッドによる軽量な並行処理への挑戦 \| gihyo\.jp](https://gihyo.jp/article/2024/01/ruby3.3-mn-threads)
 
 ## 運営ブレストログ
 
