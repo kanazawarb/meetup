@@ -15,7 +15,7 @@ prev: true
 <div class="doorkeeper-widget">
   <a href="https://kzrb.doorkeeper.jp/events/164401" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
     受付終了: Doorkeeperのページ
-    <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
+    <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></svg>
   </a>
 </div>
 
