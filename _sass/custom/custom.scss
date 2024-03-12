@@ -37,8 +37,10 @@ ul.slides {
 
 // doorkeeper widget
 .doorkeeper-widget {
-  width : 300px;
-  float:  right;
+  width: 300px;
+  float: right;
+  position: relative;
+  z-index: 1;
 
   .doorkeeper-widget__text {
     display: block;
