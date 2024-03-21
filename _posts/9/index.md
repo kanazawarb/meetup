@@ -12,8 +12,11 @@ prev: true
   <div class="event-report">
     <a href="/9/report">イベントは終了しました。レポートはこちら</a>
   </div>
-  <div>
-    <a href="http://kzrb.doorkeeper.jp/events/3757">meetup #9</a>
+  <div class="event-participation">
+    <a href="http://kzrb.doorkeeper.jp/events/3757" target="_blank" rel="noopener" class="nav-list-link external">
+      受付終了: Doorkeeperのページ
+      <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
+    </a>
   </div>
 </div>
 
