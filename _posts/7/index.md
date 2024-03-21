@@ -77,7 +77,13 @@ Agile x Kanazawa.rb
 ゲストプロフィール
 ------------------
 
-<img style="margin-left: 1em; float: right" src="hiranabe.jpg" alt="hiranabe" />
+<div class="guest-profile">
+<div class="guest-image" markdown="1">
+
+![hiranabe](hiranabe.jpg)
+
+</div>
+<div markdown="1">
 
 **平鍋　健児（ひらなべ　けんじ）**
 
@@ -103,6 +109,9 @@ Agile x Kanazawa.rb
 
 -   株式会社チェンジビジョン <http://www.change-vision.com/>
 -   永和システムマネジメント <http://www.esm.co.jp/>
+
+</div>
+</div>
 
 ポジションペーパーについて
 --------------------------

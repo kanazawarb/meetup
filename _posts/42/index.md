@@ -51,7 +51,13 @@ prev: true
 
 ## ゲストプロフィール
 
-<img style="float: right; margin-left: 1em;" src="hiranabe.jpg" alt="hiranabe">
+<div class="guest-profile">
+<div class="guest-image" markdown="1">
+
+![hiranabe](hiranabe.jpg)
+
+</div>
+<div markdown="1">
 
 **平鍋　健児（ひらなべ　けんじ）**
 
@@ -60,6 +66,8 @@ prev: true
 
 さらに詳しいプロフィールにつきましては、[こちら](https://anagileway.wordpress.com/about/) や [ポジションペーパー](https://gist.github.com/kenjihiranabe/11459530f874a371872f) をご参照ください。
 
+</div>
+</div>
 
 ## ポジションペーパーについて
 

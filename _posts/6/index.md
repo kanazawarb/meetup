@@ -69,7 +69,13 @@ IIJ GIO
 ゲストプロフィール
 ------------------
 
-<img style="float: right; margin-left: 1em;" src="hirolovesbeer.jpg" alt="hirolovesbeer">
+<div class="guest-profile">
+<div class="guest-image" markdown="1">
+
+![hirolovesbeer](hirolovesbeer.jpg)
+
+</div>
+<div markdown="1">
 
 **阿部博（あべひろし）**
 
@@ -84,6 +90,9 @@ IIJ GIO
 GIOのシステム開発に携わり、現在はIIJで開発するPaaS、MOGOKの開発リーダーを務める。
 
 * Twitter : <http://twitter.com/hirolovesbeer>
+
+</div>
+</div>
 
 参考
 ----
