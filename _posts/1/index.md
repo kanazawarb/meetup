@@ -8,8 +8,11 @@ next: true
 prev: true
 ---
 
-<p>
-<a href="/1/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+<div class="event-links-wrapper">
+  <div class="event-report">
+    <a href="/1/report">イベントは終了しました。レポートはこちら</a>
+  </div>
+</div>
 
 kanazawa.rbってなに
 ===================

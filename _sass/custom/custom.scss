@@ -156,3 +156,14 @@ ul.slides {
     }
   }
 }
+
+.event-links-wrapper {
+  display: flex;
+  flex-flow: column;
+  align-items: flex-end;
+
+  .event-report {
+    font-weight: bold;
+  }
+}
+

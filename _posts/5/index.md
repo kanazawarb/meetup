@@ -8,15 +8,13 @@ next: true
 prev: true
 ---
 
-<p>
-<a href="/5/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
-
-<div class="doorkeeper-widget">
-<a href="http://kzrb.doorkeeper.jp/events/2380" class="doorkeeper-registration-widget">meetup
-#5</a>
-
-<script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
-</script>
+<div class="event-links-wrapper">
+  <div class="event-report">
+    <a href="/5/report">イベントは終了しました。レポートはこちら</a>
+  </div>
+  <div>
+    <a href="http://kzrb.doorkeeper.jp/events/2380">meetup #5</a>
+  </div>
 </div>
 
 meetup #5
