@@ -1,0 +1,19 @@
+<div class="event-links-wrapper">
+  {% if include.event_status == "closed" %}
+    <div class="event-report">
+      <a href="/{{ include.event_times }}/report">イベントは終了しました。レポートはこちら</a>
+    </div>
+  {% endif %}
+  {% if include.doorkeeper_url %}
+    <div class="event-participation">
+      <a href="{{ include.doorkeeper_url }}" target="_blank" rel="noopener" class="nav-list-link external">
+        {% if include.event_status == "open" %}
+          Doorkeeperでの申込みはこちら
+        {% elsif include.event_status == "closed" %}
+          受付終了: Doorkeeperのページ
+        {% endif %}
+        <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
+      </a>
+    </div>
+  {% endif %}
+</div>
