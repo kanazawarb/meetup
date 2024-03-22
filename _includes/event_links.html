@@ -1,7 +1,9 @@
 <div class="event-links-wrapper">
-  {% if include.event_status == "closed" %}
+  {% assign report_path = page.url | append: "report.md"  %}
+  {% capture report_exists %}{% file_exists {{ report_path }} %}{% endcapture %}
+  {% if include.event_status == "closed" and report_exists == "true" %}
     <div class="event-report">
-      <a href="/{{ include.event_times }}/report">イベントは終了しました。レポートはこちら</a>
+      <a href="{{ page.url }}report">イベントは終了しました。レポートはこちら</a>
     </div>
   {% endif %}
   {% if include.doorkeeper_url %}
