@@ -9,17 +9,7 @@ next: true
 prev: true
 ---
 
-<div class="event-links-wrapper">
-  <div class="event-report">
-    <a href="/15/report">イベントは終了しました。レポートはこちら</a>
-  </div>
-  <div class="event-participation">
-    <a href="http://kzrb.doorkeeper.jp/events/6745" target="_blank" rel="noopener" class="nav-list-link external">
-      受付終了: Doorkeeperのページ
-      <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
-    </a>
-  </div>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="http://kzrb.doorkeeper.jp/events/6745" %}
 
 meetup #15
 ===========
