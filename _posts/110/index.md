@@ -9,11 +9,7 @@ next: true
 prev: true
 ---
 
-<div style="text-align: right;"><a href="/110/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/127617">kanazawa.rb meetup #110</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/127617" %}
 
 # meetup #110
 
@@ -53,11 +49,11 @@ prev: true
 | タイトル                          | 時刻  | 時間 | 担当                                                    |
 |:----------------------------------|:-----:|:----:|:--------------------------------------------------------|
 | 開場                              | 13:00 |      |                                                         |
-| 自己紹介                           | 13:15 | 15m  | みんな                                                    | 
-| kanazawa.rb コミュニティの紹介      | 13:30 | 15m  | kanazawa.rb 井澤さん                                       |  
+| 自己紹介                           | 13:15 | 15m  | みんな                                                    |
+| kanazawa.rb コミュニティの紹介      | 13:30 | 15m  | kanazawa.rb 井澤さん                                       |
 | みんなのCSIRT コミュニティの紹介     | 13:45 | 15m  | みんなのCSIRT 小西さん                                      |
-| 梅内翼さん解説＋ハンズオン           | 14:00 | 60m  | 梅内翼さん                                                 | 
-| 休憩                             | 15:00 | 10m  |                                                           | 
+| 梅内翼さん解説＋ハンズオン           | 14:00 | 60m  | 梅内翼さん                                                 |
+| 休憩                             | 15:00 | 10m  |                                                           |
 | サイドチャネル攻撃のハンズオン＋解説  | 15:10 | 45m  | みんなのCSIRT 小西さん                                       |
 | 休憩                             | 15:55 | 10m  |                                                          |
 | ディスカッション                   | 16:05 | 45m  | みんな                                                     |
@@ -69,20 +65,20 @@ prev: true
   <a href="https://www.amazon.co.jp/gp/product/B094J7ZCJN/"><img src="https://images-na.ssl-images-amazon.com/images/I/51YSEjPKQdL._SL160_.jpg" height="160" width="109" alt="" title="" /></a>
 </div>
 
-セキュリティ競技CTFを幅広く丁寧に解説  
-情報セキュリティ技術を競う競技であるセキュリティコンテスト：CTF（Capture the Flag）。  
-本書ではCTFの基礎を、技術的な背景の解説を通して実践的に学んでいく一冊です。  
-現代のCTFにおいて主流である  
-　・Web (Webアプリケーションへの攻撃)  
-　・Crypto (暗号解読)  
-　・Reversing (バイナリ解析)  
-　・Pwnable (低級プログラムの掌握)  
-の4ジャンルについて取り扱います。  
+セキュリティ競技CTFを幅広く丁寧に解説
+情報セキュリティ技術を競う競技であるセキュリティコンテスト：CTF（Capture the Flag）。
+本書ではCTFの基礎を、技術的な背景の解説を通して実践的に学んでいく一冊です。
+現代のCTFにおいて主流である
+　・Web (Webアプリケーションへの攻撃)
+　・Crypto (暗号解読)
+　・Reversing (バイナリ解析)
+　・Pwnable (低級プログラムの掌握)
+の4ジャンルについて取り扱います。
 各パートの冒頭には、必要な基礎知識の説明が用意されています。幅広くかつ丁寧に解説していますので、現代CTFの傾向が理解できるとともに、競技を楽しむための足腰を鍛えることができます。
 「問題をどのような目線で分析するか」「どのような時に、どの解法を検討するか」といった、問題と向き合う際の思考法への言及にも注目してみてください。
-  
-情報セキュリティの技を磨く足掛かりに。  
-CTFに臨むための技術を理論と実践で身に付けよう  
+
+情報セキュリティの技を磨く足掛かりに。
+CTFに臨むための技術を理論と実践で身に付けよう
 
 ## 懇親会について
 
