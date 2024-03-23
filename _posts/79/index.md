@@ -9,8 +9,7 @@ next: true
 prev: true
 ---
 
-<div style="text-align: right;"><a href="/79/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
+{% include event_links.html is_event_open_or_closed="closed" %}
 
 # HashiCorp Terraform & Vault Enterprise 勉強会 in 金沢 (meetup #79)
 
