@@ -1,7 +1,7 @@
 <div class="event-links-wrapper">
   {% assign report_path = page.url | append: "report.md"  %}
   {% capture report_exists %}{% file_exists {{ report_path }} %}{% endcapture %}
-  {% if include.event_status == "closed" and report_exists == "true" %}
+  {% if include.is_event_open_or_closed == "closed" and report_exists == "true" %}
     <div class="event-report">
       <a href="{{ page.url }}report">イベントは終了しました。レポートはこちら</a>
     </div>
@@ -9,9 +9,9 @@
   {% if include.doorkeeper_url %}
     <div class="event-participation">
       <a href="{{ include.doorkeeper_url }}" target="_blank" rel="noopener" class="nav-list-link external">
-        {% if include.event_status == "open" %}
+        {% if include.is_event_open_or_closed == "open" %}
           Doorkeeperでの申込みはこちら
-        {% elsif include.event_status == "closed" %}
+        {% elsif include.is_event_open_or_closed == "closed" %}
           受付終了: Doorkeeperのページ
         {% endif %}
         <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
