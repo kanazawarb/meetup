@@ -8,11 +8,7 @@ next: true
 prev: true
 ---
 
-<div class="event-links-wrapper">
-  <div class="event-report">
-    <a href="/1/report">イベントは終了しました。レポートはこちら</a>
-  </div>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" %}
 
 kanazawa.rbってなに
 ===================
