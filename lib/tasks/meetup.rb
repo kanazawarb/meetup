@@ -150,6 +150,12 @@ module Meetup
       File.write(prev_index_path, str)
     end
 
+    def change_is_event_open_or_closed_to_closed_in_prev_index
+      prev_index_path = File.join(ROOT_PATH, "_posts", "#{@number - 1}", "index.md")
+      str = File.read(prev_index_path).sub(/(event_links\.html\s+is_event_open_or_closed\s*=\s*")open(")/, '\1closed\2')
+      File.write(prev_index_path, str)
+    end
+
     def enable_link_in_prev_report
       prev_report_path = File.join(ROOT_PATH, "_posts", "#{@number - 1}", "report.md")
       str = File.read(prev_report_path).sub("#next", "next")

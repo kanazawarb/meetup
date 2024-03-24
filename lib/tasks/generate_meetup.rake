@@ -117,6 +117,7 @@ namespace :meetup do
       e.generate_file(e.dest_dir, 'report.md')
     }
     event.enable_link_in_prev_report
+    event.change_is_event_open_or_closed_to_closed_in_prev_index
 
     if exist_index?(current_time)
       event.replace_doorkeeper_guide_wording
