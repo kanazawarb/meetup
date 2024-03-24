@@ -10,14 +10,7 @@ prev: true
 
 ---
 
-<div style="text-align: right;"><a href="/135/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-  <a href="https://jawsug-kanazawa.doorkeeper.jp/events/163630" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
-    受付終了: Doorkeeperのページ
-    <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
-  </a>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://jawsug-kanazawa.doorkeeper.jp/events/163630" %}
 
 # Ruby on Rails on App Runner ハンズオン(meetup #135)
 
