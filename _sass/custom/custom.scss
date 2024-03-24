@@ -118,7 +118,7 @@ ul.slides {
   flex-flow: column;
 }
 
-@media (map-get($media-queries, sm) <=width) {
+@media (map-get($media-queries, sm) <= width) {
   .guest-profile {
     flex-flow: row-reverse;
 
