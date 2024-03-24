@@ -11,19 +11,17 @@ prev: true
 ---
 
 <!--
+  - イベント参加者の募集
+    - している時: is_event_open_or_closed="open"
+    - していない時: is_event_open_or_closed="closed"
+  - Doorkeeperのイベントページ
+    - ある時: doorkeeper_url="<ここにURLを入力>"
+    - ない時 <何も書かない>
 
-終了後記入
-
-<div style="text-align: right;"><a href="/<%= next_time %>/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
+is_event_open_or_closed="closed"の時にreport.mdがあればレポートページのリンクが表示される
 -->
 
-<div class="doorkeeper-widget">
-  <a href="https://kzrb.doorkeeper.jp/events/<%= doorkeeper_id %>" target="_blank" rel="noopener" class="nav-list-link external doorkeeper-widget__text">
-    Doorkeeperでの申込みはこちら
-    <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg>
-  </a>
-</div>
+{% include event_links.html is_event_open_or_closed="open" doorkeeper_url="https://kzrb.doorkeeper.jp/events/<%= doorkeeper_id %>" %}
 
 # Meetup #<%= next_time %>
 
