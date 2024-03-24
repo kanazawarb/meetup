@@ -8,11 +8,7 @@ next: true
 prev: true
 ---
 
-<div style="text-align: right;"><a href="/42/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/36346">meetup #42</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/36346" %}
 
 # meetup #42
 
@@ -51,7 +47,13 @@ prev: true
 
 ## ゲストプロフィール
 
-<img style="float: right; margin-left: 1em;" src="hiranabe.jpg" alt="hiranabe">
+<div class="guest-profile">
+<div class="guest-image" markdown="1">
+
+![hiranabe](hiranabe.jpg)
+
+</div>
+<div markdown="1">
 
 **平鍋　健児（ひらなべ　けんじ）**
 
@@ -60,6 +62,8 @@ prev: true
 
 さらに詳しいプロフィールにつきましては、[こちら](https://anagileway.wordpress.com/about/) や [ポジションペーパー](https://gist.github.com/kenjihiranabe/11459530f874a371872f) をご参照ください。
 
+</div>
+</div>
 
 ## ポジションペーパーについて
 

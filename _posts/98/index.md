@@ -9,11 +9,7 @@ next: true
 prev: true
 ---
 
-<div style="text-align: right;"><a href="/98/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/112882">kanazawa.rb Twilioハンズオン (meetup #98)</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/112882" %}
 
 # meetup #98
 
@@ -52,9 +48,9 @@ prev: true
 |:----------------------------------|:-----:|:----:|:--------------------------------------------------------|
 | 開場                              | 13:00 |      |                                                         |
 | 講義セッション                    | 13:15 | 15m  | Twilio 池原さん                                                        |
-| ハンズオン                        | 13:30 | 120m | Twilio 池原さん                                                        | 
-| 休憩                              | 15:30 | 15m  |                                                         | 
-| ディスカッション                  | 15:45 | 60m  |  みんな                                                       | 
+| ハンズオン                        | 13:30 | 120m | Twilio 池原さん                                                        |
+| 休憩                              | 15:30 | 15m  |                                                         |
+| ディスカッション                  | 15:45 | 60m  |  みんな                                                       |
 | クロージング                      | 16:45 | 5m   | みんな                                                  |
 
 ## 懇親会について

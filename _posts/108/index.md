@@ -9,11 +9,7 @@ next: true
 prev: true
 ---
 
-<div style="text-align: right;"><a href="/108/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/125406">kanazawa.rb meetup #108</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/125406" %}
 
 # meetup #108
 
@@ -126,7 +122,7 @@ kanazawa.rb はカンファレンスでも勉強会でもない！
 | エアコンの操作についての話 | | 5min |  井澤ゆきみつさん |
 | Rspecを学ぶにあたって参考になった本・記事 | | 5min | Ryusei Nomi(とんと)さん |
 | Swagger頑張ったー | | 5min |  Keisuke Oohataさん |
-| ソーシャルネットワークで炎上を避けるノウハウ | | 5min | satさん | 
+| ソーシャルネットワークで炎上を避けるノウハウ | | 5min | satさん |
 | 最近のデスク周りの diff | | 5min |  muryoimplさん |
 | Kubernetes知らない人にKubernetesのoperatorを説明する| | 5min |  satさん |
 | geektoolでライブ壁紙  | | 5min | izawa |

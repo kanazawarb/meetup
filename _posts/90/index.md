@@ -9,7 +9,7 @@ next: true
 prev: true
 ---
 
-<div style="text-align: right;"><a href="/90/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+{% include event_links.html is_event_open_or_closed="closed" %}
 
 # JP\_Stripes (Stripe ユーザーグループ）in 金沢 キックオフ!! with Kanazawa.rb & JAWS-UG金沢 (meetup #90)
 
