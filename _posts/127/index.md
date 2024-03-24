@@ -10,11 +10,7 @@ prev: true
 
 ---
 
-<div style="text-align: right;"><a href="/127/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/152375">kanazawa.rb meetup #127</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/152375" %}
 
 # Meetup #127
 

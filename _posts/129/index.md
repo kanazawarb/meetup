@@ -10,13 +10,13 @@ prev: true
 
 ---
 
-<div style="text-align: right;"><a href="/129/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
+{% include event_links.html is_event_open_or_closed="closed" %}
 
 # Cloudflare Meetup Kanazawa Kick off!! (meetup #129)
 
 Kanazawa.rb, [Toyama.rb](https://toyamarb.github.io/), [ふくもく会](https://fukumoku.connpass.com/) の三つの勉強会コミュニティのバックアップのもと、 [Cloudflare](https://www.cloudflare.com/ja-jp/) の公式 meetup が金沢で開催されます。
 
-インターネット全体の高機能化や高速化を司る Cloudflare. 
+インターネット全体の高機能化や高速化を司る Cloudflare.
 代表的なサービスである CDN だけにとどまらず、多様なサービスが次々と追加されています。
 2023年の今、どういったサービスがあり、どういった用途に使えるのか、基本的なところから網羅的にお話を伺い、自分たちのサービス運用に活用しましょう！
 
