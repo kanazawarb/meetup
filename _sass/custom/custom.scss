@@ -35,30 +35,11 @@ ul.slides {
   }
 }
 
-// doorkeeper widget
-.doorkeeper-widget {
-  width: 300px;
-  float: right;
-  position: relative;
-  z-index: 1;
-
-  .doorkeeper-widget__text {
-    display: block;
-    text-align: right;
-
-    svg {
-      height: 1em;
-      width: 1em;
-      vertical-align: text-bottom;
-    }
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .doorkeeper-widget {
-    float: none;
-    margin: 0 auto;
-    width: 100%;
+.event-participation {
+  svg {
+    height: 1em;
+    width: 1em;
+    vertical-align: text-bottom;
   }
 }
 
@@ -129,4 +110,40 @@ ul.slides {
   display: inline-block;
   vertical-align: middle;
   line-height: 25px;
+}
+
+.guest-profile,
+.kanazawa-rb-profile {
+  display: flex;
+  flex-flow: column;
+}
+
+@media (map-get($media-queries, sm) <= width) {
+  .guest-profile {
+    flex-flow: row-reverse;
+
+    .guest-image {
+      flex-shrink: 0;
+      margin-left: 1em;
+    }
+  }
+
+  .kanazawa-rb-profile {
+    flex-flow: row nowrap;
+
+    .kanazawa-rb-logo {
+      flex-shrink: 0;
+      margin-right: 2em;
+    }
+  }
+}
+
+.event-links-wrapper {
+  display: flex;
+  flex-flow: column;
+  align-items: flex-end;
+
+  .event-report {
+    font-weight: bold;
+  }
 }

@@ -8,16 +8,7 @@ next: true
 prev: true
 ---
 
-<p>
-<a href="/6/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
-
-<div class="doorkeeper-widget">
-<a href="http://kzrb.doorkeeper.jp/events/2606" class="doorkeeper-registration-widget">meetup
-#6</a>
-
-<script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
-</script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="http://kzrb.doorkeeper.jp/events/2606" %}
 
 meetup #6
 ==========
@@ -69,7 +60,13 @@ IIJ GIO
 ゲストプロフィール
 ------------------
 
-<img style="float: right; margin-left: 1em;" src="hirolovesbeer.jpg" alt="hirolovesbeer">
+<div class="guest-profile">
+<div class="guest-image" markdown="1">
+
+![hirolovesbeer](hirolovesbeer.jpg)
+
+</div>
+<div markdown="1">
 
 **阿部博（あべひろし）**
 
@@ -84,6 +81,9 @@ IIJ GIO
 GIOのシステム開発に携わり、現在はIIJで開発するPaaS、MOGOKの開発リーダーを務める。
 
 * Twitter : <http://twitter.com/hirolovesbeer>
+
+</div>
+</div>
 
 参考
 ----

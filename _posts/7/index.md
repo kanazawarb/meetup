@@ -8,16 +8,7 @@ next: true
 prev: true
 ---
 
-<p>
-<a href="/7/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
-
-<div class="doorkeeper-widget">
-<a href="http://kzrb.doorkeeper.jp/events/3033" class="doorkeeper-registration-widget">meetup
-#7</a>
-
-<script src="https://d1dqic1fklzs1z.cloudfront.net/assets/widget.js" type="text/javascript">
-</script>
-</div>
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="http://kzrb.doorkeeper.jp/events/3033" %}
 
 meetup #7
 ==========
@@ -77,7 +68,13 @@ Agile x Kanazawa.rb
 ゲストプロフィール
 ------------------
 
-<img style="margin-left: 1em; float: right" src="hiranabe.jpg" alt="hiranabe" />
+<div class="guest-profile">
+<div class="guest-image" markdown="1">
+
+![hiranabe](hiranabe.jpg)
+
+</div>
+<div markdown="1">
 
 **平鍋　健児（ひらなべ　けんじ）**
 
@@ -103,6 +100,9 @@ Agile x Kanazawa.rb
 
 -   株式会社チェンジビジョン <http://www.change-vision.com/>
 -   永和システムマネジメント <http://www.esm.co.jp/>
+
+</div>
+</div>
 
 ポジションペーパーについて
 --------------------------

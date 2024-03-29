@@ -8,8 +8,7 @@ next: true
 prev: true
 ---
 
-<p>
-<a href="/2/report"><strong>イベントは終了しました。レポートはこちら</strong></a></p>
+{% include event_links.html is_event_open_or_closed="closed" %}
 
 meetup #2
 ==========

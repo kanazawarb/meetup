@@ -9,13 +9,9 @@ next: true
 prev: true
 ---
 
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/114713" %}
+
 # meetup #100
-
-<div style="text-align: right;"><a href="/100/report"><strong>イベントは終了しました。レポートはこちら</strong></a></div>
-
-<div class="doorkeeper-widget">
-<a class="doorkeeper-registration-widget" href="https://kzrb.doorkeeper.jp/events/114713">kanazawa.rb meetup #100</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-</div>
 
 ## 祝100回記念 & 年末 LT 大会 - オンライン
 
