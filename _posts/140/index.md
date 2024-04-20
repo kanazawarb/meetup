@@ -76,6 +76,23 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT 発表                           |       |      |                                                         |
+|zoxideのご紹介|| 5m | takayukiatkwsk |
+|俺とキャンプ 3|| 5m | satoru.takeuchi |
+|至高のパンを求めて|| 5m | yuki	|
+|‘GitHub Copilot Chat でインクリメンタルに開発する’|| 5m | kyanny |
+|キーワード検索を置き換える話 その1 || 5m |  kiyohara |
+|‘The Power の紹介’|| 5m |  kyanny |
+|プログラミングと私 || 5m | t.miyakawa244 |
+|キーワード検索を置き換える話 その2|| 5m |  kiyohara |
+|Pythonと私 || 5m |  t.miyakawa244| 
+|開発環境公開するよ|| 5m | cotton |
+|俺と開発環境2024春|| 5m |  pharaohkj |
+|俺とキャンプ 2|| 5m | satoru.takeuchi |
+|ちょっと遠出してビールを飲みに行った話|| 5m | takayukiatkwsk |
+|開発環境公開するよ|| 5m | cotton |
+|時代と私|| 5m | t.miyakawa244 |
+|‘AI コードエディタ Cursor でインクリメンタルに開発する’|| 5m |  kyanny |
+|俺とレシート撮影|| 5m | pharaohkj |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
