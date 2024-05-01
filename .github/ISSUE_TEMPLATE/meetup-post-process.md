@@ -1,5 +1,5 @@
 ---
-name: meetup post process
+name: meetup イベント後対応
 about: meetup イベントの後で実施するタスク
 title: meetup XX イベント後対応
 labels: ''
@@ -8,24 +8,14 @@ assignees: ''
 ---
 
 ## レポートを作成する
+- [ ] 運営ブレストログ(github wiki)
 - [ ] ツイートまとめ(togetter) ... 後述手順参照
 - [ ] 写真アルバム(30days) ... 後述手順参照
 - [ ] レポートページ
-- [ ] 運営ブレストログ(github wiki)
 
 ## レポートをアナウンスする
-- ツイートまとめ(togetter)
-    - [ ] Twitter
-    - [ ] Facebook
-    - [ ] ruby-jp slack
-- 写真アルバム(30days)
-    - [ ] Twitter
-    - [ ] Facebook
-    - [ ] ruby-jp slack
-- レポートページ
-    - [ ] Twitter
-    - [ ] Facebook
-    - [ ] ruby-jp slack
+- [ ] buffer(twitter, facebook, mastodon)
+- [ ] ruby-jp slack
 
 ---
 
