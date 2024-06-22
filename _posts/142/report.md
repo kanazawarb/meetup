@@ -18,12 +18,11 @@ prev: true
 
 * kanazawa.rb 参加するために教材のリポジトリーをダウンロードして、Python3.9.7もインストールしました。
 * Kanazawa.rb 12周年記念グッズ何作ろうか。
-  持ち運びやすくて、保存性が良くて、値段が安くて、もらって困らないもの。結構難しい。
+  + 持ち運びやすくて、保存性が良くて、値段が安くて、もらって困らないもの。結構難しい。
 * Cloudflare R2のイベント通知を試してみる
   + [R2 adds event notifications, support for migrations from Google Cloud Storage, and an infrequent access storage tier](https://blog.cloudflare.com/r2-events-gcs-migration-infrequent-access)
 * よくこれわかったな…で私の手元で動かなかった原因もこれだった。
   + [Docker-credential-desktop.exe executable file not found in $PATH using wsl2](https://forums.docker.com/t/docker-credential-desktop-exe-executable-file-not-found-in-path-using-wsl2/100225)
-* 
 * 今日は会の後にはみだしましたがyoutube動画を二つ公開しました。非常に生産的でした。ありがとうございます。もくもく会駆動進捗
 
 ## 運営ブレストログ
