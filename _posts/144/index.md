@@ -107,6 +107,29 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT 発表                           |       |      |                                                         |
+| 動作中のLinux環境の全メモリを見る | | | satoru.takeuchi |
+| "11か月の軌跡" | | | yuukiiwakura06 |
+| 私のパソコン環境' | | | t.miyakawa244 |
+| 俺とスクラムフェス金沢ロゴデザインプロセス | | | pharaohkj |
+| 休憩 | | | |
+| fukui.rb | | | t.taketo1113 |
+| '*Ruby de Wasm'* | | | wtnabe |
+| '年に一回、関西で鱧料理を食べるイベントを一人でやっていますというLTをやった' | | | muryoimpl |
+| *俺とスケールする体制のためのアンケート項目* | | | pharaohkj |
+| 休憩 | | | |
+| '頑張って作った GitHub Actions をみてくれー' | | | muryoimpl |
+| tolirogy gem 使ってみた | | | t.taketo1113 |
+| AWKへの愛を語る | | | satoru.takeuchi |
+| "自分流ものづくりの基本フロー" | | | yuki |
+| 休憩 | | | |
+| ポーリングとは？ | | | kanontonto1010 |
+| 7月12日天国と地獄 | | | cotton |
+| "最近買ったキャンプ道具" | | | yuki |
+| Jekyll & Ubuntu & GitHub Page' | | | t.miyakawa244 |
+| 休憩 | | | |
+| VTuberを本気で頑張ってみた | | | kanontonto1010 |
+| 'Cloud Native Buildpacksって結局どうなの？' | | | wtnabe |
+| rails-ujs 移行難民 | | | t.taketo1113 |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
