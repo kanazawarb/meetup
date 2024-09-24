@@ -6,6 +6,12 @@ nav_order: 5
 
 # 過去の周年ノベルティ
 
+## 12周年記念（ハンドタオル）
+
+![](/144/towel.jpg)
+
+今回も [@Yukimitsu\_Izawa](https://twitter.com/Yukimitsu_Izawa/) さんにご寄付いただきました
+
 ## 11周年記念（ふせん）
 
 ![](/132/post-it.jpg)
