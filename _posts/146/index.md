@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: "Meetup #145"
+title: "Meetup #146"
 nav_exclude: true
 published: true
-number: 145
-next: true
+number: 146
+#next: true
 prev: true
 
 ---
@@ -21,9 +21,9 @@ prev: true
 is_event_open_or_closed="closed"の時にreport.mdがあればレポートページのリンクが表示される
 -->
 
-{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/177432" %}
+{% include event_links.html is_event_open_or_closed="open" doorkeeper_url="https://kzrb.doorkeeper.jp/events/178412" %}
 
-# Meetup #145
+# Meetup #146
 
 ## 意識高いもくもく会
 
@@ -33,7 +33,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2024年09月21日(土) 13:00 - 17:00 |
+| **日時**   | 2024年10月19日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -51,7 +51,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup145` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup146` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
