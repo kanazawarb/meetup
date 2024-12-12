@@ -29,9 +29,9 @@ is_event_open_or_closed="closed"の時にreport.mdがあればレポートペー
 
 北陸三県で活動する三つの Ruby コミュニティが合同イベントを開催いたします。
 
-* Toyama.rb ... https://toyamarb.github.io/ (富山県)
-* Kanazawa.rb ... https://kzrb.org/ (石川県)
-* fukui.rb ... https://fukuirb.connpass.com/ (福井県)
+* Toyama.rb ... [https://toyamarb.github.io/](https://toyamarb.github.io/) (富山県)
+* Kanazawa.rb ... [https://kzrb.org/](https://kzrb.org/) (石川県)
+* fukui.rb ... [https://fukuirb.connpass.com/](https://fukuirb.connpass.com/) (福井県)
 
 ※都道府県コード順
 
