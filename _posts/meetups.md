@@ -12,6 +12,15 @@ description: "開催した Meetup のレポートです"
 
 <ul>
   <li class="meetup__card">
+    <a href="/149" class="meetup__link">Meetup#149
+      <span class="meetup__date text-grey-dk-000">2025-01-18 (Sat)</span>
+      <p class="meetup__description text-grey-dk-300">
+        北陸三県.rb Lightning Talks in Kanazawa - オフライン
+      </p>
+    </a>
+  </li>
+
+  <li class="meetup__card">
     <a href="/148" class="meetup__link">Meetup#148
       <span class="meetup__date text-grey-dk-000">2024-12-21 (Sat)</span>
       <p class="meetup__description text-grey-dk-300">
