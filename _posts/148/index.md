@@ -89,6 +89,14 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | 休憩 | | | |
 | Tor、匿名性インターネット | | | arice.gear |
 | LTイベント運営をいいがにやりたい | | | kiyohara |
+| ActivityPubに移行しよう - 社会編 - | | | nagutabby |
+| スライドの画像をいいがにしたい | | | kiyohara |
+| 自己紹介 | | | bohemian916 |
+| co-opのすすめ | | | keiko713 |
+| 休憩 | | | |
+| 2024 年に読んだ本レビュー' | | | kyanny |
+| Kubernetesのコントローラプログラミングつらい | | | satoru.takeuchi |
+| ハイテク休息 | | | satoru.takeuchi |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
