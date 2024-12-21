@@ -97,6 +97,7 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | 2024 年に読んだ本レビュー' | | | kyanny |
 | Kubernetesのコントローラプログラミングつらい | | | satoru.takeuchi |
 | ハイテク休息 | | | satoru.takeuchi |
+| 近況報告 | | | kentaro.m811 |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
