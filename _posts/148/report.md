@@ -3,13 +3,12 @@
 layout: report
 title: "Meetup #148 report"
 nav_exclude: true
-published: false
+published: true
 number: 148
 #next: true
 prev: true
 
 ---
-<!-- 公開時は上記 published: false を true に変更する -->
 
 <div style="text-align: left;"><a href="/148"><strong>アナウンスページはこちら</strong></a></div>
 
@@ -17,16 +16,16 @@ prev: true
 
 ## 話題
 
-<!-- 適宜サマライズを記入するか、X(旧twitter) の #kzrb あたりからピックアップする -->
+* 1月のネタは流石にRubyやらないとまずいよね〜。
+* LT大会始まりました。
+* kzltコマンドの神がおられる
+* Kanazawa.rb meetup 148 izawa さんのオープニングからスタートです！ [[写真]](https://x.com/kiyohara/status/1870329232049819760/photo/1)
+* Kanazawa.rb meetup 148 done!! [[写真]](https://x.com/kiyohara/status/1870380654241980721/photo/1)
+* Kanazawa.rb 懇親会! [[写真]](https://x.com/kiyohara/status/1870401130880196820/photo/1)
 
-* XXX
-
-<!-- 運営ブレストができた場合はログを作成してリンクを記載する
 ## 運営ブレストログ
 
 * [meetup 148 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-148-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
-
--->
 
 ## まとめ
 
@@ -48,22 +47,15 @@ prev: true
 * [co-opのすすめ - Google スライド](https://docs.google.com/presentation/d/1WearXwRIM2xp2JZFzLYvy3m_SvozRXgZP4Fae5cigb4/edit#slide=id.p)
 * [ハイテク休憩 - Speaker Deck](https://speakerdeck.com/sat/haitekuxiu-qi)
 
-<!-- 分かっている範囲でリンクがあれば列挙する
-## 参加者のブログ
-
-* XXX
-
--->
-
-
 ## 収支
-
-<!-- 適宜更新する(以下は meetup 148 の内容を例示) -->
 
 * 前回の meetup 開催後から今回 meetup 開催後までのお金の出入り
 
-|項目                           |金額         |補足                                               |
-|:------------------------------|------------:|:--------------------------------------------------|
-| 前回繰越金                    |       XXX円 |                                                   |
+| 項目                    |       金額 | 補足                 |
+|:----------------------|---------:|:-------------------|
+| 前回繰越金                 |  24,344円 |                    |
+| 三県合同 meetup 会場費(夜間)   | -6,910円 | 先行支払済                                           |
+| ノベルティ ドネーション金額        |  +1,824円 |                    |
+| meetup 148 参加費合計(12名) | +21,000円 | 支援 10名 / 一般チケット 2名 |
 
-**次回繰越**  XXX 円
+**次回繰越**  40,258 円
