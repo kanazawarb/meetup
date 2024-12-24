@@ -37,9 +37,9 @@ prev: true
 
 ## スライド
 
-* [Kanazawa.rb meetup #148 | 入門 csvkit - Google スライド](https://docs.google.com/presentation/d/1YMyufZsHb2FhK5UuxIbRrJkNcP9JPAMdg6cTfVJezFE/edit#slide=id.p)
+* [Kanazawa.rb meetup #148 \| 入門 csvkit - Google スライド](https://docs.google.com/presentation/d/1YMyufZsHb2FhK5UuxIbRrJkNcP9JPAMdg6cTfVJezFE/edit#slide=id.p)
 * [Go言語のここが好き！ 初心者目線で見るGoの魅力 - Google スライド](https://docs.google.com/presentation/d/1KnBABT3_ZYP39w_UbBWgX77ngxopzeN2HPBADXb3lOc/edit#slide=id.p)
-* [Kanazawa.rb meetup #148 | 2024 ツエーゲン金沢ほぼ全試合レビュー - Google スライド](https://docs.google.com/presentation/d/1qffvN4QKKKSvoE8aK9zXSitmdkA0IR0o1YJPbnRGdm0/edit#slide=id.p)
+* [Kanazawa.rb meetup #148 \| 2024 ツエーゲン金沢ほぼ全試合レビュー - Google スライド](https://docs.google.com/presentation/d/1qffvN4QKKKSvoE8aK9zXSitmdkA0IR0o1YJPbnRGdm0/edit#slide=id.p)
 * [自分用趣味アプリを作っている話 - Speaker Deck](https://speakerdeck.com/takayukiatkwsk/zi-fen-yong-qu-wei-apuriwozuo-tuteiruhua)
 * [Goは並列処理が速いと言われる理由 - Google スライド](https://docs.google.com/presentation/d/1QyEOIhXKrBf1J78usKxnF2P_t5M11zDOH8miJSqDVjI/edit#slide=id.p)
 * [Tor、匿名性インターネット インターネットの匿名性、その重要性について - Google スライド](https://docs.google.com/presentation/d/1TiUIBo_WUIUb8SS1Wdu-8L1Hp-RHO7RFuH_F0DJ1BD0/edit#slide=id.p)
