@@ -23,6 +23,10 @@ is_event_open_or_closed="closed"の時にreport.mdがあればレポートペー
 
 {% include event_links.html is_event_open_or_closed="open" doorkeeper_url="https://kzrb.doorkeeper.jp/events/180430" %}
 
+<div style="text-align:center">
+<img src="banner.png" style="width: 100%">
+</div>
+
 # 北陸三県.rb Lightning Talks in Kanazawa
 
 ## 概要
