@@ -6,8 +6,8 @@ permalink: /
 ---
 <div>
   <p class="d-inline-block label label-red ml-0">注目</p>
-  <a href="/148" class="home__latest-meetup-link">
-    最新の Meetup#148 はこちらへ
+  <a href="/149" class="home__latest-meetup-link">
+    最新の「北陸三県.rb Lightning Talks in Kanazawa」はこちらへ
   </a>
 </div>
 
