@@ -90,6 +90,12 @@ Ruby やプログラミングに関する発表はもちろんのこと、例え
 | 休憩 | | | |
 | 北陸新幹線乗車中のモバイル回線の通信速度を可視化してみた | | | bohemian916 |
 | RubyでKubernetesプログラミング | | | satoru.takeuchi |
+| 5 min Jekyll/Liquid Plugin cooking | | | wtnabe |
+| 俺とメールへのリンク | | | pharaohkj |
+| 休憩 | | | |
+| 海外新卒と一緒に働く | | | taiju |
+| 先ほどのつづきを… | | | kiyohara |
+| Arch Linuxを使おう | | | arice.gear |
 | 挨拶＆片付け                      | 17:10 | 10m  |                                                         |
 | 雑談タイム                        | 17:20 | 20m  |                                                         |
 
