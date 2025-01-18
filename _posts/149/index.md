@@ -84,7 +84,7 @@ Ruby やプログラミングに関する発表はもちろんのこと、例え
 | EnvoyのWasm filterを体験する | | | takayukiatkwsk |
 | 休憩 | | | |
 | IPAddr 2024 | | | t.taketo1113 |
-| 富山Ruby会議01 をふりかえる | | | kuni.110.92 |
+| 富山Ruby会議01 をふりかえる | | | kunitoo |
 | 俺とRubyの昔話 | | | yamada.hirotak |
 | 令和7年版 あなたが使ってよいフロントエンド技術とは | | | mugi.uno |
 | 休憩 | | | |
