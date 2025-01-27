@@ -1,7 +1,7 @@
 ---
 
 layout: report
-title: "Meetup #149 report"
+title: "北陸三県.rb Lightning Talks in Kanazawa report"
 nav_exclude: true
 published: true
 number: 149
