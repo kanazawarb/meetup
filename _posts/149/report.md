@@ -67,7 +67,7 @@ prev: true
 ## スライド
 
 * [Tor Tails - Google スライド](https://docs.google.com/presentation/d/1-_wmFD3ESpcWJ7eYRQ6ZXcvAFXlpCoXAP_wJpTaXNgU/edit#slide=id.p)
-* [OpenSCADはじめました](https://noboru.dev/slide/202501-kzrb/dist/1)
+* [OpenSCADはじめました](https://noboru.dev/slide/202501-kzrb/dist/index.html)
 * [Effective Jekyll - Speaker Deck](https://speakerdeck.com/wtnabe/effective-jekyll)
 * [ヨシケイの取り忘れ対策した - Speaker Deck](https://speakerdeck.com/cottondesu/measures-were-taken-to-prevent-forgetting-to-pick-up-yoshikei)
 * [RubyでXDPプログラミング - Speaker Deck](https://speakerdeck.com/izawa/rubydexdppuroguramingu)
