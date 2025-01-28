@@ -57,7 +57,7 @@ prev: true
 * in の右左逆な感覚受けたけど、こういう構造です、っていう前提だと考えると理解できた
 * [https://archlinux.org/](https://archlinux.org/) 無骨感
 * 北陸三県.rb Lightning Talks in Kanazawa 終了！めちゃ面白かった！
-  + [[集合写真]](https://30d.jp/kzrb/137/photo/124))
+  + [[集合写真]](https://30d.jp/kzrb/137/photo/124)
 
 ## まとめ
 
