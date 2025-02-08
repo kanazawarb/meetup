@@ -5,7 +5,7 @@ title: "北陸三県.rb Lightning Talks in Kanazawa"
 nav_exclude: true
 published: true
 number: 149
-#next: true
+next: true
 prev: true
 
 ---
