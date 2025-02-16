@@ -33,9 +33,11 @@ assignees: ''
 
 ### ツイートまとめの作成手順について
 * [ツイートまとめ(togetter) 作成手順](https://github.com/kanazawarb/meetup/wiki/how-to-write-together)
+* サンプル : https://posfie.com/@kiyohara/p/qLs6U9N
 
 ### 写真アルバムの作成手順について
 * [写真アルバム(30days) 作成手順](https://github.com/kanazawarb/meetup/wiki/30days-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86)
+* サンプル : https://30d.jp/kzrb/136
 
 ### レポートページの作成手順について
 * https://github.com/kanazawarb/meetup/ を編集してレポートページ毎に PR を作成してください
