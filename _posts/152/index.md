@@ -72,6 +72,12 @@ is_event_open_or_closed="closed"の時にreport.mdがあればレポートペー
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT 発表                           |       |      |                                                         |
+| 「KVM-Mをつくった話」  | |  15m | @izawa |
+| 「Ruby で MCP Server を作ってみた」 | | 30m  | @kiyohara  |
+| 休憩   |  | 10m  | みんな  |
+| 「Practical Query Tuning in PostgreSQL（の練習）」 |   |  30m  |  @Keiko Oda |
+| 「argo-rolloutsにコミットした話」 |  |  15m  | @takayukiatkwsk |
+| 「ブログ記事をLLMファインチューニングできる形にした話」  |  |  15m  | @miyakawa2449 |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
