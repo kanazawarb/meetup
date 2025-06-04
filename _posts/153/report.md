@@ -32,7 +32,7 @@ prev: true
 <!-- posfie, 30days のリンクをいれる -->
 
 * [kanazawa.rb meetup 153 - posfie](https://posfie.com/@cotton_desu/p/82heVeD)
-* [Kanazawa.rb meetup 153 - 30days](http://30d.jp/kzrb/141)
+* [Kanazawa.rb meetup 153 - SUZURIアルバム](http://30d.jp/kzrb/141)
 
 ## 収支
 
