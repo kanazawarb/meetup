@@ -1,7 +1,7 @@
 ---
 name: meetup イベント後対応
 about: meetup イベントの後で実施するタスク
-title: meetup XX イベント後対応
+title: meetup NNN イベント後対応
 labels: ''
 assignees: ''
 
@@ -9,8 +9,8 @@ assignees: ''
 
 ## レポートを作成する
 - [ ] 運営ブレストログ(github wiki)
-- [ ] ツイートまとめ(togetter)
-- [ ] 写真アルバム(30days)
+- [ ] ツイートまとめ(posfie)
+- [ ] 写真アルバム(SUZURIアルバム)
 - [ ] レポートページ
 
 ## レポートをアナウンスする
@@ -31,12 +31,12 @@ assignees: ''
   * 他のやり方として Dropbox の共有スペースにメモを残しておき、それを参照しながら後から wiki 化する場合もあります
   * 運営のお手伝いに手を上げてくださった方は Dropbox の共有スペースに招待させていただいています
 
-### ツイートまとめの作成手順について
-* [ツイートまとめ(togetter) 作成手順](https://github.com/kanazawarb/meetup/wiki/how-to-write-together)
+### Xポストまとめの作成手順について
+* [ツイートまとめ(posfie) 作成手順](https://github.com/kanazawarb/meetup/wiki/how-to-write-together)
 * サンプル : https://posfie.com/@kiyohara/p/qLs6U9N
 
 ### 写真アルバムの作成手順について
-* [写真アルバム(30days) 作成手順](https://github.com/kanazawarb/meetup/wiki/30days-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86)
+* [写真アルバム(SUZURIアルバム) 作成手順](https://github.com/kanazawarb/meetup/wiki/30days-%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86)
 * サンプル : https://30d.jp/kzrb/136
 
 ### レポートページの作成手順について
@@ -59,7 +59,7 @@ assignees: ''
     * 例
 
 ```
-20XX年X月X日(土) に実施した Kanazawa.rb meetup XX のツイートをまとめました。
+20XX年X月X日(土) に実施した Kanazawa.rb meetup NNN のXポストをまとめました。
 次回は 20XX年X月X日(土) を予定しています。
 
 #kzrb
@@ -71,26 +71,26 @@ https://togetter.com/li/XXX
     * 例
 
 ```
-20XX年X月X日(土) に実施した Kanazawa.rb meetup XX の写真を公開しました。
+20XX年X月X日(土) に実施した Kanazawa.rb meetup NNN の写真を公開しました。
 次回は 20XX年X月X日(土) を予定しています。
 
-※30days 様のご厚意により pro アカウントを優待いただいております
+※SUZURIアルバム様のご厚意により pro アカウントを優待いただいております
 
 #kzrb
 
-http://30d.jp/kzrb/XX
+http://30d.jp/kzrb/NNN
 ```
 
 3. レポートページ
     * 例
 
 ```
-20XX年X月X日(土) に実施した Kanazawa.rb meetup XX のレポートを公開しました。
+20XX年X月X日(土) に実施した Kanazawa.rb meetup NNN のレポートを公開しました。
 次回は 20XX年X月X日(土) を予定しています。
 
 #kzrb
 
-https://meetup.kzrb.org/XX/report.html
+https://meetup.kzrb.org/NNN/report.html
 ```
 
 ### ruby-jp slack での告知について
@@ -100,9 +100,9 @@ https://meetup.kzrb.org/XX/report.html
 * 例
 
 ```
-先日 20XX年X月X日(土) に実施した Kanazawa.rb meetup XX のレポートをまとめました。
-ツイートまとめ: https://togetter.com/li/XXX
-アルバム: http://30d.jp/kzrb/XX
-レポート: https://meetup.kzrb.org/XX/report.html
+先日 20XX年X月X日(土) に実施した Kanazawa.rb meetup NNN のレポートをまとめました。
+Xポストまとめ: https://posfie.com/XXX
+アルバム: http://30d.jp/kzrb/XXX
+レポート: https://meetup.kzrb.org/NNN/report.html
 ```
 
