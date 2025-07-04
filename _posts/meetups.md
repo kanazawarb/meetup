@@ -12,6 +12,15 @@ description: "開催した Meetup のレポートです"
 
 <ul>
   <li class="meetup__card">
+    <a href="/155" class="meetup__link">Meetup#155
+      <span class="meetup__date text-grey-dk-000">2025-07-19 (Sat)</span>
+      <p class="meetup__description text-grey-dk-300">
+        意識高いもくもく会 - オンライン
+      </p>
+    </a>
+  </li>
+
+  <li class="meetup__card">
     <a href="/154" class="meetup__link">Meetup#154
       <span class="meetup__date text-grey-dk-000">2025-06-21 (Sat)</span>
       <p class="meetup__description text-grey-dk-300">
