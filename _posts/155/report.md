@@ -3,7 +3,7 @@
 layout: report
 title: "Meetup #155 report"
 nav_exclude: true
-published: false
+published: true
 number: 155
 #next: true
 prev: true
