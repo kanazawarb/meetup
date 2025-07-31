@@ -38,11 +38,9 @@ is_event_open_or_closed="closed"の時にreport.mdがあればレポートペー
 
 また、13周年のノベルティグッズとして「ロゴ入り眼鏡拭き」をご用意しています。
 
-<!--
 <div style="text-align:center">
-<img src="https://meetup.kzrb.org/144/towel.jpg" style="width: 320px">
+<img src="https://meetup.kzrb.org/156/cloth.jpg" style="width: 320px">
 </div>
--->
 
 参加者全員にお配りしますので、是非一緒にこの記念をお祝いしてください！
 
