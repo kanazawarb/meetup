@@ -105,6 +105,27 @@ Tシャツはいくつかのカラーバリエーションがあり、サイズ�
 | 開場                              | 13:00 |      |                                                         |
 | オープニング＆発表順決定          | 13:15 | 30m  |                                                         |
 | LT 発表                           |       |      |                                                         |
+| 100日チャレンジの記録 | | | t.miyakawa244 |
+| 俺の将来について | | | YAMADA Hirotaka |
+| ノンアルコールビールに関する独自研究 | | | yuki |
+| Ruby de Railway Oriented Programming | | | wtnabe |
+| 休憩 | | | |
+| ローカルLLM入門してみた | | | bohemian916 |
+| 人魚とたわむれる１ | | | muryoimpl |
+| 自己紹介 | | | kino |
+| 俺と議事録エイアイ -俺の言葉が議事録にのるまでがんばる- | | | PharaohKJ|ふぁらお加藤 |
+| 休憩 | | | |
+| 生成AIトライアルと向き合う | | | matsuken |
+| Claude Codeと共に構成図を作る | | | takayukiatkwsk |
+| ヨシケイの取り忘れ対策したPart2 | | | cotton |
+| 人魚と戯れる２ | | | muryoimpl |
+| 休憩 | | | |
+| ベストプラクティスの実践しにくさ | | | Hiroto Sasagawa |
+| （一周回って）AIブラウザってなんだ | | | kiyohara |
+| How We All Use Ruby - SF Ruby Meetupのその後 | | | keiko713 |
+| バックエンドを切り替えつつ設定を集約して書きたい - Bindanのススメ - | | | wtnabe |
+| 休憩 | | | |
+| そのオブジェクト、何を保証してくれますか？ - GuideRailのススメ - | | | wtnabe |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
