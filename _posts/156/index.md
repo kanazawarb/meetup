@@ -21,7 +21,7 @@ prev: true
 is_event_open_or_closed="closed"の時にreport.mdがあればレポートページのリンクが表示される
 -->
 
-{% include event_links.html is_event_open_or_closed="open" doorkeeper_url="https://kzrb.doorkeeper.jp/events/186805" %}
+{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/186805" %}
 
 # Meetup #156
 
