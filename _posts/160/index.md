@@ -148,7 +148,7 @@ Gist 用のテンプレートも用意しました。fork して書き換える�
 以下のように懇親会を予定しています。
 
 * 会場 : ぱぱろく（PaPaROKU）武蔵店
-  * [食べログ](https://tabelog.com/ishikawa/A1701/A170101/17000552/)
+  * [Google Map](https://maps.app.goo.gl/Uj53x2J63itQwMNP6)
 * 会費 : 5,000円
   * 飲み放題込みの価格です
   * あくまで目安であり前後する可能性があります
