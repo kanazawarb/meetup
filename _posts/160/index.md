@@ -99,6 +99,9 @@ is_event_open_or_closed="closed"の時にreport.mdがあればレポートペー
 | 休憩 | | | |
 | 北陸Ruby会議ロゴデザインこぼれ話 | | | ichigami |
 | 最先端のネットワークカメラが 凄そうな件 | | | bohemian916 |
+| モバイルAIコーディング環境をつくる | | | junya-shimazu |
+| OpenAPIのresponse schema を強制する | | | muryoimpl |
+| 休憩 | | | |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
