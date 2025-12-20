@@ -101,7 +101,14 @@ is_event_open_or_closed="closed"の時にreport.mdがあればレポートペー
 | 最先端のネットワークカメラが 凄そうな件 | | | bohemian916 |
 | モバイルAIコーディング環境をつくる | | | junya-shimazu |
 | OpenAPIのresponse schema を強制する | | | muryoimpl |
+| YARD + sordでRBSを生成する | | | wtnabe |
+| 自身の成長と後輩の育成に挑戦した話 | | | sudo |
+| 俺と温度2 | | | bohemian916 |
+| 俺と議事録エイアイ rev2 | | | PharaohKJ|ふぁらお加藤 |
 | 休憩 | | | |
+| Rails8.1.1 X Claude Code ~MCPで守り、Projetsで導き、RSpecで縛る開発 | | | t.miyakawa244 |
+| AI開発標準策定の失敗から学ぶ不確実性があるタスクを推進する技術 | | | kazuto.hirao.1073 |
+| 日本語入力だけ大西配列にしてみた | | | yamato170402 |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
