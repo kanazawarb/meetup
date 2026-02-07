@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: "Meetup #161"
+title: "Meetup #162"
 nav_exclude: true
 published: true
-number: 161
-next: true
+number: 162
+#next: true
 prev: true
 
 ---
@@ -21,9 +21,9 @@ prev: true
 is_event_open_or_closed="closed"の時にreport.mdがあればレポートページのリンクが表示される
 -->
 
-{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/194114" %}
+{% include event_links.html is_event_open_or_closed="open" doorkeeper_url="https://kzrb.doorkeeper.jp/events/195091" %}
 
-# Meetup #161
+# Meetup #162
 
 ## 意識高いもくもく会
 
@@ -33,7 +33,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2026年01月17日(土) 13:00 - 17:00 |
+| **日時**   | 2026年02月21日(土) 13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -51,7 +51,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup161` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup162` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
@@ -64,8 +64,6 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 | 開場                              | 13:00 |      |                                                         |
 | 自己紹介＆目標発表                | 13:15 | 15m  |                                                         |
 | 各自で何かする自由な時間          | 13:30 |      | みんな                                                  |
-| LT「マリオカートのスコア自動集計ツールを作ってみた」 | 16:00 | 5m | @tonto |
-| LT「ChatGPTの言いなりになってみた 2026」 | 16:05 | 5m | @sat |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 目標達成度発表                    | 16:40 | 15m  | みんな                                                  |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
