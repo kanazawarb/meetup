@@ -6,8 +6,8 @@ permalink: /
 ---
 <div>
   <p class="d-inline-block label label-red ml-0">注目</p>
-  <a href="/163" class="home__latest-meetup-link">
-    最新の Meetup#163 はこちらへ
+  <a href="/164" class="home__latest-meetup-link">
+    最新の Meetup#164 はこちらへ
   </a>
 </div>
 
