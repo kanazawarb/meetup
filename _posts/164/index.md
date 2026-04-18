@@ -78,6 +78,23 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | LT 発表                           |       |      |                                                         |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
+| 俺の最つよMacBook Pro | | | YAMADA Hirotaka |
+| Goにはまってこうなった話.next | | | "ono" |
+| No UI…（遠い目） | | | ichigami |
+| 共同創業者を辞めて、AIと2時間で『自分のためのアプリ』を設計した話 | | | t.miyakawa244 |
+| 休憩 | | | |
+| 仕事が情報整理になった | | | kazuto.hirao.1073 |
+| 2026年度頑張りたいこと | | | tonto |
+| Claude Code で生成した neovim plugin で徒然なるメモをとっている話 | | | muryoimpl |
+| 休憩 | | | |
+| 自分用趣味Webアプリを育てている話 | | | takayukiatkwsk |
+| 自己紹介など | | | takamori |
+| 俺と2026年度カンファレンス | | | PharaohKJ|ふぁらお加藤 |
+| AIエディタと随伴プログラミングよもやま No.1 | | | kiyohara |
+| 休憩 | | | |
+| A・Iが止まらない | | | satoru.takeuchi |
+| N番煎じの株式売買プランナーを作ってみた | | | cotton |
+| 漫談1 | | | muryoimpl |
 
 **Meetup #164では、全員が LT でなにか発表することを目標にしています！どんな内容でもよいので、是非なにかひとつテーマを持って来てください。**
 
