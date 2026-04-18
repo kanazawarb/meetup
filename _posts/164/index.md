@@ -95,6 +95,19 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | A・Iが止まらない | | | satoru.takeuchi |
 | N番煎じの株式売買プランナーを作ってみた | | | cotton |
 | 漫談1 | | | muryoimpl |
+| "恥ずかしながらAI で事故った話" | | | "ono" |
+| セマンティックジャナイバージョニング | | | satoru.takeuchi |
+| 休憩 | | | |
+| Cloudflare Accessで実現するCloudflare Workers認証 | | | takayukiatkwsk |
+| 俺と血糖値2026年1月 | | | PharaohKJ|ふぁらお加藤 |
+| 2026年度頑張りたいこと(今度こそ) | | | tonto |
+| Remotion… | | | ichigami |
+| 休憩 | | | |
+| AIにぶん投げたい | | | kazuto.hirao.1073 |
+| Railsで作ったCMSを見てくれ | | | t.miyakawa244 |
+| AIエディタと随伴プログラミングよもやま No.2 | | | kiyohara |
+| データ分析は『運用』でした | | | yoshioka440 |
+| 休憩 | | | |
 
 **Meetup #164では、全員が LT でなにか発表することを目標にしています！どんな内容でもよいので、是非なにかひとつテーマを持って来てください。**
 
