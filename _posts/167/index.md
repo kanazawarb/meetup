@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title: "Meetup #166"
+title: "Meetup #167"
 nav_exclude: true
 published: true
-number: 166
-next: true
+number: 167
+#next: true
 prev: true
 
 ---
@@ -21,9 +21,9 @@ prev: true
 is_event_open_or_closed="closed"の時にreport.mdがあればレポートページのリンクが表示される
 -->
 
-{% include event_links.html is_event_open_or_closed="closed" doorkeeper_url="https://kzrb.doorkeeper.jp/events/197566" %}
+{% include event_links.html is_event_open_or_closed="open" doorkeeper_url="https://kzrb.doorkeeper.jp/events/198122" %}
 
-# Meetup #166
+# Meetup #167
 
 ## 意識高いもくもく会
 
@@ -33,7 +33,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 * 内容はRubyじゃなくてもいい
 * 「もくもく」してなくてもいい
 
-| **日時**   | 2026年06月20日(土) 13:00 - 17:00 |
+| **日時**   |  13:00 - 17:00 |
 | **会場**   | **オンライン開催** |
 | **参加費** | 無料 |
 
@@ -51,7 +51,7 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 
 * Zoom と同時にテキストチャットルームも活用します。
     * 発表に対するフィードバックや URL の共有等に利用します。
-    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup166` チャネルにご参加ください。
+    * Slack というサービスの [Kanazawa.rb 用ワークスペース内](https://kzrb.slack.com/) にある `#meetup167` チャネルにご参加ください。
     * アカウントの新規発行をご希望の方は [こちら](https://join.slack.com/t/kzrb/shared_invite/zt-1f4tcvoud-w5whpsFrRpFyFHisVpyMCA) から登録ください。
     * Slack はイベントを補助するものであり、本 meetup への参加に Slack 登録は必須ではありません。
 
@@ -64,9 +64,6 @@ Kanazawa.rbの意識高いもくもく会には以下のような特徴があり
 | 開場                              | 13:00 |      |                                                         |
 | 自己紹介＆目標発表                | 13:15 | 15m  |                                                         |
 | 各自で何かする自由な時間          | 13:30 |      | みんな                                                  |
-| LT発表 | 15:30 | | |
-| 技術の進歩で執筆中の本が陳腐化する恐怖 | | | sat |
-| 読しるべ app を作成しました | | | miyakawa2449 |
 | 運営ブレスト                      | 16:10 | 30m  | 有志                                                    |
 | 目標達成度発表                    | 16:40 | 15m  | みんな                                                  |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
