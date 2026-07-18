@@ -1,0 +1,202 @@
+name: Add Slack archive
+
+# レポート PR がマージされたら、対応する Slack チャネルのログを静的アーカイブと
+# して取り込む PR を作成する。
+# 手動実行 (workflow_dispatch) は失敗時のリトライと過去回の追加取り込みに使う。
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - master
+  workflow_dispatch:
+    inputs:
+      meetup_number:
+        description: 'アーカイブを作成する meetup の番号 (例: 166)'
+        required: true
+
+# 自動起動と手動実行が重なると、双方が「PR は開いていない」と判断して同じブランチへ
+# force push し合う。実行は月 1 回程度なので、待たせて直列化するだけでよい。
+# 途中で cancel するとブランチだけ push されて PR が無い状態が残るため打ち切らない。
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  SLAPEX_VERSION: v1.2.0
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true
+    outputs:
+      number: ${{ steps.target.outputs.number }}
+      from: ${{ steps.range.outputs.from }}
+      to: ${{ steps.range.outputs.to }}
+      event_date: ${{ steps.range.outputs.event_date }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: 対象の meetup 番号を決定する
+        id: target
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_NUMBER: ${{ inputs.meetup_number }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          set -euo pipefail
+
+          if [ "${EVENT_NAME}" = "workflow_dispatch" ]; then
+            number="${INPUT_NUMBER}"
+          else
+            # レポート PR は前号の report.md も変更するため、新規追加されたものだけを対象にする
+            number="$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/files" --paginate \
+              --jq '.[] | select(.status == "added") | .filename' \
+              | sed -n 's|^_posts/\([0-9]\{1,\}\)/report\.md$|\1|p')"
+          fi
+
+          if [ -z "${number}" ]; then
+            echo "report.md の新規追加が無いためスキップします"
+            exit 0
+          fi
+          if [ "$(printf '%s\n' "${number}" | wc -l)" -ne 1 ]; then
+            echo "対象の meetup 番号を一意に決められません: ${number}" >&2
+            exit 1
+          fi
+          case "${number}" in
+            *[!0-9]* | '') echo "meetup 番号が数値ではありません: ${number}" >&2; exit 1 ;;
+          esac
+
+          if [ -d "_posts/${number}/slack_archive" ]; then
+            echo "_posts/${number}/slack_archive は既に存在するためスキップします"
+            exit 0
+          fi
+          # 手動再実行で、レビュー中の PR に積まれた修正 commit を force push で消さないようにする
+          if [ -n "$(gh pr list --head "add_slack_archive${number}" --state open --json number --jq '.[].number')" ]; then
+            echo "add_slack_archive${number} の PR が既に開いているためスキップします"
+            exit 0
+          fi
+          if [ ! -f "_posts/${number}/index.md" ]; then
+            echo "_posts/${number}/index.md がありません" >&2
+            exit 1
+          fi
+          if [ ! -f "_posts/${number}/report.md" ]; then
+            echo "_posts/${number}/report.md がありません" >&2
+            exit 1
+          fi
+
+          echo "number=${number}" >> "$GITHUB_OUTPUT"
+
+      - name: 取得範囲を組み立てる
+        id: range
+        if: steps.target.outputs.number != ''
+        run: |
+          set -euo pipefail
+          ruby .github/scripts/event_date.rb \
+            "_posts/${{ steps.target.outputs.number }}/index.md" >> "$GITHUB_OUTPUT"
+
+  archive:
+    needs: detect
+    if: needs.detect.outputs.number != ''
+    runs-on: ubuntu-latest
+    env:
+      NUMBER: ${{ needs.detect.outputs.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: slapex をインストールする
+        env:
+          SLAPEX_BIN_DIR: ${{ runner.temp }}/bin
+        run: |
+          set -euo pipefail
+          mkdir -p "${SLAPEX_BIN_DIR}"
+          # install script も binary と同じ tag から取得し、main の変更に影響されないようにする。
+          # binary 自体の checksum 検証は install script が行う
+          curl -fsSL "https://raw.githubusercontent.com/kiyohara/slapex/${SLAPEX_VERSION}/scripts/install.sh" | sh
+          echo "${SLAPEX_BIN_DIR}" >> "$GITHUB_PATH"
+
+      - name: Slack ログを取得する
+        id: export
+        env:
+          # slapex が読む環境変数名は SLACK_TOKEN 固定。secret 側は他の Slack bot の
+          # token と区別できるよう slapex 用と分かる名前にしている
+          SLACK_TOKEN: ${{ secrets.SLAPEX_SLACK_TOKEN }}
+          FROM: ${{ needs.detect.outputs.from }}
+          TO: ${{ needs.detect.outputs.to }}
+        run: |
+          set -euo pipefail
+          # 成功時、slapex は出力ディレクトリの絶対 path を stdout に 1 行だけ出す
+          dir="$(slapex "meetup${NUMBER}" \
+            --no-interactive \
+            --from "${FROM}" \
+            --to "${TO}" \
+            --exclude-body-emoji shushing_face,speak_no_evil \
+            --exclude-reaction-emoji shushing_face,speak_no_evil \
+            --max-attachment-size 2MB \
+            --output "${RUNNER_TEMP}/slapex")"
+          echo "dir=${dir}" >> "$GITHUB_OUTPUT"
+
+      - name: アーカイブを配置する
+        env:
+          EXPORT_DIR: ${{ steps.export.outputs.dir }}
+        run: |
+          set -euo pipefail
+          dest="_posts/${NUMBER}/slack_archive"
+          mkdir -p "${dest}"
+          # .cache/ は slapex の中間ファイルなので取り込まない
+          rsync -a --exclude '.cache' "${EXPORT_DIR}/" "${dest}/"
+
+      - name: report.md にリンクを追加する
+        run: ruby .github/scripts/insert_slack_log_section.rb "_posts/${NUMBER}/report.md" "${NUMBER}"
+
+      - name: PR を作成する
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_DATE: ${{ needs.detect.outputs.event_date }}
+          FROM: ${{ needs.detect.outputs.from }}
+          TO: ${{ needs.detect.outputs.to }}
+        run: |
+          set -euo pipefail
+          branch="add_slack_archive${NUMBER}"
+
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git switch -c "${branch}"
+          git add "_posts/${NUMBER}/slack_archive" "_posts/${NUMBER}/report.md"
+          git commit -m "add slack archive for meetup${NUMBER}"
+          # 開いている PR が無いことは detect job で確認済みなので、残骸ブランチは上書きしてよい
+          git push --force origin "${branch}"
+
+          cat > "${RUNNER_TEMP}/pr-body.md" <<EOF
+          ## Summary
+
+          - meetup${NUMBER} の Slack \`#meetup${NUMBER}\` チャンネルのログを、自己完結型の静的アーカイブ (\`_posts/${NUMBER}/slack_archive/\`) として追加
+          - front matter を持たない生 HTML なので Jekyll は静的ファイルとしてそのままコピーし、\`/${NUMBER}/slack_archive/\` で単独ページとして閲覧可能
+          - report ページ (\`/${NUMBER}/report\`) の「Slack ログ」セクションから \`target="_blank"\` で別ウィンドウで開くリンクを設置
+
+          ## 取得条件
+
+          - 開催日: ${EVENT_DATE} (前日・当日・翌日の 3 日間)
+          - 取得範囲: \`${FROM}\` 以上 \`${TO}\` 未満
+          - 除外: 本文またはリアクションに \`:shushing_face:\` / \`:speak_no_evil:\` を含む投稿
+          - 添付ファイルの保存上限: 2MB
+
+          ## レビュー時の確認事項
+
+          - [ ] Zoom URL などの非公開情報が含まれていないか
+          - [ ] 公開したくない投稿が残っていないか (残っている場合は追加 commit で除外)
+          - [ ] \`/${NUMBER}/report\` の「Slack ログ」リンクからアーカイブが開くか
+          EOF
+
+          gh pr create --base master --head "${branch}" \
+            --title "add slack archive for meetup${NUMBER}" \
+            --body-file "${RUNNER_TEMP}/pr-body.md"
