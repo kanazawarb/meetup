@@ -25,6 +25,10 @@ prev: true
 * 今週のレトロスペクティブをやっている最中に誤って画面遷移しちゃって入力がすべて消えた そうならないようにレトロスペクティブ画面を直している。
 * App Store Connect の審査が先ほど通りました。アプリ公表ってやること多くてたいへんだけど、楽しい
 
+## Slack ログ
+
+* <a href="/166/slack_archive/" target="_blank" rel="noopener">#meetup166 チャンネルのログ（別ウィンドウで開きます）</a>
+
 ## 運営ブレストログ
 
 * [meetup 166 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-166-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
