@@ -15,6 +15,13 @@ on:
         description: 'アーカイブを作成する meetup の番号 (例: 166)'
         required: true
 
+# 自動起動と手動実行が重なると、双方が「PR は開いていない」と判断して同じブランチへ
+# force push し合う。実行は月 1 回程度なので、待たせて直列化するだけでよい。
+# 途中で cancel するとブランチだけ push されて PR が無い状態が残るため打ち切らない。
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pull-requests: write
@@ -112,7 +119,9 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p "${SLAPEX_BIN_DIR}"
-          curl -fsSL https://raw.githubusercontent.com/kiyohara/slapex/main/scripts/install.sh | sh
+          # install script も binary と同じ tag から取得し、main の変更に影響されないようにする。
+          # binary 自体の checksum 検証は install script が行う
+          curl -fsSL "https://raw.githubusercontent.com/kiyohara/slapex/${SLAPEX_VERSION}/scripts/install.sh" | sh
           echo "${SLAPEX_BIN_DIR}" >> "$GITHUB_PATH"
 
       - name: Slack ログを取得する
