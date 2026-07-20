@@ -28,6 +28,10 @@ permissions:
 
 env:
   SLAPEX_VERSION: v1.2.0
+  # slapex は投稿時刻を実行環境の local timezone で描画する。runner は UTC のため、
+  # 指定しないとログの時刻が JST から 9 時間ずれる。
+  # 取得範囲は --from/--to に明示 offset を渡しているので TZ には依存しない
+  TZ: Asia/Tokyo
 
 jobs:
   detect:
