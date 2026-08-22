@@ -112,6 +112,13 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | 令和キッズの夏休みの自由研究 | | | satoru.takeuchi |
 | 父さんな、YouTube やめて Twitch で食っていこうと思ってるんだ。 | | | RyuseiNomi |
 | App Store 審査、通るまでにやったこと全部 | | | t.miyakawa244 |
+| 金沢のクラフトビア事情 | | | keiko713 |
+| 休憩 | | | |
+| 発表スライドをいろんな agent に作らせた話 | | | kiyohara |
+| プロダクトデザイン（デジタル）においてAIが得意なこと・人間が得意なこと | | | ichigami |
+| 俺とHOTEI FES | | | satoru.takeuchi |
+| 死と再生のエンジニアリング | | | t.miyakawa244 |
+| 休憩 | | | |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
