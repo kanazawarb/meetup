@@ -102,6 +102,16 @@ X(旧Twitter) 上で表明してもらえると助かります。
 | ビジュアルデザインと生成AI | | | ichigami |
 | 電子線香で老人を救え | | | izawa |
 | チキチキ！三ヶ月 AI 生活チャレンジ！ | | | RyuseiNomi |
+| rvって使ってる？ | | | wtnabe |
+| 休憩 | | | |
+| 1Password 認証を MCP の起動単位にする | | | kiyohara |
+| 初めての小さなOSSコントリビュート | | | ToYama |
+| 日々に色をつけるツールたち 最近編 | | | muryoimpl |
+| 起きたらCI全滅! | | | satoru.takeuchi |
+| 休憩 | | | |
+| 令和キッズの夏休みの自由研究 | | | satoru.takeuchi |
+| 父さんな、YouTube やめて Twitch で食っていこうと思ってるんだ。 | | | RyuseiNomi |
+| App Store 審査、通るまでにやったこと全部 | | | t.miyakawa244 |
 | 運営ブレスト                      | 16:25 | 30m  | 有志                                                    |
 | 片付け＆撤収                      | 16:55 | 5m   | みんな                                                  |
 
