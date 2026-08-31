@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">slapex logo</title>
+  <desc id="desc">A rounded square app icon with a pale blue background, gradient message rows, and small endpoint dots.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="132" y1="96" x2="892" y2="928" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FBFF"/>
+      <stop offset="0.46" stop-color="#EEF7FF"/>
+      <stop offset="1" stop-color="#E5F1FB"/>
+    </linearGradient>
+
+    <linearGradient id="mark" x1="252" y1="274" x2="770" y2="746" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5967F0"/>
+      <stop offset="1" stop-color="#A7ABF4"/>
+    </linearGradient>
+
+    <linearGradient id="markStrong" x1="250" y1="260" x2="450" y2="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5866EF"/>
+      <stop offset="1" stop-color="#858BEE"/>
+    </linearGradient>
+  </defs>
+
+  <rect
+    x="96"
+    y="96"
+    width="832"
+    height="832"
+    rx="156"
+    fill="url(#bg)"
+    stroke="#EDF1F7"
+    stroke-width="10"
+  />
+
+  <g fill="url(#mark)">
+    <circle cx="304" cy="322" r="72" fill="url(#markStrong)"/>
+    <rect x="458" y="294" width="284" height="56" rx="28"/>
+    <circle cx="806" cy="322" r="31"/>
+
+    <circle cx="304" cy="512" r="72" fill="url(#markStrong)"/>
+    <rect x="458" y="484" width="236" height="56" rx="28"/>
+    <circle cx="806" cy="512" r="31"/>
+
+    <circle cx="304" cy="702" r="72" fill="url(#markStrong)"/>
+    <rect x="458" y="674" width="178" height="56" rx="28"/>
+    <circle cx="806" cy="702" r="31"/>
+  </g>
+</svg>
