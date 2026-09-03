@@ -36,6 +36,10 @@ prev: true
 * なぜAI生成画像は嫌われるのか？ [[YouTube]](https://www.youtube.com/watch?v=PULWk8a98iA)
 * 技術者イベントで話したこと [[URL]](https://miyakawa2449.github.io/kzrb168/)
 
+## Slack ログ
+
+* <a href="/168/slack_archive/" target="_blank" rel="noopener">#meetup168 チャンネルのログ（別ウィンドウで開きます）</a>
+
 ## まとめ
 
 * [Kanazawa.rb meetup 168 - SUZURIアルバム](https://30d.jp/kzrb/157)
