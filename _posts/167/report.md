@@ -25,6 +25,10 @@ prev: true
 * 東京駅の新幹線ホームで見たポスター
   AI生成のもの最近よく見ますね
 
+## Slack ログ
+
+* <a href="/167/slack_archive/" target="_blank" rel="noopener">#meetup167 チャンネルのログ（別ウィンドウで開きます）</a>
+
 ## 運営ブレストログ
 
 * [meetup 167 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-167-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
