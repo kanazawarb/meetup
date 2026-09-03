@@ -165,6 +165,20 @@ body {
 .message-main { flex: 1; min-width: 0; }
 .message-head { display: flex; align-items: baseline; gap: 8px; }
 .author { font-weight: 900; }
+/* Slack's APP badge next to the author name of a bot / app post
+   (doc/design/html-rendering.md, decision log 0054). .message-head is a flex
+   row with gap: 8px, so the chip needs no margin of its own. */
+.badge-app {
+  flex: none;
+  padding: 0 4px;
+  border-radius: 3px;
+  background: var(--line);
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 14px;
+  text-transform: uppercase;
+}
 .time {
   flex: none;
   color: var(--muted);
