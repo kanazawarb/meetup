@@ -24,6 +24,10 @@ prev: true
 * 写真現像ソフトのdarktable、GUIがちょっといまいちなので、Lightroomプランの継続を考えてしまう…（年間プランで約1万2千円）
 * 写真のRAW（DNG）ファイルから、レンズの歪みを補正をして出力できるシェルができました。
 
+## Slack ログ
+
+* <a href="/169/slack_archive/" target="_blank" rel="noopener">#meetup169 チャンネルのログ（別ウィンドウで開きます）</a>
+
 ## 運営ブレストログ
 
 * [meetup 169 運用ブレストログ](https://github.com/kanazawarb/meetup/wiki/meetup-169-%E9%81%8B%E7%94%A8%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B0)
