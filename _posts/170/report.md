@@ -24,6 +24,10 @@ prev: true
 * Kanazawa.rb 運営まわりの作業（運営協力者向け設定の更新、広報サポートの相談、12 月の施設料支払いの準備）
 * 次回は 11/14（土）の北陸Ruby会議とは別に、11/21（土）にオンラインもくもく会を開催
 
+## Slack ログ
+
+* <a href="/170/slack_archive/" target="_blank" rel="noopener">#meetup170 チャンネルのログ（別ウィンドウで開きます）</a>
+
 ## まとめ
 
 * [Kanazawa.rb meetup 170 - SUZURIアルバム](https://30d.jp/kzrb/159)
