@@ -23,6 +23,7 @@
   --thread-avatar-bg: #7c3085;
   --thread-avatar-fg: #ffffff;
   --thread-avatar-more-bg: rgba(29, 28, 29, 0.72);
+  --thread-unopened-dot: #e01e5a;
 }
 
 * { box-sizing: border-box; }
@@ -197,6 +198,18 @@ body {
   border-radius: 3px;
   padding: 0 2px;
 }
+/* "Sent using <app>" footer: a quiet line under the body, like Slack's context text */
+.message-footer {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+.message-footer .mention {
+  color: inherit;
+  background: none;
+  padding: 0;
+}
 
 code {
   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
@@ -370,6 +383,26 @@ img.emoji {
   outline-offset: 2px;
 }
 .thread-label-count { color: var(--thread-summary-fg); }
+/* Red dot for a thread not opened yet in this page view. Opening the
+   thread hides it at once; closing it again starts a transition back to
+   visible whose delay is far longer than anyone keeps the page open, so
+   the dot stays hidden until the page is reloaded. No JavaScript
+   (doc/design/html-rendering.md). */
+.thread-label-count::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 6px;
+  border-radius: 50%;
+  background: var(--thread-unopened-dot);
+  vertical-align: 1px;
+  transition: visibility 0s 1000000s;
+}
+.thread-group[open] .thread-label-count::after {
+  visibility: hidden;
+  transition-delay: 0s;
+}
 .thread-participants {
   display: inline-flex;
   align-items: center;
